@@ -1,0 +1,34 @@
+
+                                   IDF Export
+                                   ----------
+
+                       01:53 PM Wednesday, August 17, 2016
+             Job Name: N:\Mentor\MSH\Georg\KeCo Piezo\PCB\Piezzo.pcb
+
+    Creating IDF 3.0 file.    
+    ----------------------    
+        
+    Warning: Multiple placement outlines found for cell "C1". Generating placement outline with non-zero height.    
+    Warning: Multiple placement outlines found for cell "Q1". Generating placement outline with non-zero height.    
+    Warning: Multiple placement outlines found for cell "R1". Generating placement outline with non-zero height.    
+    Warning: Multiple placement outlines found for cell "U1". Generating placement outline with non-zero height.    
+    Warning: Multiple placement outlines found for cell "C2". Generating placement outline with non-zero height.    
+    Warning: Multiple placement outlines found for cell "P2". Generating placement outline with non-zero height.    
+    Warning: Multiple placement outlines found for cell "Q2". Generating placement outline with non-zero height.    
+    Warning: Multiple placement outlines found for cell "R2". Generating placement outline with non-zero height.    
+    Warning: Multiple placement outlines found for cell "U2". Generating placement outline with non-zero height.    
+    Warning: Multiple placement outlines found for cell "C3". Generating placement outline with non-zero height.    
+    Warning: Multiple placement outlines found for cell "P3". Generating placement outline with non-zero height.    
+    Warning: Multiple placement outlines found for cell "Q3". Generating placement outline with non-zero height.    
+    Warning: Multiple placement outlines found for cell "R3". Generating placement outline with non-zero height.    
+    Warning: Multiple placement outlines found for cell "U3". Generating placement outline with non-zero height.    
+    Warning: Multiple placement outlines found for cell "C4". Generating placement outline with non-zero height.    
+    Warning: Multiple placement outlines found for cell "R4". Generating placement outline with non-zero height.    
+    Warning: Multiple placement outlines found for cell "U4". Generating placement outline with non-zero height.    
+    Warning: Multiple placement outlines found for cell "Q5". Generating placement outline with non-zero height.    
+    Warning: Multiple placement outlines found for cell "R5". Generating placement outline with non-zero height.    
+    Warning: Multiple placement outlines found for cell "R6". Generating placement outline with non-zero height.    
+    Warning: Multiple placement outlines found for cell "R7". Generating placement outline with non-zero height.    
+    Warning: Multiple placement outlines found for cell "R8". Generating placement outline with non-zero height.    
+    Warning: Found jumper "LOETBRUECKE".  Jumpers are not supported.  This component will not be exported.    
+    Successfully created IDF file with 23 warnings.

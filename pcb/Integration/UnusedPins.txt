@@ -1,0 +1,22 @@
+
+Schematic unused pins from : Packager  2-Dec-2016  14:25
+
+------------------------------------------------------------------------
+            Part/Reference             |          Unused pins
+                                       |  (G) - Gate, (P) - Partial Gate
+------------------------------------------------------------------------
+ Part BR-LOETBRUECKE                   |
+ Part C-100N-CAPC1608                  |
+ Part P-WRAP3x2                        |
+ Part P-WRAP6                          |
+ Part Q-BC848-SOT23                    |
+ Part Q-BSC050N003-LS-TSDSON-8         |
+ Part R-SMP-R050-1-2010                |
+ Part R-0R00-RESC1608                  |
+ Part R-10K0-RESC1608                  |
+ Part R-33K2-RESC1608                  |
+ Part TP-SMD-6,0x4,0                   |
+ Part U-ATTINY-SOIC14                  |
+  U1                                   | (P)  3 10
+ Part U-INA219AIDCNR-SOT23             |
+ Part U-TS78L05-SOT23                  |

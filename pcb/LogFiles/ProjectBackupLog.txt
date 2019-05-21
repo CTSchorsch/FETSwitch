@@ -1,0 +1,66 @@
+[2016-07-04 19.50.03] -------------------- CREATE --------------------
+[2016-07-04 19.50.03] Creating Project Backup infrastructure for project [N:\Mentor\MSH\Georg\Piezzo\Piezzo.prj].
+[2016-07-04 19.50.03] Successfully created [AutoSave] backup [2016-07-04 19.50.03 - auto.zip] requested by [ZELTSR:g.schardt].
+[2016-07-04 23.50.03] Successfully created [AutoSave] backup [2016-07-04 23.50.03 - auto.zip] requested by [ZELTSR:g.schardt].
+[2016-07-05 15.33.00] Successfully created [AutoSave] backup [2016-07-05 15.32.59 - auto.zip] requested by [ZELTSR:g.schardt].
+[2016-07-06 08.57.20] Successfully created [AutoSave] backup [2016-07-06 08.57.20 - auto.zip] requested by [ZELTSR:g.schardt].
+[2016-07-06 08.57.20] Removing excessive [AutoSave] backup file [N:\Mentor\MSH\Georg\Piezzo\ProjectBackup\backups\2016-07-04 19.50.03 - auto.zip].
+[2016-07-06 08.57.20] [AutoSave] backup file [Piezzo\ProjectBackup\backups\2016-07-04 19.50.03 - auto.zip] removed.
+[2016-07-11 15.44.21] Successfully created [AutoSave] backup [2016-07-11 15.44.20 - auto.zip] requested by [ZELTSR:g.schardt].
+[2016-07-11 15.44.21] Removing excessive [AutoSave] backup file [N:\Mentor\MSH\Georg\Piezzo\ProjectBackup\backups\2016-07-04 23.50.03 - auto.zip].
+[2016-07-11 15.44.21] [AutoSave] backup file [Piezzo\ProjectBackup\backups\2016-07-04 23.50.03 - auto.zip] removed.
+[2016-07-13 20.27.16] Successfully created [AutoSave] backup [2016-07-13 20.27.15 - auto.zip] requested by [ZELTSR:g.schardt].
+[2016-07-13 20.27.16] Removing excessive [AutoSave] backup file [N:\Mentor\MSH\Georg\Piezzo\ProjectBackup\backups\2016-07-05 15.32.59 - auto.zip].
+[2016-07-13 20.27.16] [AutoSave] backup file [Piezzo\ProjectBackup\backups\2016-07-05 15.32.59 - auto.zip] removed.
+[2016-07-14 00.27.16] Successfully created [AutoSave] backup [2016-07-14 00.27.15 - auto.zip] requested by [ZELTSR:g.schardt].
+[2016-07-14 00.27.16] Removing excessive [AutoSave] backup file [N:\Mentor\MSH\Georg\Piezzo\ProjectBackup\backups\2016-07-06 08.57.20 - auto.zip].
+[2016-07-14 00.27.16] [AutoSave] backup file [Piezzo\ProjectBackup\backups\2016-07-06 08.57.20 - auto.zip] removed.
+[2016-07-14 12.42.38] Successfully created [AutoSave] backup [2016-07-14 12.42.37 - auto.zip] requested by [ZELTSR:g.schardt].
+[2016-07-14 12.42.38] Removing excessive [AutoSave] backup file [N:\Mentor\MSH\Georg\Piezzo\ProjectBackup\backups\2016-07-11 15.44.20 - auto.zip].
+[2016-07-14 12.42.38] [AutoSave] backup file [Piezzo\ProjectBackup\backups\2016-07-11 15.44.20 - auto.zip] removed.
+[2016-07-14 18.32.46] Successfully created [AutoSave] backup [2016-07-14 18.32.45 - auto.zip] requested by [ZELTSR:g.schardt].
+[2016-07-14 18.32.46] Removing excessive [AutoSave] backup file [N:\Mentor\MSH\Georg\Piezzo\ProjectBackup\backups\2016-07-13 20.27.15 - auto.zip].
+[2016-07-14 18.32.46] [AutoSave] backup file [Piezzo\ProjectBackup\backups\2016-07-13 20.27.15 - auto.zip] removed.
+[2016-07-25 10.18.59] Successfully created [AutoSave] backup [2016-07-25 10.18.58 - auto.zip] requested by [ZELTSR:g.schardt].
+[2016-07-25 10.18.59] Removing excessive [AutoSave] backup file [N:\Mentor\MSH\Georg\Piezzo\ProjectBackup\backups\2016-07-14 00.27.15 - auto.zip].
+[2016-07-25 10.18.59] [AutoSave] backup file [Piezzo\ProjectBackup\backups\2016-07-14 00.27.15 - auto.zip] removed.
+[2016-08-01 10.41.54] Successfully created [AutoSave] backup [2016-08-01 10.41.53 - auto.zip] requested by [ZELTSR:g.schardt].
+[2016-08-01 10.41.54] Removing excessive [AutoSave] backup file [N:\Mentor\MSH\Georg\KeCo Piezo\ProjectBackup\backups\2016-07-14 12.42.37 - auto.zip].
+[2016-08-01 10.41.54] [AutoSave] backup file [KeCo Piezo\ProjectBackup\backups\2016-07-14 12.42.37 - auto.zip] removed.
+[2016-08-08 15.31.13] Successfully created [AutoSave] backup [2016-08-08 15.31.12 - auto.zip] requested by [ZELTSR:g.schardt].
+[2016-08-08 15.31.13] Removing excessive [AutoSave] backup file [N:\Mentor\MSH\Georg\KeCo Piezo\ProjectBackup\backups\2016-07-14 18.32.45 - auto.zip].
+[2016-08-08 15.31.13] [AutoSave] backup file [KeCo Piezo\ProjectBackup\backups\2016-07-14 18.32.45 - auto.zip] removed.
+[2016-08-08 19.31.13] Successfully created [AutoSave] backup [2016-08-08 19.31.12 - auto.zip] requested by [ZELTSR:g.schardt].
+[2016-08-08 19.31.13] Removing excessive [AutoSave] backup file [N:\Mentor\MSH\Georg\KeCo Piezo\ProjectBackup\backups\2016-07-25 10.18.58 - auto.zip].
+[2016-08-08 19.31.13] [AutoSave] backup file [KeCo Piezo\ProjectBackup\backups\2016-07-25 10.18.58 - auto.zip] removed.
+[2016-08-09 09.46.01] Successfully created [AutoSave] backup [2016-08-09 09.46.00 - auto.zip] requested by [ZELTSR:g.schardt].
+[2016-08-09 09.46.01] Removing excessive [AutoSave] backup file [N:\Mentor\MSH\Georg\KeCo Piezo\ProjectBackup\backups\2016-08-01 10.41.53 - auto.zip].
+[2016-08-09 09.46.01] [AutoSave] backup file [KeCo Piezo\ProjectBackup\backups\2016-08-01 10.41.53 - auto.zip] removed.
+[2016-08-09 13.46.01] Successfully created [AutoSave] backup [2016-08-09 13.46.00 - auto.zip] requested by [ZELTSR:g.schardt].
+[2016-08-09 13.46.01] Removing excessive [AutoSave] backup file [N:\Mentor\MSH\Georg\KeCo Piezo\ProjectBackup\backups\2016-08-08 15.31.12 - auto.zip].
+[2016-08-09 13.46.01] [AutoSave] backup file [KeCo Piezo\ProjectBackup\backups\2016-08-08 15.31.12 - auto.zip] removed.
+[2016-08-17 08.36.52] Successfully created [AutoSave] backup [2016-08-17 08.36.50 - auto.zip] requested by [ZELTSR:g.schardt].
+[2016-08-17 08.36.52] Removing excessive [AutoSave] backup file [N:\Mentor\MSH\Georg\KeCo Piezo\ProjectBackup\backups\2016-08-08 19.31.12 - auto.zip].
+[2016-08-17 08.36.52] [AutoSave] backup file [KeCo Piezo\ProjectBackup\backups\2016-08-08 19.31.12 - auto.zip] removed.
+[2016-11-28 15.37.13] Successfully created [Constraints Definition Upgrade] backup [2016-11-28 15.37.11 - consDefUpgr.zip] requested by [ZELTSR:g.schardt].
+[2016-11-28 15.37.13] Migrated iCDB content backup file [cdbback\2016-11-28 15.37.10-8116.zip] removed.
+[2016-11-28 16.47.02] Successfully created [AutoSave] backup [2016-11-28 16.47.01 - auto.zip] requested by [ZELTSR:g.schardt].
+[2016-11-28 16.47.02] Removing excessive [AutoSave] backup file [N:\Mentor\MSH\Georg\KeCo Piezo\ProjectBackup\backups\2016-08-09 09.46.00 - auto.zip].
+[2016-11-28 16.47.02] [AutoSave] backup file [KeCo Piezo\ProjectBackup\backups\2016-08-09 09.46.00 - auto.zip] removed.
+[2016-12-02 14.23.10] Successfully created [AutoSave] backup [2016-12-02 14.23.08 - auto.zip] requested by [ZELTSR:g.schardt].
+[2016-12-02 14.23.10] Removing excessive [AutoSave] backup file [N:\Mentor\MSH\Georg\KeCo Piezo\ProjectBackup\backups\2016-08-09 13.46.00 - auto.zip].
+[2016-12-02 14.23.10] [AutoSave] backup file [KeCo Piezo\ProjectBackup\backups\2016-08-09 13.46.00 - auto.zip] removed.
+[2017-02-07 13.26.04] Successfully created [Database Upgrade] backup [2017-02-07 13.26.02 - upgrade.zip] requested by [ZELTSR:g.schardt].
+[2017-02-07 13.26.04] Migrated iCDB content backup file [cdbback\2017-02-07 13.26.00-7480.zip] removed.
+[2017-02-07 13.26.11] Successfully created [AutoSave] backup [2017-02-07 13.26.09 - auto.zip] requested by [ZELTSR:g.schardt].
+[2017-02-07 13.26.11] Removing excessive [AutoSave] backup file [N:\Mentor\MSH\Georg\KeCo Piezo\ProjectBackup\backups\2016-08-17 08.36.50 - auto.zip].
+[2017-02-07 13.26.11] [AutoSave] backup file [KeCo Piezo\ProjectBackup\backups\2016-08-17 08.36.50 - auto.zip] removed.
+[2017-05-10 10.34.23] Successfully created [AutoSave] backup [2017-05-10 10.34.21 - auto.zip] requested by [ZELTSR:g.schardt].
+[2017-05-10 10.34.23] Removing excessive [AutoSave] backup file [N:\Mentor\MSH\Georg\KeCo Piezo\ProjectBackup\backups\2016-11-28 16.47.01 - auto.zip].
+[2017-05-10 10.34.23] [AutoSave] backup file [KeCo Piezo\ProjectBackup\backups\2016-11-28 16.47.01 - auto.zip] removed.
+[2017-05-22 09.19.19] Successfully created [AutoSave] backup [2017-05-22 09.19.17 - auto.zip] requested by [ZELTSR:g.schardt].
+[2017-05-22 09.19.19] Removing excessive [AutoSave] backup file [N:\Mentor\MSH\Georg\KeCo Piezo\ProjectBackup\backups\2016-12-02 14.23.08 - auto.zip].
+[2017-05-22 09.19.19] [AutoSave] backup file [KeCo Piezo\ProjectBackup\backups\2016-12-02 14.23.08 - auto.zip] removed.
+[2019-05-21 10.44.10] Successfully created [AutoSave] backup [2019-05-21 10.44.06 - auto.zip] requested by [ZELTSR:g.schardt].
+[2019-05-21 10.44.10] Removing excessive [AutoSave] backup file [H:\privat\projekte\Heizweste\pcb\ProjectBackup\backups\2017-02-07 13.26.09 - auto.zip].
+[2019-05-21 10.44.10] [AutoSave] backup file [pcb\ProjectBackup\backups\2017-02-07 13.26.09 - auto.zip] removed.

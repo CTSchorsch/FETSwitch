@@ -1,0 +1,205 @@
+[2017.02.07 13:29:59] [0000m.00s.140ms] [0] WELCOME
+[2017.02.07 13:29:59] [0000m.00s.140ms] [1] iCDB Server ver.2.201, Cmm9llE6lp7FMkwXUjF2sA, build:5683207 created 2016-11-13 14:11:10, sources stamp:Cmm9llE6lp7FMkwXUjF2sA
+[2017.02.07 13:29:59] [0000m.00s.140ms] [1] Copyright 2016 Mentor Graphics Corporation.  All Rights Reserved.
+[2017.02.07 13:29:59] [0000m.00s.140ms] [1] Base flow version [VX.2.1]
+[2017.02.07 13:29:59] [0000m.00s.140ms] [1] Install Id [1466835], Flow Id [X-ENTP VX.2.1], Full Flow Name [Xpedition Enterprise X-ENTP VX.2.1], Exact Access Date [2016/11/01]
+[2017.02.07 13:29:59] [0000m.00s.156ms] [1] Machine [ZELTSR]  IP [127.0.0.1,134.94.232.117]  User [g.schardt]  PID [1820]
+[2017.02.07 13:29:59] [0000m.00s.156ms] [1] Operating system [Microsoft Standard Edition, 64-bit (build 9200)]
+[2017.02.07 13:29:59] [0000m.00s.156ms] [1] Current working dir [N:\Mentor\MSH\Georg\KeCo Piezo]
+[2017.02.07 13:29:59] [0000m.00s.156ms] [1] PATH [C:\MentorGraphics\EEVX.2.1\SDD_HOME\common\win64\bin;C:\MentorGraphics\EEVX.2.1\SDD_HOME\common\win64\lib;C:\MentorGraphics\EEVX.2.1\MGC_HOME.ixw\bin;C:\MentorGraphics\EEVX.2.1\MGC_HOME.ixw\lib;C:\MentorGraphics\EEVX.2.1\SDD_HOME\wv\win64\bin;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\TortoiseHg\]
+[2017.02.07 13:29:59] [0000m.00s.156ms] [1] SDD_HOME [C:\MentorGraphics\EEVX.2.1\SDD_HOME] on file system [NTFS]
+[2017.02.07 13:29:59] [0000m.00s.156ms] [1] SDD_PLATFORM [win64]
+[2017.02.07 13:29:59] [0000m.00s.156ms] [1] WDIR [C:\Users\g.schardt\wdir\EEVX.2.1;m:\cad_config;C:\MentorGraphics\EEVX.2.1\SDD_HOME\standard;C:\MentorGraphics\EEVX.2.1\SDD_HOME\standard]
+[2017.02.07 13:29:59] [0000m.00s.156ms] [1] Local iCDB working dir [C:\Users\g.schardt\wdir\EEVX.2.1\iCDB] on file system [NTFS]
+[2017.02.07 13:29:59] [0000m.00s.156ms] [1] Corporate iCDB working dir [m:\cad_config\iCDB] on file system [NTFS]
+[2017.02.07 13:29:59] [0000m.00s.156ms] [2] S: Loading config files
+[2017.02.07 13:29:59] [0000m.00s.171ms] [1] Config file [N:\Mentor\MSH\Georg\KeCo Piezo\database\cdbsvr\Server.cfg] not found
+[2017.02.07 13:29:59] [0000m.00s.171ms] [3] S: Config loaded
+[2017.02.07 13:30:00] [0000m.00s.249ms] [0] S: Project path [N:\Mentor\MSH\Georg\KeCo Piezo\database] on file system [NTFS]
+[2017.02.07 13:30:00] [0000m.00s.249ms] [0] S: Project global path [\\zelnts\msh\Mentor\MSH\Georg\KeCo Piezo\database] on file system [NTFS]
+[2017.02.07 13:30:00] [0000m.00s.249ms] [0] S: Project file (.prj) path [\\zelnts\msh\Mentor\MSH\Georg\KeCo Piezo\Piezzo.prj] on file system [UNKNOWN]
+[2017.02.07 13:30:00] [0000m.00s.249ms] [0] S: Project file (.prj) local path [N:\Mentor\MSH\Georg\KeCo Piezo\Piezzo.prj] on file system [NTFS]
+[2017.02.07 13:30:00] [0000m.00s.249ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2017.02.07 13:30:00] [0000m.00s.249ms] [0] S: Single-user mode (auto)
+[2017.02.07 13:30:00] [0000m.00s.249ms] [0] S: Event polling mode autodetection
+[2017.02.07 13:30:00] [0000m.00s.249ms] [0] S: Started up automatically by iCDB Client: ZELTSR:g.schardt:6136
+[2017.02.07 13:30:00] [0000m.00s.249ms] [0] S: Auto close mode
+[2017.02.07 13:30:00] [0000m.00s.249ms] [0] S: Database ID [f5b8-d5bf-0068-5d71-a957-148f-9571-4850-0cc0-6e1e-debe-e506]
+[2017.02.07 13:30:00] [0000m.00s.249ms] [0] PathTranslator: BEGIN dumping
+[2017.02.07 13:30:00] [0000m.00s.249ms] [0] PathTranslator: Local -> global path prefix list
+[2017.02.07 13:30:00] [0000m.00s.249ms] [0] PathTranslator: [G:\] -> [\\zelnts\gloria\]
+[2017.02.07 13:30:00] [0000m.00s.249ms] [0] PathTranslator: [M:\] -> [\\zelnts\mentor\]
+[2017.02.07 13:30:00] [0000m.00s.249ms] [0] PathTranslator: [N:\] -> [\\zelnts\msh\]
+[2017.02.07 13:30:00] [0000m.00s.249ms] [0] PathTranslator: [O:\] -> [\\zelnts\eos\]
+[2017.02.07 13:30:00] [0000m.00s.249ms] [0] PathTranslator: [P:\] -> [\\zelpfs\PFS\]
+[2017.02.07 13:30:00] [0000m.00s.249ms] [0] PathTranslator: [T:\] -> [\\zelnts\zelmbx\]
+[2017.02.07 13:30:00] [0000m.00s.249ms] [0] PathTranslator: Global -> local path prefix list
+[2017.02.07 13:30:00] [0000m.00s.249ms] [0] PathTranslator: [\\zelnts\gloria\] -> [G:\]
+[2017.02.07 13:30:00] [0000m.00s.249ms] [0] PathTranslator: [\\zelnts\mentor\] -> [M:\]
+[2017.02.07 13:30:00] [0000m.00s.249ms] [0] PathTranslator: [\\zelnts\zelmbx\] -> [T:\]
+[2017.02.07 13:30:00] [0000m.00s.249ms] [0] PathTranslator: [\\zelnts\msh\] -> [N:\]
+[2017.02.07 13:30:00] [0000m.00s.249ms] [0] PathTranslator: [\\zelnts\eos\] -> [O:\]
+[2017.02.07 13:30:00] [0000m.00s.249ms] [0] PathTranslator: [\\zelpfs\PFS\] -> [P:\]
+[2017.02.07 13:30:00] [0000m.00s.249ms] [0] PathTranslator: END dumping
+[2017.02.07 13:30:00] [0000m.00s.249ms] [0] S: START
+[2017.02.07 13:30:00] [0000m.00s.249ms] [0] S: Server startup lock file created
+[2017.02.07 13:30:00] [0000m.00s.265ms] [0] S: Listening for client connections on port [10000]
+[2017.02.07 13:30:00] [0000m.00s.265ms] [0] S: Server network ID [ZELTSR:134.94.232.117,ZELTSR,ZELTSR.zel.kfa-juelich.de:10000]
+[2017.02.07 13:30:00] [0000m.00s.265ms] [0] S: Server GUID [91ac-2046-36bc-d7b9-8cdb-998d-cdb9-9850-ce30-6e1e-debe-e506]
+[2017.02.07 13:30:00] [0000m.00s.265ms] [0] S: Project GUID [f5b8-d5bf-0068-5d71-a957-148f-9571-4850-0cc0-6e1e-debe-e506]
+[2017.02.07 13:30:00] [0000m.00s.281ms] [0] S: Wrote data to server address file
+[2017.02.07 13:30:00] [0000m.00s.281ms] [0] S: Server startup lock file removed
+[2017.02.07 13:30:00] [0000m.00s.281ms] [1] ProjectBackupManager: Setting project file (.prj) path: [N:\Mentor\MSH\Georg\KeCo Piezo\Piezzo.prj]
+[2017.02.07 13:30:00] [0000m.00s.468ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2017.02.07 13:30:00] [0000m.00s.468ms] [0] S: Local disc access time: 166 us
+[2017.02.07 13:30:00] [0000m.00s.468ms] [0] S: File server access time: 465 us
+[2017.02.07 13:30:00] [0000m.00s.484ms] [0] Single file [N:\Mentor\MSH\Georg\KeCo Piezo\database\icdb.dat] size [957192 (934.8 kB)]
+[2017.02.07 13:30:00] [0000m.00s.484ms] [1] Single file [N:\Mentor\MSH\Georg\KeCo Piezo\database\icdb.dat] opened in read-write mode
+[2017.02.07 13:30:00] [0000m.00s.484ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2017.02.07 13:30:00] [0000m.00s.484ms] [0] Database GUARD OK: [957192]
+[2017.02.07 13:30:00] [0000m.00s.499ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2017.02.07 13:30:00] [0000m.00s.499ms] [0] Database GUARD OK: [957192]
+[2017.02.07 13:30:00] [0000m.00s.593ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2017.02.07 13:30:00] [0000m.00s.593ms] [0] Database GUARD OK: [957192]
+[2017.02.07 13:30:00] [0000m.00s.593ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2017.02.07 13:30:00] [0000m.00s.593ms] [0] Database GUARD OK: [957192]
+[2017.02.07 13:30:00] [0000m.00s.593ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2017.02.07 13:30:00] [0000m.00s.593ms] [0] Database GUARD OK: [957192]
+[2017.02.07 13:30:00] [0000m.00s.593ms] [0] SingleFile: [9bd0-585d-8498-8bd7] SFI version check [1009] [1009]
+[2017.02.07 13:30:00] [0000m.00s.687ms] [0] SingleFile: [9bd0-585d-8498-8bd7] Database SFI header has been read in [93ms 827us]
+[2017.02.07 13:30:00] [0000m.00s.687ms] [0] iCDB Server PI: Server & plugin session [279]
+[2017.02.07 13:30:00] [0000m.00s.687ms] [0] iCDB Server PI: Opening database [N:\Mentor\MSH\Georg\KeCo Piezo\database]
+[2017.02.07 13:30:00] [0000m.00s.687ms] [0] iCDB Server PI: Database [N:\Mentor\MSH\Georg\KeCo Piezo\database] opened
+[2017.02.07 13:30:00] [0000m.00s.734ms] [0] iCDB Database: Checking existence of constraint definitions
+[2017.02.07 13:30:00] [0000m.00s.734ms] [0] iCDB Database: Checking constraint definitions version
+[2017.02.07 13:30:00] [0000m.00s.968ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.56;user.cns=53b0-f983-6e92-c6ca-ff43-d0f3-053d-0f40-2d9b-1b49-7919-e5f5,af39-e5b3-3ccb-c985-2eca-9987-eca9-9850-0050-6e1e-debe-e506] up to date
+[2017.02.07 13:30:00] [0000m.01s.015ms] [0] iCDB Server PI: Initializing plugins
+[2017.02.07 13:30:00] [0000m.01s.015ms] [0] iCDB Server PI: Plugins initialized
+[2017.02.07 13:30:00] [0000m.01s.015ms] [0] S: iCDB database loaded
+[2017.02.07 13:30:00] [0000m.01s.015ms] [0] S: Starting threads
+[2017.02.07 13:30:00] [0000m.01s.015ms] [0] BT: Listening for broadcast messages on port [10000]
+[2017.02.07 13:30:00] [0000m.01s.015ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2017.02.07 13:30:00] [0000m.01s.015ms] [0] MWT: WindowProc: WM_NCCREATE
+[2017.02.07 13:30:00] [0000m.01s.015ms] [0] IT: Session [280] for host [ZELTSR] user [g.schardt] with process ID [6136] created
+[2017.02.07 13:30:00] [0000m.01s.015ms] [1] SC[280]: Registered sub-client [DxD] with ID [1] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:00] [0000m.01s.062ms] [1] SC[280]: Registered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:00] [0000m.01s.078ms] [1] SC[280]: Registered sub-client [xprob] with ID [3] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:00] [0000m.01s.124ms] [1] CMT: There are [1] clients now: 280
+[2017.02.07 13:30:02] [0000m.02s.921ms] [1] SC[280]: Registered sub-client [SymbolEditor] with ID [4] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:02] [0000m.02s.937ms] [1] SC[280]: Registered sub-client [SelectionHolder] with ID [5] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:02] [0000m.02s.984ms] [1] SC[280]: Registered sub-client [EEVM_EEVM_439376560] with ID [6] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:02] [0000m.02s.984ms] [1] SC[280]: UnRegistered sub-client [EEVM_EEVM_439376560] with ID [6] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:02] [0000m.02s.984ms] [1] SC[280]: Registered sub-client [EEVM_EEVM_439376560] with ID [7] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:02] [0000m.03s.015ms] [1] SC[280]: UnRegistered sub-client [EEVM_EEVM_439376560] with ID [7] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:02] [0000m.03s.015ms] [1] SC[280]: Registered sub-client [EEVM_EEVM_439376560] with ID [8] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:02] [0000m.03s.015ms] [1] SC[280]: UnRegistered sub-client [EEVM_EEVM_439376560] with ID [8] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:02] [0000m.03s.031ms] [1] SC[280]: Registered sub-client [EEVM_EEVM_439376560] with ID [9] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:02] [0000m.03s.062ms] [1] SC[280]: UnRegistered sub-client [EEVM_EEVM_439376560] with ID [9] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:03] [0000m.03s.249ms] [1] SC[280]: Registered sub-client [SystemDesignDll] with ID [10] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:03] [0000m.03s.343ms] [1] SC[280]: UnRegistered sub-client [SystemDesignDll] with ID [10] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:03] [0000m.03s.343ms] [1] SC[280]: Registered sub-client [SystemDesignDll] with ID [11] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:05] [0000m.06s.124ms] [1] SC[280]: Registered sub-client [DesignSearcher2] with ID [12] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:05] [0000m.06s.124ms] [1] SC[280]: Registered sub-client [HdlProject] with ID [13] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:05] [0000m.06s.156ms] [1] SC[280]: Registered sub-client [Navigator] with ID [14] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:05] [0000m.06s.187ms] [1] SC[280]: Registered sub-client [OutputWindow] with ID [15] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:05] [0000m.06s.187ms] [1] SC[280]: Registered sub-client [PlaceDevice] with ID [16] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:06] [0000m.07s.046ms] [1] SC[280]: Registered sub-client [LocalSymbolsDataProvider] with ID [17] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:06] [0000m.07s.062ms] [1] SC[280]: Registered sub-client [FFSearch_Controller_10] with ID [18] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:06] [0000m.07s.077ms] [1] SC[280]: Registered sub-client [FFSearch_Controller_11] with ID [19] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:07] [0000m.07s.671ms] [1] SC[280]: Registered sub-client [FFSearch_Controller_12] with ID [20] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:07] [0000m.07s.687ms] [1] SC[280]: Registered sub-client [FFSearch_Controller_13] with ID [21] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:08] [0000m.08s.343ms] [1] SC[280]: Registered sub-client [FFSearch_Controller_14] with ID [22] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:08] [0000m.08s.343ms] [1] SC[280]: Registered sub-client [FFSearch_Controller_15] with ID [23] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:08] [0000m.08s.968ms] [1] SC[280]: Registered sub-client [FFSearch_Controller_16] with ID [24] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:08] [0000m.08s.984ms] [1] SC[280]: Registered sub-client [FFSearch_Controller_17] with ID [25] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:09] [0000m.09s.577ms] [1] SC[280]: Registered sub-client [FFSearch_Controller_18] with ID [26] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:09] [0000m.09s.593ms] [1] SC[280]: Registered sub-client [FFSearch_Controller_19] with ID [27] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:10] [0000m.10s.296ms] [1] SC[280]: Registered sub-client [SAE] with ID [28] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:10] [0000m.10s.327ms] [1] SC[280]: Registered sub-client [CCZAddin] with ID [29] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:10] [0000m.10s.343ms] [1] SC[280]: Registered sub-client [DxThumbnails] with ID [30] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:10] [0000m.10s.359ms] [1] SC[280]: Registered sub-client [MyParts] with ID [31] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:10] [0000m.10s.406ms] [1] SC[280]: Registered sub-client [PinsList] with ID [32] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:10] [0000m.10s.609ms] [1] SC[280]: Registered sub-client [toolboxes] with ID [33] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:10] [0000m.10s.702ms] [1] SC[280]: Registered sub-client [ProjectIntegrationIcdbCacheDxD:607708576] with ID [34] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:10] [0000m.10s.781ms] [1] SC[280]: Registered sub-client [SheetConnectorsCacheDxD:1486470610] with ID [35] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:10] [0000m.10s.796ms] [1] SC[280]: Registered sub-client [NetsNamesCollectorDxD:1486470610] with ID [36] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:10] [0000m.10s.827ms] [1] SC[280]: Registered sub-client [PartReplaceUtils] with ID [37] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:11] [0000m.11s.374ms] [1] SC[280]: Registered sub-client [DxDbSearch] with ID [38] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:15] [0000m.15s.671ms] [1] SC[280]: Registered sub-client [ObjectHolder_607713568] with ID [39] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:15] [0000m.15s.687ms] [1] SC[280]: Registered sub-client [BlockCacheDxD:432804784] with ID [40] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:15] [0000m.15s.702ms] [1] SC[280]: Registered sub-client [GlobalNetAliasUpdater_445782208] with ID [41] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:15] [0000m.15s.702ms] [1] SC[280]: Registered sub-client [IcdbNetProcessorSubClientDxD:441689312] with ID [42] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:15] [0000m.15s.843ms] [1] SC[280]: Registered sub-client [ObjectHolder_607694224] with ID [43] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:15] [0000m.15s.859ms] [1] SC[280]: Registered sub-client [BlockCache_savepoint[SCH][288230380446679042][4971973992911994882][10:47:30_8-9-16][1486470615]:606235680] with ID [44] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:15] [0000m.15s.859ms] [1] SC[280]: Registered sub-client [GlobalNetAliasUpdater_445785856] with ID [45] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:15] [0000m.15s.874ms] [1] SC[280]: Registered sub-client [IcdbNetProcessorSubClient_savepoint[SCH][288230380446679042][4971973992911994882][10:47:30_8-9-16][1486470615]:441691888] with ID [46] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:15] [0000m.15s.937ms] [1] SC[280]: UnRegistered sub-client [GlobalNetAliasUpdater_445785856] with ID [45] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:15] [0000m.15s.937ms] [1] SC[280]: UnRegistered sub-client [BlockCache_savepoint[SCH][288230380446679042][4971973992911994882][10:47:30_8-9-16][1486470615]:606235680] with ID [44] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:15] [0000m.15s.937ms] [1] SC[280]: UnRegistered sub-client [ObjectHolder_607694224] with ID [43] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:15] [0000m.15s.937ms] [1] SC[280]: UnRegistered sub-client [IcdbNetProcessorSubClient_savepoint[SCH][288230380446679042][4971973992911994882][10:47:30_8-9-16][1486470615]:441691888] with ID [46] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:19] [0000m.19s.953ms] [1] SC[280]: Registered sub-client [ObjectHolder_607357040] with ID [47] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:19] [0000m.19s.969ms] [1] SC[280]: Registered sub-client [BlockCache_savepoint[SCH][288230380446679042][4971974001501929474][13:24:16_12-2-16][1486470619]:609266096] with ID [48] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:19] [0000m.19s.969ms] [1] SC[280]: Registered sub-client [GlobalNetAliasUpdater_605600304] with ID [49] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:19] [0000m.19s.985ms] [1] SC[280]: Registered sub-client [IcdbNetProcessorSubClient_savepoint[SCH][288230380446679042][4971974001501929474][13:24:16_12-2-16][1486470619]:589971456] with ID [50] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:20] [0000m.20s.657ms] [1] SC[280]: UnRegistered sub-client [GlobalNetAliasUpdater_605600304] with ID [49] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:20] [0000m.20s.657ms] [1] SC[280]: UnRegistered sub-client [BlockCache_savepoint[SCH][288230380446679042][4971974001501929474][13:24:16_12-2-16][1486470619]:609266096] with ID [48] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:20] [0000m.20s.657ms] [1] SC[280]: UnRegistered sub-client [ObjectHolder_607357040] with ID [47] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:20] [0000m.20s.657ms] [1] SC[280]: UnRegistered sub-client [IcdbNetProcessorSubClient_savepoint[SCH][288230380446679042][4971974001501929474][13:24:16_12-2-16][1486470619]:589971456] with ID [50] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:30] [0000m.30s.719ms] [0] DFAMT: File server access time: 530 us
+[2017.02.07 13:30:51] [0000m.51s.922ms] [1] SC[280]: UnRegistered sub-client [PartReplaceUtils] with ID [37] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:51] [0000m.52s.219ms] [1] SC[280]: UnRegistered sub-client [DesignSearcher2] with ID [12] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:51] [0000m.52s.219ms] [1] SC[280]: UnRegistered sub-client [Navigator] with ID [14] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:51] [0000m.52s.219ms] [1] SC[280]: UnRegistered sub-client [OutputWindow] with ID [15] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:51] [0000m.52s.219ms] [1] SC[280]: UnRegistered sub-client [PlaceDevice] with ID [16] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:52] [0000m.52s.281ms] [1] SC[280]: UnRegistered sub-client [LocalSymbolsDataProvider] with ID [17] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:52] [0000m.52s.297ms] [1] SC[280]: UnRegistered sub-client [FFSearch_Controller_10] with ID [18] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:52] [0000m.52s.297ms] [1] SC[280]: UnRegistered sub-client [FFSearch_Controller_11] with ID [19] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:52] [0000m.52s.297ms] [1] SC[280]: UnRegistered sub-client [FFSearch_Controller_12] with ID [20] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:52] [0000m.52s.312ms] [1] SC[280]: UnRegistered sub-client [FFSearch_Controller_13] with ID [21] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:52] [0000m.52s.312ms] [1] SC[280]: UnRegistered sub-client [FFSearch_Controller_14] with ID [22] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:52] [0000m.52s.312ms] [1] SC[280]: UnRegistered sub-client [FFSearch_Controller_15] with ID [23] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:52] [0000m.52s.312ms] [1] SC[280]: UnRegistered sub-client [FFSearch_Controller_16] with ID [24] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:52] [0000m.52s.328ms] [1] SC[280]: UnRegistered sub-client [FFSearch_Controller_17] with ID [25] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:52] [0000m.52s.328ms] [1] SC[280]: UnRegistered sub-client [FFSearch_Controller_18] with ID [26] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:52] [0000m.52s.328ms] [1] SC[280]: UnRegistered sub-client [FFSearch_Controller_19] with ID [27] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:52] [0000m.52s.328ms] [1] SC[280]: UnRegistered sub-client [SAE] with ID [28] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:52] [0000m.52s.328ms] [1] SC[280]: UnRegistered sub-client [CCZAddin] with ID [29] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:52] [0000m.52s.328ms] [1] SC[280]: UnRegistered sub-client [DxThumbnails] with ID [30] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:52] [0000m.52s.672ms] [1] SC[280]: UnRegistered sub-client [MyParts] with ID [31] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:52] [0000m.52s.672ms] [1] SC[280]: UnRegistered sub-client [PinsList] with ID [32] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:52] [0000m.52s.672ms] [1] SC[280]: UnRegistered sub-client [toolboxes] with ID [33] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:53] [0000m.53s.703ms] [1] SC[280]: UnRegistered sub-client [DxDbSearch] with ID [38] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:53] [0000m.53s.703ms] [1] SC[280]: UnRegistered sub-client [HdlProject] with ID [13] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:53] [0000m.53s.703ms] [1] SC[280]: UnRegistered sub-client [SystemDesignDll] with ID [11] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:53] [0000m.53s.875ms] [1] SC[280]: UnRegistered sub-client [GlobalNetAliasUpdater_445782208] with ID [41] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:53] [0000m.53s.875ms] [1] SC[280]: UnRegistered sub-client [BlockCacheDxD:432804784] with ID [40] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:53] [0000m.53s.875ms] [1] SC[280]: UnRegistered sub-client [ObjectHolder_607713568] with ID [39] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:53] [0000m.53s.875ms] [1] SC[280]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:441689312] with ID [42] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:53] [0000m.54s.140ms] [1] SC[280]: UnRegistered sub-client [ProjectIntegrationIcdbCacheDxD:607708576] with ID [34] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:53] [0000m.54s.140ms] [1] SC[280]: UnRegistered sub-client [SelectionHolder] with ID [5] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:53] [0000m.54s.140ms] [1] SC[280]: UnRegistered sub-client [SheetConnectorsCacheDxD:1486470610] with ID [35] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:53] [0000m.54s.140ms] [1] SC[280]: UnRegistered sub-client [NetsNamesCollectorDxD:1486470610] with ID [36] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:53] [0000m.54s.140ms] [1] SC[280]: UnRegistered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:53] [0000m.54s.140ms] [1] SC[280]: UnRegistered sub-client [DxD] with ID [1] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:53] [0000m.54s.156ms] [1] SC[280]: UnRegistered sub-client [xprob] with ID [3] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:53] [0000m.54s.156ms] [1] SC[280]: UnRegistered sub-client [SymbolEditor] with ID [4] for session ID [280] host [ZELTSR] user [g.schardt] process ID [6136]
+[2017.02.07 13:30:54] [0000m.54s.265ms] [1] CMT: Removed client [280]
+[2017.02.07 13:30:54] [0000m.54s.265ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2017.02.07 13:30:56] [0000m.56s.344ms] [0] CMT: Starting server auto-close
+[2017.02.07 13:30:56] [0000m.56s.406ms] [0] S: Closing server
+[2017.02.07 13:30:56] [0000m.56s.485ms] [0] iCDB Server PI: Closing plugins
+[2017.02.07 13:30:56] [0000m.56s.486ms] [0] iCDB Server PI: Plugins closed
+[2017.02.07 13:30:56] [0000m.56s.486ms] [0] iCDB Server PI: Unloading database
+[2017.02.07 13:30:56] [0000m.56s.486ms] [0] iCDB Server PI: Saving storage
+[2017.02.07 13:30:56] [0000m.56s.486ms] [0] iCDB Server PI: Closing database
+[2017.02.07 13:30:56] [0000m.56s.489ms] [1] iCDB Server PI: Stats: Database defragmentation: max[2] avg[1] holes[0%] data[72%]
+[2017.02.07 13:30:56] [0000m.56s.489ms] [1] iCDB Server PI: Stats: Database file size [1034128 (1009.9 kB)]
+[2017.02.07 13:30:56] [0000m.56s.498ms] [0] iCDB Server PI: Database closed
+[2017.02.07 13:30:56] [0000m.56s.498ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [800011] ticks
+[2017.02.07 13:30:56] [0000m.56s.498ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [241084] microseconds
+[2017.02.07 13:30:56] [0000m.56s.498ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [301]
+[2017.02.07 13:30:56] [0000m.56s.498ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [1248] commands per second
+[2017.02.07 13:30:56] [0000m.56s.498ms] [0] Single file [N:\Mentor\MSH\Georg\KeCo Piezo\database\icdb.dat] closed with size [1034128 (1009.9 kB)]
+[2017.02.07 13:30:56] [0000m.56s.653ms] [0] MWT: Destroy the shutdown block reason.
+[2017.02.07 13:30:56] [0000m.56s.655ms] [0] MWT: STOP
+[2017.02.07 13:30:56] [0000m.56s.655ms] [0] S: STOP

@@ -1,0 +1,84 @@
+{Program	Expedition GerbTool(tm)
+	{Version	8.1.2 X1}
+	{Created	Fri Dec 02 14:37:33 2016}
+}
+{Environment
+	{ViewMetric	Yes}
+}
+{Layers
+	{Layer  1
+		{File		SoldermaskTop.gdo}
+		{LyrName	SoldermaskTop}
+		{Visibility	On}
+		{Type		Other}
+		{Ftype		Gerber}
+	}
+	{Layer  2
+		{File		SoldermaskBottom.gdo}
+		{LyrName	SoldermaskBottom}
+		{Visibility	Off}
+		{Type		Other}
+		{Ftype		Gerber}
+	}
+	{Layer  3
+		{File		SolderPasteTop.gdo}
+		{LyrName	SolderPasteTop}
+		{Visibility	Off}
+		{Type		Other}
+		{Ftype		Gerber}
+	}
+	{Layer  4
+		{File		SolderPasteBottom.gdo}
+		{LyrName	SolderPasteBottom}
+		{Visibility	Off}
+		{Type		Other}
+		{Ftype		Gerber}
+	}
+	{Layer  5
+		{File		Outline.gdo}
+		{LyrName	Outline}
+		{Visibility	Off}
+		{Type		Other}
+		{Ftype		Gerber}
+	}
+	{Layer  6
+		{File		GeneratedSilkscreenTop.gdo}
+		{LyrName	GeneratedSilkscreenTop}
+		{Visibility	Off}
+		{Type		Other}
+		{Ftype		Gerber}
+	}
+	{Layer  7
+		{File		GeneratedSilkscreenBottom.gdo}
+		{LyrName	GeneratedSilkscreenBottom}
+		{Visibility	Off}
+		{Type		Other}
+		{Ftype		Gerber}
+	}
+	{Layer  8
+		{File		EtchLayer2Bottom.gdo}
+		{LyrName	EtchLayer2Bottom}
+		{Visibility	Off}
+		{Type		Bottom}
+		{Ftype		Gerber}
+	}
+	{Layer  9
+		{File		EtchLayer1Top.gdo}
+		{LyrName	EtchLayer1Top}
+		{Visibility	Off}
+		{Type		Top}
+		{Ftype		Gerber}
+	}
+}
+{Format Gerber
+	{Dialect		RS274X}
+	{m.n			2.4}
+	{Mode			Absolute}
+	{ZeroSuppression	Leading}
+	{Terminator		0x2a, 0xd, 0xa}
+	{Metric			No}
+	{Modal			Yes}
+	{CharSet		ASCII}
+	{Arcs360		No}
+	{ArcsModal		Yes}
+}

@@ -1,0 +1,16 @@
+xPCB Layout Version: 116.0.576.0568
+
+
+
+Environment Variables:
+----------------------
+VALOR_ENV_FILE = "C:\MentorGraphics\EEVX.2.1\SDD_HOME\Valor_NPI\env"
+HOMEDRIVE = "C:"
+HOMEPATH = "\Users\g.schardt"
+LM_LICENSE_FILE = "1650@zelliz.zel.kfa-juelich.de"
+MGC_HOME = "C:\MentorGraphics\EEVX.2.1\MGC_HOME.ixw"
+OS = "Windows_NT"
+PATH = "C:\MentorGraphics\EEVX.2.1\SDD_HOME\xe\win64\lib;C:\MentorGraphics\EEVX.2.1\SDD_HOME\common\win64\bin;C:\MentorGraphics\EEVX.2.1\SDD_HOME\common\win64\lib;C:\MentorGraphics\EEVX.2.1\MGC_HOME.ixw\bin;C:\MentorGraphics\EEVX.2.1\MGC_HOME.ixw\lib;C:\MentorGraphics\EEVX.2.1\SDD_HOME\wg\win64\lib;C:\MentorGraphics\EEVX.2.1\SDD_HOME\common\win64\lib;C:\MentorGraphics\EEVX.2.1\SDD_HOME\common\win64\bin;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\TortoiseHg\;C:\MentorGraphics\EEVX.2.1\SDD_HOME\layout3d\win64\lib"
+SDD_HOME = "C:\MentorGraphics\EEVX.2.1\SDD_HOME"
+TEMP = "C:\Users\GBA21~1.SCH\AppData\Local\Temp\3"
+TMP = "C:\Users\GBA21~1.SCH\AppData\Local\Temp\3"

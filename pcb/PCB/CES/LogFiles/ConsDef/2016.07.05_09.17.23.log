@@ -1,0 +1,107 @@
+Tue Jul 05 09:17:23 2016
+
+Project path: \\zelnts\mentor\CAD_Lib\Templates\Layout\4 Layer Template\keyin.icdb
+
+Env. WDIR: C:\xWDIR;M:\CAD_config;C:\MentorGraphics\EEVX.1.1\SDD_HOME\standard;C:\MentorGraphics\EEVX.1.1\SDD_HOME\standard
+WDIRs: 
+	C:\xWDIR
+	M:\CAD_config
+	C:\MentorGraphics\EEVX.1.1\SDD_HOME\standard
+	C:\MentorGraphics\EEVX.1.1\SDD_HOME\standard
+
+Loaded cns files: 
+	C:\xWDIR\user.cns=7ed6-3f08-5bbb-8298-ed4a-5373-e4a5-3750-09af-5e1e-debe-e506 (read-only)
+	M:\CAD_config\user.cns=53b0-f983-6e92-c6ca-ff43-d0f3-053d-0f40-2d9b-1b49-7919-e5f5
+	C:\MentorGraphics\EEVX.1.1\SDD_HOME\standard\ce_ee.cns=7.10.35
+
+Loaded cns - data stored in database: C:\xWDIR\user.cns=7ed6-3f08-5bbb-8298-ed4a-5373-e4a5-3750-09af-5e1e-debe-e506;M:\CAD_config\user.cns=53b0-f983-6e92-c6ca-ff43-d0f3-053d-0f40-2d9b-1b49-7919-e5f5;C:\MentorGraphics\EEVX.1.1\SDD_HOME\standard\ce_ee.cns=7.10.35
+Before global upgrade from version: 7.10.23 to version: 7.10.35
+
+Constraints definition "A2A_MIN_XY" added.
+Constraints definition "A2A_MIN_Z" added.
+Constraints definition "A2A_OPT_XY" added (default value: 254000).
+Constraints definition "A2A_OPT_Z" added (default value: 127000).
+Constraints definition "AB2A_MIN_XY" added.
+Constraints definition "AB2A_MIN_Z" added.
+Constraints definition "AB2A_OPT_XY" added.
+Constraints definition "AB2A_OPT_Z" added.
+Constraints definition "C2A_MIN_XY" added.
+Constraints definition "C2A_MIN_Z" added.
+Constraints definition "C2A_OPT_XY" added.
+Constraints definition "C2A_OPT_Z" added.
+Constraints definition "C2C_MIN_XY" added.
+Constraints definition "C2C_MIN_Z" added.
+Constraints definition "C2C_OPT_XY" added.
+Constraints definition "C2C_OPT_Z" added.
+Constraints definition "C2PCBA_MIN_XY" added.
+Constraints definition "C2PCBA_MIN_Z" added.
+Constraints definition "C2PCBA_OPT_XY" added.
+Constraints definition "C2PCBA_OPT_Z" added.
+Constraints definition "C2M_MIN_XY" added.
+Constraints definition "C2M_MIN_Z" added.
+Constraints definition "C2M_OPT_XY" added.
+Constraints definition "C2M_OPT_Z" added.
+Constraints definition "C2BE_MIN_XY" added.
+Constraints definition "C2BE_MIN_Z" added.
+Constraints definition "C2BE_OPT_XY" added.
+Constraints definition "C2BE_OPT_Z" added.
+Constraints definition "M2M_MIN_XY" added.
+Constraints definition "M2M_MIN_Z" added.
+Constraints definition "M2M_OPT_XY" added.
+Constraints definition "M2M_OPT_Z" added.
+Constraints definition "M2A_MIN_XY" added.
+Constraints definition "M2A_MIN_Z" added.
+Constraints definition "M2A_OPT_XY" added.
+Constraints definition "M2A_OPT_Z" added.
+Constraints definition "M2PCBA_MIN_XY" added.
+Constraints definition "M2PCBA_MIN_Z" added.
+Constraints definition "M2PCBA_OPT_XY" added.
+Constraints definition "M2PCBA_OPT_Z" added.
+Constraints definition "PCBA2PCBA_MIN_XY" added.
+Constraints definition "PCBA2PCBA_MIN_Z" added.
+Constraints definition "PCBA2PCBA_OPT_XY" added.
+Constraints definition "PCBA2PCBA_OPT_Z" added.
+Constraints definition "PCBA2A_MIN_XY" added.
+Constraints definition "PCBA2A_MIN_Z" added.
+Constraints definition "PCBA2A_OPT_XY" added.
+Constraints definition "PCBA2A_OPT_Z" added.
+Constraints definition "BW2C_MIN_XY" added.
+Constraints definition "BW2C_MIN_Z" added.
+Constraints definition "BW2C_OPT_XY" added.
+Constraints definition "BW2C_OPT_Z" added.
+Constraints definition "BW2A_MIN_XY" added.
+Constraints definition "BW2A_MIN_Z" added.
+Constraints definition "BW2A_OPT_XY" added.
+Constraints definition "BW2A_OPT_Z" added.
+Constraints definition "BW2PCBA_MIN_XY" added.
+Constraints definition "BW2PCBA_MIN_Z" added.
+Constraints definition "BW2PCBA_OPT_XY" added.
+Constraints definition "BW2PCBA_OPT_Z" added.
+Constraints definition "BW2BE_MIN_XY" added.
+Constraints definition "BW2BE_MIN_Z" added.
+Constraints definition "BW2BE_OPT_XY" added.
+Constraints definition "BW2BE_OPT_Z" added.
+Constraints definition "DSN_DESIGN_CENTER" added.
+Constraints definition "DSN_CHECKLIST" added.
+Constraints definition "DP_PHASE_TOL_MAX" added.
+Constraints definition "DP_PHASE_TOL_DISTANCE_MAX" added.
+Constraints definition "ACT_DP_PHASE_TUNING" added.
+Constraints definition "MAX_VOLTAGE_DROP" added (default value: 0.050000000000000).
+Constraints definition "MAX_CURRENT_DENSITY" added (default value: 10).
+Constraints definition "MAX_VIA_CURRENT" added (default value: 1).
+Constraints definition "PCLASS" added.
+BeforeGlobalUpgrade took 16ms, 0s
+
+Upgrade snapshot PCB
+UpgradeSnapshot took 0ms, 0s
+
+Upgrade snapshot PCB_Layout_Temp
+UpgradeSnapshot took 0ms, 0s
+
+After global upgrade
+Constraints definition "POWER_NET" deleted.
+Constraints definition "ROUTABLE" deleted.
+Constraints definition "PCLASS" deleted.
+Set database cns file versions: ce_ee.cns=7.10.35;user.cns=53b0-f983-6e92-c6ca-ff43-d0f3-053d-0f40-2d9b-1b49-7919-e5f5,7ed6-3f08-5bbb-8298-ed4a-5373-e4a5-3750-09af-5e1e-debe-e506
+AfterGlobalUpgrade took 0ms, 0s
+

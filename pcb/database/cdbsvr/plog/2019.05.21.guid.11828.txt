@@ -1,0 +1,30 @@
+[2019.05.21 10:43:14] [0000m.30s.564ms] [0] WELCOME
+[2019.05.21 10:43:14] [0000m.30s.570ms] [1] iCDB Database ver.2.201, Cmm9llE6lp7FMkwXUjF2sA, build:5683207 created 2016-11-13 14:11:10, sources stamp:Cmm9llE6lp7FMkwXUjF2sA
+[2019.05.21 10:43:14] [0000m.30s.571ms] [1] Copyright 2016 Mentor Graphics Corporation.  All Rights Reserved.
+[2019.05.21 10:43:14] [0000m.30s.572ms] [1] Base flow version [VX.2.1]
+[2019.05.21 10:43:14] [0000m.30s.573ms] [1] Install Id [1466835], Flow Id [X-ENTP VX.2.1], Full Flow Name [Xpedition Enterprise X-ENTP VX.2.1], Exact Access Date [2016/11/01]
+[2019.05.21 10:43:14] [0000m.30s.575ms] [1] Machine [ZELTSR]  IP [127.0.0.1,134.94.232.117]  User [g.schardt]  PID [11828]
+[2019.05.21 10:43:14] [0000m.30s.576ms] [1] Operating system [Microsoft Standard Edition, 64-bit (build 9200)]
+[2019.05.21 10:43:14] [0000m.30s.577ms] [1] Current working dir [H:\privat\projekte\Heizweste\pcb]
+[2019.05.21 10:43:14] [0000m.30s.579ms] [1] PATH [C:\MentorGraphics\EEVX.2.1\SDD_HOME\common\win64\bin;C:\MentorGraphics\EEVX.2.1\SDD_HOME\common\win64\lib;C:\MentorGraphics\EEVX.2.1\MGC_HOME.ixw\bin;C:\MentorGraphics\EEVX.2.1\MGC_HOME.ixw\lib;C:\MentorGraphics\EEVX.2.1\SDD_HOME\wv\win64\bin;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\TortoiseHg\]
+[2019.05.21 10:43:14] [0000m.30s.580ms] [1] SDD_HOME [C:\MentorGraphics\EEVX.2.1\SDD_HOME] on file system [NTFS]
+[2019.05.21 10:43:14] [0000m.30s.581ms] [1] SDD_PLATFORM [win64]
+[2019.05.21 10:43:14] [0000m.30s.582ms] [1] WDIR [C:\Users\g.schardt\wdir\EEVX.2.1;m:\cad_config;C:\MentorGraphics\EEVX.2.1\SDD_HOME\standard;C:\MentorGraphics\EEVX.2.1\SDD_HOME\standard]
+[2019.05.21 10:43:14] [0000m.30s.583ms] [1] Local iCDB working dir [C:\Users\g.schardt\wdir\EEVX.2.1\iCDB] on file system [NTFS]
+[2019.05.21 10:43:14] [0000m.30s.586ms] [1] Corporate iCDB working dir [m:\cad_config\iCDB] on file system [NTFS]
+[2019.05.21 10:43:14] [0000m.30s.588ms] [3] WARNING: Database [H:\privat\projekte\Heizweste\pcb\database\icdb.dat] was manually copied
+[2019.05.21 10:43:14] [0000m.30s.589ms] [3] File change time:        [2018-10-06 11.39.38]
+[2019.05.21 10:43:14] [0000m.30s.590ms] [3] File modification time:  [2018-06-15 07.09.12]
+[2019.05.21 10:43:14] [0000m.30s.591ms] [3] Last change time:        [2017-05-22 08.14.12]
+[2019.05.21 10:43:14] [0000m.30s.592ms] [3] Last database open information:
+[2019.05.21 10:43:14] [0000m.30s.593ms] [3] Time:             [2017-05-22 08.14.12]
+[2019.05.21 10:43:14] [0000m.30s.595ms] [3] Location:         [N:\Mentor\MSH\Georg\KeCo Piezo\database\icdb.dat]
+[2019.05.21 10:43:14] [0000m.30s.596ms] [3] Machine:          [ZELTSR]
+[2019.05.21 10:43:14] [0000m.30s.597ms] [3] User:             [g.schardt]
+[2019.05.21 10:43:14] [0000m.30s.598ms] [3] PID:              [7568]
+[2019.05.21 10:43:14] [0000m.30s.599ms] [3] Application:      [iCDB Server]
+[2019.05.21 10:43:14] [0000m.30s.601ms] [3] Operating system: [Microsoft Standard Edition, 64-bit (build 9200)]
+[2019.05.21 10:43:14] [0000m.30s.602ms] [3] WARNING: Regenerating database GUID
+[2019.05.21 10:43:14] [0000m.30s.603ms] [3] Previous database GUID [f5b8-d5bf-0068-5d71-a957-148f-9571-4850-0cc0-6e1e-debe-e506]
+[2019.05.21 10:43:14] [0000m.30s.604ms] [3] Current database GUID  [396e-99c4-6bd3-f32e-22ab-3ec7-2ab3-ec50-4e3f-5e1e-debe-e506]
+[2019.05.21 10:43:14] [0000m.30s.606ms] [0] .

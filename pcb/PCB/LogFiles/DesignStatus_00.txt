@@ -1,0 +1,86 @@
+=======================================================================
+Xpedition xPCB Layout - Version 2015.0.677.462
+=======================================================================
+
+Job Directory:        N:\Mentor\MSH\Georg\Piezzo\PCB\
+
+Design Status Report: N:\Mentor\MSH\Georg\Piezzo\PCB\LogFiles\DesignStatus_00.txt
+
+Thu Jul 14 13:40:39 2016
+
+=======================================================================
+DESIGN STATUS
+=======================================================================
+Board Size Extents  ............ 42 X 33,89 (mm)
+Route Border Extents  .......... 41,2 X 33,09 (mm)
+Actual Board Area  ............. 1.197,81 (mm)
+Actual Route Area  ............. 1.147,57 (mm)
+
+Placement Areas: Name            Available         Required          Required/Available
+                 Entire Board    2.395,62 Sq. (mm) 541,63 Sq. (mm)   22.61 %
+
+Pins  .......................... 76
+Pins per Route Area  ........... 0,07 Pins/Sq. (mm)
+
+Layers  ........................ 4
+    Layer 1 is a signal layer
+        Trace Widths  .......... 0,2
+    Layer 2 is a signal layer
+        Trace Widths  .......... None.
+    Layer 3 is a signal layer
+        Trace Widths  .......... None.
+    Layer 4 is a signal layer
+        Trace Widths  .......... 0,2
+
+Nets  .......................... 21
+Connections  ................... 66
+Open Connections  .............. 0
+Differential Pairs  ............ 0
+Percent Routed  ................ 100.00 %
+
+Netline Length  ................ 0 (mm)
+Netline Manhattan Length  ...... 0 (mm)
+Total Trace Length  ............ 335,32 (mm)
+
+Trace Widths Used (mm)  ........ 0,2
+Vias  .......................... 67
+Via Span  Name                   Quantity
+   1-4    VIA_07_03_EOS          52
+          026VIA                 15
+
+Teardrops....................... 0
+    Pad Teardrops............... 0
+    Trace Teardrops............. 0
+    Custom Teardrops............ 0
+Tracedrops...................... 0
+
+Virtual Pins.................... 0
+Guide Pins ..................... 0
+
+Parts Placed  .................. 21
+    Parts Mounted on Top  ...... 10
+        SMD  ................... 8
+        Through  ............... 2
+        Test Points  ........... 0
+        Mechanical  ............ 0
+    Parts Mounted on Bottom  ... 11
+        SMD  ................... 10
+        Through  ............... 1
+        Test Points  ........... 0
+        Mechanical  ............ 0
+    Embedded Components ........ 0
+        Capacitors ............. 0
+        Resistors .............. 0
+    Edge Connector Parts  ...... 0
+
+Parts not Placed  .............. 0
+
+Nested Cells  .................. 0
+
+Jumpers  ....................... 1
+    Top Mounted  ............... 1
+    Bottom Mounted  ............ 0
+
+Through Holes  ................. 85
+    Holes per Board Area  ...... 0,07 Holes/Sq. (mm)
+Mounting Holes  ................ 2

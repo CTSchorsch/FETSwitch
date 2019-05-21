@@ -1,0 +1,61 @@
+
+xPCB Layout Version: 116.0.576.0568
+
+Time to Create bubble graphics: 0.000 sec
+
+Time to ReCreate UniGroup outline: 0.000 sec
+
+Time to Create bubble graphics: 0.000 sec
+
+Time to ReCreate UniGroup outline: 0.000 sec
+
+Time to Create bubble graphics: 0.000 sec
+
+Time to ReCreate UniGroup outline: 0.000 sec
+
+Time to Create bubble graphics: 0.000 sec
+
+Time to ReCreate UniGroup outline: 0.000 sec
+
+Time to Create bubble graphics: 0.000 sec
+
+Time to ReCreate UniGroup outline: 0.000 sec
+
+Time to Create bubble graphics: 0.000 sec
+
+Time to ReCreate UniGroup outline: 0.000 sec
+
+Time to Create bubble graphics: 0.000 sec
+
+Time to ReCreate UniGroup outline: 0.000 sec
+
+Time to Create bubble graphics: 0.000 sec
+
+Time to ReCreate UniGroup outline: 0.000 sec
+
+Time to Create bubble graphics: 0.000 sec
+
+Time to ReCreate UniGroup outline: 0.000 sec
+
+Time to Create bubble graphics: 0.000 sec
+
+Time to ReCreate UniGroup outline: 0.000 sec
+
+Time to Create bubble graphics: 0.000 sec
+
+Time to ReCreate UniGroup outline: 0.000 sec
+
+Time to Create bubble graphics: 0.000 sec
+
+Time to ReCreate UniGroup outline: 0.000 sec
+
+Time to Create bubble graphics: 0.000 sec
+
+Time to ReCreate UniGroup outline: 0.000 sec
+
+Time to Create bubble graphics: 0.000 sec
+
+Time to ReCreate UniGroup outline: 0.000 sec
+
+Successfully read the design.
+Saved the design...

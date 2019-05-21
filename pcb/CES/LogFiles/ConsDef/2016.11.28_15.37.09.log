@@ -1,0 +1,120 @@
+Mon Nov 28 15:37:09 2016
+
+Project path: N:\Mentor\MSH\Georg\KeCo Piezo\database
+
+Env. WDIR: C:\Users\g.schardt\wdir;m:\cad_config;C:\MentorGraphics\EEVX.1.1\SDD_HOME\standard;C:\MentorGraphics\7.9.3EE\SDD_HOME\standard
+WDIRs: 
+	C:\Users\g.schardt\wdir
+	m:\cad_config
+	C:\MentorGraphics\EEVX.1.1\SDD_HOME\standard
+	C:\MentorGraphics\7.9.3EE\SDD_HOME\standard
+
+Loaded cns files: 
+	C:\Users\g.schardt\wdir\user.cns=bf23-1c93-f873-8ca2-6b90-c28b-b90c-2850-085f-5e1e-debe-e506
+	m:\cad_config\user.cns=53b0-f983-6e92-c6ca-ff43-d0f3-053d-0f40-2d9b-1b49-7919-e5f5
+	C:\MentorGraphics\7.9.3EE\SDD_HOME\standard\user.cns=79a3-40a9-4f73-46ad-6b90-c28b-b90c-2850-085f-5e1e-debe-e506
+	C:\MentorGraphics\EEVX.1.1\SDD_HOME\standard\ce_ee.cns=7.10.35
+
+Loaded cns - data stored in database: C:\Users\g.schardt\wdir\user.cns=bf23-1c93-f873-8ca2-6b90-c28b-b90c-2850-085f-5e1e-debe-e506;m:\cad_config\user.cns=53b0-f983-6e92-c6ca-ff43-d0f3-053d-0f40-2d9b-1b49-7919-e5f5;C:\MentorGraphics\7.9.3EE\SDD_HOME\standard\user.cns=79a3-40a9-4f73-46ad-6b90-c28b-b90c-2850-085f-5e1e-debe-e506;C:\MentorGraphics\EEVX.1.1\SDD_HOME\standard\ce_ee.cns=7.10.35
+Before global upgrade from version: 7.10.35 to version: 7.10.35
+
+Constraints definition "PCLASS" added.
+Constraints definition "CONSTRAINT_CLASS" added.
+BeforeGlobalUpgrade took 31ms, 0s
+
+Upgrade snapshot DxD
+UpgradeSnapshot took 31ms, 0s
+
+Upgrade snapshot __ise_DxD
+UpgradeSnapshot took 0ms, 0s
+
+Upgrade snapshot xIOPT
+UpgradeSnapshot took 0ms, 0s
+
+Upgrade snapshot _savepoint[SCH][288230380446679042][4971973992911994882][][1467654623]
+UpgradeSnapshot took 0ms, 0s
+
+Upgrade snapshot _savepoint[SCH][288230380446679042][4971974001501929474][][1467654670]
+UpgradeSnapshot took 0ms, 0s
+
+Upgrade snapshot Piezzo_layout_temp
+UpgradeSnapshot took 0ms, 0s
+
+Upgrade snapshot Piezzo
+UpgradeSnapshot took 0ms, 0s
+
+Upgrade snapshot Piezzo_RefSync
+UpgradeSnapshot took 16ms, 0s
+
+Upgrade snapshot Piezzo_LDDTemp
+UpgradeSnapshot took 15ms, 0s
+
+Upgrade snapshot _savepoint[SCH][288230380446679042][4971973992911994882][17:55:30_7-4-16][1467725581]
+UpgradeSnapshot took 0ms, 0s
+
+Upgrade snapshot _savepoint[SCH][288230380446679042][4971974001501929474][7:16:59_7-5-16][1467725606]
+UpgradeSnapshot took 0ms, 0s
+
+Upgrade snapshot _savepoint[SCH][288230380446679042][4971973992911994882][17:55:30_7-4-16][1467787633]
+UpgradeSnapshot took 0ms, 0s
+
+Upgrade snapshot _savepoint[SCH][288230380446679042][4971974001501929474][14:32:56_7-5-16][1467787644]
+UpgradeSnapshot took 0ms, 0s
+
+Upgrade snapshot _savepoint[SCH][288230380446679042][4971973992911994882][17:55:30_7-4-16][1468222817]
+UpgradeSnapshot took 0ms, 0s
+
+Upgrade snapshot _savepoint[SCH][288230380446679042][4971974001501929474][7:03:50_7-6-16][1468222824]
+UpgradeSnapshot took 0ms, 0s
+
+Upgrade snapshot _savepoint[SCH][288230380446679042][4971973992911994882][17:55:30_7-4-16][1468244566]
+UpgradeSnapshot took 0ms, 0s
+
+Upgrade snapshot _savepoint[SCH][288230380446679042][4971974001501929474][7:03:50_7-6-16][1468244572]
+UpgradeSnapshot took 16ms, 0s
+
+Upgrade snapshot _savepoint[SCH][288230380446679042][4971973992911994882][17:55:30_7-4-16][1468435061]
+UpgradeSnapshot took 0ms, 0s
+
+Upgrade snapshot _savepoint[SCH][288230380446679042][4971974001501929474][14:14:00_7-11-16][1468435070]
+UpgradeSnapshot took 0ms, 0s
+
+Upgrade snapshot _savepoint[SCH][288230380446679042][4971973992911994882][17:55:30_7-4-16][1468492435]
+UpgradeSnapshot took 0ms, 0s
+
+Upgrade snapshot _savepoint[SCH][288230380446679042][4971974001501929474][19:00:13_7-13-16][1468492458]
+UpgradeSnapshot took 0ms, 0s
+
+Upgrade snapshot _savepoint[SCH][288230380446679042][4971973992911994882][17:55:30_7-4-16][1469434715]
+UpgradeSnapshot took 0ms, 0s
+
+Upgrade snapshot _savepoint[SCH][288230380446679042][4971974001501929474][11:30:40_7-14-16][1469434779]
+UpgradeSnapshot took 0ms, 0s
+
+Upgrade snapshot _savepoint[SCH][288230380446679042][4971973992911994882][17:55:30_7-4-16][1470663049]
+UpgradeSnapshot took 0ms, 0s
+
+Upgrade snapshot _savepoint[SCH][288230380446679042][4971974001501929474][8:19:58_7-25-16][1470663070]
+UpgradeSnapshot took 0ms, 0s
+
+Upgrade snapshot _savepoint[SCH][288230380446679042][4971973992911994882][17:55:30_7-4-16][1470728607]
+UpgradeSnapshot took 0ms, 0s
+
+Upgrade snapshot _savepoint[SCH][288230380446679042][4971974001501929474][14:16:57_8-8-16][1470728625]
+UpgradeSnapshot took 0ms, 0s
+
+Upgrade snapshot _savepoint[SCH][288230380446679042][4971973992911994882][17:55:30_7-4-16][1470739573]
+UpgradeSnapshot took 16ms, 0s
+
+Upgrade snapshot _savepoint[SCH][288230380446679042][4971974001501929474][10:16:08_8-9-16][1470739872]
+UpgradeSnapshot took 15ms, 0s
+
+Upgrade snapshot _savepoint[SCH][288230380446679042][4971973992911994882][10:47:30_8-9-16][1471415787]
+UpgradeSnapshot took 0ms, 0s
+
+After global upgrade
+Constraints definition "PCLASS" deleted.
+Constraints definition "CONSTRAINT_CLASS" deleted.
+Set database cns file versions: ce_ee.cns=7.10.35;user.cns=53b0-f983-6e92-c6ca-ff43-d0f3-053d-0f40-2d9b-1b49-7919-e5f5,79a3-40a9-4f73-46ad-6b90-c28b-b90c-2850-085f-5e1e-debe-e506,bf23-1c93-f873-8ca2-6b90-c28b-b90c-2850-085f-5e1e-debe-e506
+AfterGlobalUpgrade took 0ms, 0s
+

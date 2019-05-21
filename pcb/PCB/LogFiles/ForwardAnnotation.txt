@@ -1,0 +1,147 @@
+
+                               Forward Annotation
+                               ------------------
+
+                       02:25 PM Friday, December 02, 2016
+             Job Name: N:\Mentor\MSH\Georg\KeCo Piezo\PCB\Piezzo.pcb
+
+
+Version:  01.01.00
+
+     The PDBs listed in the project file will be searched to satisfy the parts
+      requirements of the iCDB only for parts not already found in the
+      Target PDB.
+
+     The schematic source is a Common Data Base.
+
+     The AllowAlphaRefDes status indicates that reference
+      designators containing all alpha characters should be deleted
+      and the relevant symbols repackaged.
+
+
+
+     Common Data Base has been read
+
+     Target PDB Name: Work\Layout_Temp\PartsDB.pdb
+
+     Number of Part Numbers: 14
+          Part Numb: BR-LOETBRUECKE -> Vend Part: BR-LOETBRUECKE 
+          Part Numb: C-100N-CAPC1608 -> Vend Part: C-100N-CAPC1608 
+          Part Numb: P-WRAP3x2 -> Vend Part: P-WRAP3x2 
+          Part Numb: P-WRAP6 -> Vend Part: P-WRAP6 
+          Part Numb: Q-BC848-SOT23 -> Vend Part: Q-BC848-SOT23 
+          Part Numb: Q-BSC050N003-LS-TSDSON-8 -> Vend Part: Q-BSC050N003-LS-TSDSON-8 
+          Part Numb: R-SMP-R050-1-2010 -> Vend Part: R-SMP-R050-1-2010 
+          Part Numb: R-0R00-RESC1608 -> Vend Part: R-0R00-RESC1608 
+          Part Numb: R-10K0-RESC1608 -> Vend Part: R-10K0-RESC1608 
+          Part Numb: R-33K2-RESC1608 -> Vend Part: R-33K2-RESC1608 
+          Part Numb: TP-SMD-6,0x4,0 -> Vend Part: TP-SMD-6,0x4,0 
+          Part Numb: U-ATTINY-SOIC14 -> Vend Part: U-ATTINY-SOIC14 
+          Part Numb: U-INA219AIDCNR-SOT23 -> Vend Part: U-INA219AIDCNR-SOT23 
+          Part Numb: U-TS78L05-SOT23 -> Vend Part: U-TS78L05-SOT23 
+
+     Number of Part Names: 0
+
+     Number of Part Labels: 0
+
+
+     Checking for value differences between symbol properties and PartsDB properties
+
+     Checking the validity of the packaging of prepackaged schematic
+      symbols.  Only the first error in symbols having the same
+      Reference Designator will be reported.
+
+     The packaging of all prepackaged schematic symbols is consistent
+      with the Parts DataBase data for the cross mapping of
+      symbol pin names to Part Number pin numbers.
+      Symbols that were not prepackaged will now be packaged correctly.
+      
+     No errors in Existing Schematic Packaging.
+
+     The Common DataBase has been read and will be packaged.
+     Clustering 30 Symbols:
+              30  *****************************
+     Clustering is Complete
+
+     Packager Assignments successfully completed
+
+
+
+     25 nets were found containing 86 pins
+     30 components were found
+
+     Creating a formatted Schematic Netlist (LogFiles\SchematicNetlist.txt)...
+     A formatted Schematic Netlist has been created.
+
+     The Logic DataBase has been compiled from the Schematic Design.
+      Use Netload to bring the Component Design into sync.
+
+     Logic Data has been successfully Compiled with no errors or warnings.
+      Please proceed with your component Design.
+                                     NetLoad
+                                     -------
+
+                       02:25 PM Friday, December 02, 2016
+             Job Name: N:\Mentor\MSH\Georg\KeCo Piezo\PCB\Piezzo.pcb
+
+
+Version:  02.11.12
+
+	Netloading the Layout.  Unused components will be changed to spares.
+
+	Unconnected pins will be set to net "(Net0)".
+
+	Schematic reference designator changes will be forward annotated.
+
+
+     WARNING:  The cell(s) specified for Part Number "BR-LOETBRUECKE":
+        "LOETBRUECKE"
+        "LOETBRUECKE"
+      could not be placed in the Layout probably because the cells
+      were not in the Cell DB.  Therefore, "BR1" will not be added
+      to the Layout.  Either change the Part Number in
+      the schematic, edit the Parts DB and add an existing cell name,
+      or add cells to the Cell DB.  Then run Forward Annotate.
+
+     The following 2 components have not been placed:
+
+        R9
+        R10
+
+     Netload completed successfully with 1 warning(s).
+     
+     Back Annotating...
+
+  Updating Logic Database...
+
+     Version:  99.00.05
+
+     No changes made to Existing Schematic Packaging.
+
+
+     There is no symbol data to be back annotated to the schematic source.
+
+
+     The Logic DataBase has been updated and the Common DataBase has
+      automatically been brought into sync with the Logic DataBase.
+      Please proceed with your design.
+
+     Finished updating the Logic Database.
+
+     Creating a formatted Schematic Netlist (LogFiles\AfterBakAnnoNetlist.txt)...
+     A formatted Schematic Netlist has been created.
+
+            Creating a new netlist text file (LogFiles\KeyinNetList.txt)
+            from the Logic Database (Work\Layout_Temp\LogicDB.lgc)...
+  A new netlist text file has been generated.
+
+
+
+                 Beginning Netload on the Layout Design.
+           ---------------------------------------------------
+
+Forward-Annotation on the Layout Design has been successfully completed.
+
+There were 0 reassignments of nets.
+There were 0 traces broken back.
+There were 0 nets removed from the Layout Design.

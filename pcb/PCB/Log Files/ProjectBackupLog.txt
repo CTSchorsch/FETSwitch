@@ -1,0 +1,16 @@
+[2012-07-18 09.12.54] -------------------- CREATE --------------------
+[2012-07-18 09.12.54] Creating Project Backup infrastructure for project [R:\CAD_Lib\Templates\Layout\4 Layer Template\template.prj].
+[2012-07-18 09.12.54] Migrating AutoBackup directory [4 Layer Template\AutoBackup] content to Project Backup format.
+[2012-07-18 09.12.54] Migrating AutoBackup [1313486809]
+[2012-07-18 09.12.54] Successfully migrated AutoBackup [1313486809] to Project Backup format [2011-08-16 11.26.49 - app.zip]
+[2012-07-18 09.12.54] Migrated AutoBackup [1313486809] removed.
+[2012-07-18 09.12.54] Migrating AutoBackup [1316591592]
+[2012-07-18 09.12.55] Successfully migrated AutoBackup [1316591592] to Project Backup format [2011-09-21 09.53.12 - app.zip]
+[2012-07-18 09.12.55] Migrated AutoBackup [1316591592] removed.
+[2012-07-18 09.12.55] Migrating AutoBackup [1317706762]
+[2012-07-18 09.12.55] Successfully migrated AutoBackup [1317706762] to Project Backup format [2011-10-04 07.39.22 - app.zip]
+[2012-07-18 09.12.55] Migrated AutoBackup [1317706762] removed.
+[2012-07-18 09.12.55] Whole AutoBackup content migrated. AutoBackup directory [4 Layer Template\AutoBackup] removed.
+[2012-07-18 09.12.56] Successfully created [Database Upgrade] backup [2012-07-18 09.12.56 - upgrade.zip] requested by [ZEL061:tkollmann].
+[2012-07-18 09.12.56] Migrated iCDB content backup file [cdbback\2012-07-18 09.12.55-3236.zip] removed.
+[2012-07-18 09.12.57] Successfully created [AutoSave] backup [2012-07-18 09.12.56 - auto.zip] requested by [ZEL061:tkollmann].

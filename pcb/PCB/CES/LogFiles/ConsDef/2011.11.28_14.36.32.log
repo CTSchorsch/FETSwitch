@@ -1,0 +1,40 @@
+Mon Nov 28 14:36:32 2011
+
+Project path: \\zelnts\mentor\CAD_Lib\Templates\Layout\4 Layer Template\keyin.icdb
+User cns file path: R:\CAD_config\user.cns
+
+Before global upgrade
+Constraints definition "CUSTOM_2DESCRIPTION" added.
+Constraints definition "CUSTOM_2VALUE" added.
+Upgrade snapshot PCB
+Upgrade snapshot PCB_Layout_Temp
+After global upgrade
+Constraints definition "HLT_CASING_TACT" deleted.
+Constraints definition "HLT_JUNCTION_TACT" deleted.
+Constraints definition "DSN_DEF_PROPAGATION_DELAY" deleted.
+Constraints definition "PIN_PACKAGE_DELAY" deleted.
+Constraints definition "HLT_CASING_TACT" added.
+Constraints definition "HLT_JUNCTION_TACT" added.
+Constraints definition "STUB_LENGTH" levels updated.
+Constraints definition "MATCH_GROUP" levels updated.
+Constraints definition "SIM_DELAY_TYPE" levels updated.
+Constraints definition "SIM_MIN_DELAY" levels updated.
+Constraints definition "SIM_MAX_DELAY" levels updated.
+Constraints definition "HLT_POWER_SCALING_FACT" levels updated.
+Constraints definition "HLT_THETA_JC" levels updated.
+Constraints definition "SIM_DELAY_MATCH_TO" levels updated.
+Constraints definition "MATCH_GROUP" parents updated.
+Constraints definition "MATCH_TOLERANCE" parents updated.
+Constraints definition "MAX_STATIC_LO_OVERSHOOT" parents updated.
+Constraints definition "MAX_STATIC_HI_OVERSHOOT" parents updated.
+Constraints definition "MAX_DYN_LO_OVERSHOOT" parents updated.
+Constraints definition "MAX_DYN_HI_OVERSHOOT" parents updated.
+Constraints definition "MAX_HIGH_RINGBACK" parents updated.
+Constraints definition "MAX_LOW_RINGBACK" parents updated.
+Constraints definition "SIM_DELAY_OFFSET" parents updated.
+Constraints definition "SIM_MATCH_TOL" parents updated.
+Constraints definition "DP_SPACE" parents updated.
+Constraints definition "HLT_POWER_SCALING_FACT" parents updated.
+Constraints definition "HLT_THETA_JC" parents updated.
+Constraints definition "HLT_CASING_TLIMIT" parents updated.
+Constraints definition "HLT_JUNCTION_TLIMIT" parents updated.

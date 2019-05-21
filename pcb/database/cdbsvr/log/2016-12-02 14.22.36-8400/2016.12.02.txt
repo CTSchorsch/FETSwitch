@@ -1,0 +1,443 @@
+[2016.12.02 14:22:36] [0000m.00s.128ms] [0] WELCOME
+[2016.12.02 14:22:36] [0000m.00s.136ms] [1] iCDB Server ver.2.101, 3UDjJHMiCHg78unffLJcEw, build:670831 created 2015-02-23 10:20:07, sources stamp:3UDjJHMiCHg78unffLJcEw
+[2016.12.02 14:22:36] [0000m.00s.136ms] [1] Copyright 2015 Mentor Graphics Corporation. All Rights Reserved.
+[2016.12.02 14:22:36] [0000m.00s.136ms] [1] Base flow version [VX.1.1]
+[2016.12.02 14:22:36] [0000m.00s.136ms] [1] GBS Install Id [43105], Flow Id [X-ENTP VX.1.1], Full Flow Name [Xpedition Enterprise X-ENTP VX.1.1], Exact Access Date [Feb 1 2015]
+[2016.12.02 14:22:36] [0000m.00s.137ms] [1] Machine [ZELTSR]  User [g.schardt]  PID [8400]
+[2016.12.02 14:22:36] [0000m.00s.137ms] [1] Operating system [Microsoft Standard Edition, 64-bit (build 9200)]
+[2016.12.02 14:22:36] [0000m.00s.137ms] [1] Current working dir [N:\Mentor\MSH\Georg\KeCo Piezo]
+[2016.12.02 14:22:36] [0000m.00s.137ms] [1] PATH [C:\MentorGraphics\EEVX.1.1\SDD_HOME\common\win64\bin;C:\MentorGraphics\EEVX.1.1\SDD_HOME\common\win64\lib;C:\MentorGraphics\EEVX.1.1\MGC_HOME.ixw\bin;C:\MentorGraphics\EEVX.1.1\MGC_HOME.ixw\lib;C:\MentorGraphics\EEVX.1.1\SDD_HOME\wv\win64\bin;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\TortoiseHg\]
+[2016.12.02 14:22:36] [0000m.00s.137ms] [1] SDD_HOME [C:\MentorGraphics\EEVX.1.1\SDD_HOME] on file system [NTFS]
+[2016.12.02 14:22:36] [0000m.00s.137ms] [1] SDD_PLATFORM [win64]
+[2016.12.02 14:22:36] [0000m.00s.137ms] [1] WDIR [C:\Users\g.schardt\wdir;m:\cad_config;C:\MentorGraphics\EEVX.1.1\SDD_HOME\standard;C:\MentorGraphics\7.9.3EE\SDD_HOME\standard]
+[2016.12.02 14:22:36] [0000m.00s.138ms] [1] Local iCDB working dir [C:\Users\g.schardt\wdir\iCDB] on file system [NTFS]
+[2016.12.02 14:22:36] [0000m.00s.138ms] [1] Corporate iCDB working dir [m:\cad_config\iCDB] on file system [NTFS]
+[2016.12.02 14:22:36] [0000m.00s.139ms] [2] S: Loading config files
+[2016.12.02 14:22:37] [0000m.00s.163ms] [1] Config file [N:\Mentor\MSH\Georg\KeCo Piezo\database\cdbsvr\Server.cfg] not found
+[2016.12.02 14:22:37] [0000m.00s.172ms] [3] S: Config loaded
+[2016.12.02 14:22:37] [0000m.00s.213ms] [0] S: Project path [N:\Mentor\MSH\Georg\KeCo Piezo\database] on file system [NTFS]
+[2016.12.02 14:22:37] [0000m.00s.214ms] [0] S: Project global path [\\zelnts\msh\Mentor\MSH\Georg\KeCo Piezo\database] on file system [NTFS]
+[2016.12.02 14:22:37] [0000m.00s.214ms] [0] S: Project file (.prj) path [\\zelnts\msh\Mentor\MSH\Georg\KeCo Piezo\Piezzo.prj] on file system [UNKNOWN]
+[2016.12.02 14:22:37] [0000m.00s.215ms] [0] S: Project file (.prj) local path [N:\Mentor\MSH\Georg\KeCo Piezo\Piezzo.prj] on file system [NTFS]
+[2016.12.02 14:22:37] [0000m.00s.219ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2016.12.02 14:22:37] [0000m.00s.219ms] [0] S: Single-user mode (auto)
+[2016.12.02 14:22:37] [0000m.00s.219ms] [0] S: Event polling mode autodetection
+[2016.12.02 14:22:37] [0000m.00s.228ms] [0] S: Started up automatically by iCDB Client: ZELTSR:g.schardt:7760
+[2016.12.02 14:22:37] [0000m.00s.229ms] [0] S: Auto close mode
+[2016.12.02 14:22:37] [0000m.00s.229ms] [0] S: Database ID [f5b8-d5bf-0068-5d71-a957-148f-9571-4850-0cc0-6e1e-debe-e506]
+[2016.12.02 14:22:37] [0000m.00s.229ms] [0] PathTranslator: BEGIN dumping
+[2016.12.02 14:22:37] [0000m.00s.229ms] [0] PathTranslator: Local -> global path prefix list
+[2016.12.02 14:22:37] [0000m.00s.229ms] [0] PathTranslator: [G:\] -> [\\zelnts\gloria\]
+[2016.12.02 14:22:37] [0000m.00s.229ms] [0] PathTranslator: [M:\] -> [\\zelnts\mentor\]
+[2016.12.02 14:22:37] [0000m.00s.229ms] [0] PathTranslator: [N:\] -> [\\zelnts\msh\]
+[2016.12.02 14:22:37] [0000m.00s.230ms] [0] PathTranslator: [O:\] -> [\\zelnts\eos\]
+[2016.12.02 14:22:37] [0000m.00s.230ms] [0] PathTranslator: [P:\] -> [\\zelpfs\PFS\]
+[2016.12.02 14:22:37] [0000m.00s.230ms] [0] PathTranslator: [T:\] -> [\\zelnts\zelmbx\]
+[2016.12.02 14:22:37] [0000m.00s.230ms] [0] PathTranslator: Global -> local path prefix list
+[2016.12.02 14:22:37] [0000m.00s.230ms] [0] PathTranslator: [\\zelnts\gloria\] -> [G:\]
+[2016.12.02 14:22:37] [0000m.00s.230ms] [0] PathTranslator: [\\zelnts\mentor\] -> [M:\]
+[2016.12.02 14:22:37] [0000m.00s.230ms] [0] PathTranslator: [\\zelnts\zelmbx\] -> [T:\]
+[2016.12.02 14:22:37] [0000m.00s.230ms] [0] PathTranslator: [\\zelnts\msh\] -> [N:\]
+[2016.12.02 14:22:37] [0000m.00s.230ms] [0] PathTranslator: [\\zelnts\eos\] -> [O:\]
+[2016.12.02 14:22:37] [0000m.00s.230ms] [0] PathTranslator: [\\zelpfs\PFS\] -> [P:\]
+[2016.12.02 14:22:37] [0000m.00s.230ms] [0] PathTranslator: END dumping
+[2016.12.02 14:22:37] [0000m.00s.230ms] [0] S: START
+[2016.12.02 14:22:37] [0000m.00s.232ms] [0] S: Server startup lock file created
+[2016.12.02 14:22:37] [0000m.00s.239ms] [0] S: Listening for client connections on port [10000]
+[2016.12.02 14:22:37] [0000m.00s.241ms] [0] S: Server network ID [ZELTSR:134.94.232.117,ZELTSR,ZELTSR.zel.kfa-juelich.de:10000]
+[2016.12.02 14:22:37] [0000m.00s.241ms] [0] S: Server GUID [a9c2-a4a7-ff68-83d2-d957-1482-a571-4850-070e-5e1e-debe-e506]
+[2016.12.02 14:22:37] [0000m.00s.241ms] [0] S: Project GUID [f5b8-d5bf-0068-5d71-a957-148f-9571-4850-0cc0-6e1e-debe-e506]
+[2016.12.02 14:22:37] [0000m.00s.258ms] [0] S: Wrote data to server address file
+[2016.12.02 14:22:37] [0000m.00s.261ms] [0] S: Server startup lock file removed
+[2016.12.02 14:22:37] [0000m.00s.262ms] [1] S: WARNING: The last server session [2016-11-28 15.41.55-16872] with GUID [28a4-9ebf-74bf-9071-3324-c388-324c-3850-456f-5e1e-debe-e506] on this machine with WDIR [C:\Users\g.schardt\wdir] shutdown unexpectedly.
+[2016.12.02 14:22:37] [0000m.00s.265ms] [1] ProjectBackupManager: Setting project file (.prj) path: [N:\Mentor\MSH\Georg\KeCo Piezo\Piezzo.prj]
+[2016.12.02 14:22:37] [0000m.00s.618ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2016.12.02 14:22:37] [0000m.00s.619ms] [0] S: Local disc access time: 129 us
+[2016.12.02 14:22:37] [0000m.00s.619ms] [0] S: File server access time: 378 us
+[2016.12.02 14:22:37] [0000m.00s.658ms] [0] S: WARNING: The last iCDB Server session [ZELTSR (2016-11-28 15.41.55-16872)] with GUID [28a4-9ebf-74bf-9071-3324-c388-324c-3850-456f-5e1e-debe-e506] shutdown unexpectedly. Database integrity check forced.
+[2016.12.02 14:22:37] [0000m.00s.662ms] [0] Single file [N:\Mentor\MSH\Georg\KeCo Piezo\database\icdb.dat] size [730696 (713.6 kB)]
+[2016.12.02 14:22:37] [0000m.00s.664ms] [1] Single file [N:\Mentor\MSH\Georg\KeCo Piezo\database\icdb.dat] opened in read-write mode
+[2016.12.02 14:22:37] [0000m.00s.668ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2016.12.02 14:22:37] [0000m.00s.669ms] [0] Database GUARD OK: [730696]
+[2016.12.02 14:22:37] [0000m.00s.677ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2016.12.02 14:22:37] [0000m.00s.677ms] [0] Database GUARD OK: [730696]
+[2016.12.02 14:22:37] [0000m.00s.677ms] [0] SingleFile: [9bd0-585d-8498-8bd7] SFI version check [1009] [1009]
+[2016.12.02 14:22:37] [0000m.00s.783ms] [0] SingleFile: [9bd0-585d-8498-8bd7] Reset holes information - force defragmentation
+[2016.12.02 14:22:37] [0000m.00s.783ms] [0] SingleFile: [9bd0-585d-8498-8bd7] Database SFI header has been read in [106ms 646us]
+[2016.12.02 14:22:37] [0000m.00s.789ms] [0] iCDB Server PI: Server & plugin session [252]
+[2016.12.02 14:22:37] [0000m.00s.789ms] [0] iCDB Server PI: Opening database [N:\Mentor\MSH\Georg\KeCo Piezo\database]
+[2016.12.02 14:22:37] [0000m.00s.789ms] [0] iCDB Server PI: Database [N:\Mentor\MSH\Georg\KeCo Piezo\database] opened
+[2016.12.02 14:22:37] [0000m.00s.848ms] [0] iCDB Database: Checking existence of constraint definitions
+[2016.12.02 14:22:37] [0000m.00s.848ms] [0] iCDB Database: Checking constraint definitions version
+[2016.12.02 14:22:37] [0000m.01s.136ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.35;user.cns=53b0-f983-6e92-c6ca-ff43-d0f3-053d-0f40-2d9b-1b49-7919-e5f5,79a3-40a9-4f73-46ad-6b90-c28b-b90c-2850-085f-5e1e-debe-e506,bf23-1c93-f873-8ca2-6b90-c28b-b90c-2850-085f-5e1e-debe-e506] up to date
+[2016.12.02 14:22:38] [0000m.01s.172ms] [1] iCDB Server PI: Checking database integrity
+[2016.12.02 14:22:38] [0000m.01s.695ms] [1] iCDB Server PI: Database integrity check PASSED
+[2016.12.02 14:22:38] [0000m.01s.695ms] [0] iCDB Server PI: Initializing plugins
+[2016.12.02 14:22:38] [0000m.01s.696ms] [0] iCDB Server PI: Plugins initialized
+[2016.12.02 14:22:38] [0000m.01s.696ms] [0] S: iCDB database loaded
+[2016.12.02 14:22:38] [0000m.01s.697ms] [0] S: Starting threads
+[2016.12.02 14:22:38] [0000m.01s.697ms] [0] BT: Listening for broadcast messages on port [10000]
+[2016.12.02 14:22:38] [0000m.01s.698ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2016.12.02 14:22:38] [0000m.01s.702ms] [0] IT: Session [253] for host [ZELTSR] user [g.schardt] with process ID [7760] created
+[2016.12.02 14:22:38] [0000m.01s.704ms] [1] SC[253]: Registered sub-client [DxD] with ID [1] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:22:38] [0000m.01s.738ms] [1] SC[253]: Registered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:22:38] [0000m.01s.748ms] [1] SC[253]: Registered sub-client [xprob] with ID [3] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:22:38] [0000m.01s.799ms] [1] CMT: There are [1] clients now: 253
+[2016.12.02 14:22:41] [0000m.04s.490ms] [1] SC[253]: Registered sub-client [SelectionHolder] with ID [4] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:22:41] [0000m.04s.519ms] [1] SC[253]: Registered sub-client [SymbolEditor] with ID [5] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:22:41] [0000m.04s.530ms] [1] SC[253]: Registered sub-client [EEVM_EEVM_310497752] with ID [6] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:22:41] [0000m.04s.532ms] [1] SC[253]: UnRegistered sub-client [EEVM_EEVM_310497752] with ID [6] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:22:41] [0000m.04s.539ms] [1] SC[253]: Registered sub-client [EEVM_EEVM_310497752] with ID [7] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:22:41] [0000m.04s.559ms] [1] SC[253]: UnRegistered sub-client [EEVM_EEVM_310497752] with ID [7] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:22:41] [0000m.04s.569ms] [1] SC[253]: Registered sub-client [EEVM_EEVM_310490952] with ID [8] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:22:41] [0000m.04s.570ms] [1] SC[253]: UnRegistered sub-client [EEVM_EEVM_310490952] with ID [8] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:22:41] [0000m.04s.577ms] [1] SC[253]: Registered sub-client [EEVM_EEVM_310490952] with ID [9] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:22:41] [0000m.04s.600ms] [1] SC[253]: UnRegistered sub-client [EEVM_EEVM_310490952] with ID [9] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:22:41] [0000m.04s.782ms] [1] SC[253]: Registered sub-client [SystemDesignDll] with ID [10] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:22:41] [0000m.04s.914ms] [1] SC[253]: UnRegistered sub-client [SystemDesignDll] with ID [10] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:22:41] [0000m.04s.920ms] [1] SC[253]: Registered sub-client [SystemDesignDll] with ID [11] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:22:45] [0000m.08s.156ms] [1] SC[253]: Registered sub-client [HdlProject] with ID [12] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:22:45] [0000m.08s.198ms] [1] SC[253]: Registered sub-client [Navigator] with ID [13] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:22:45] [0000m.08s.234ms] [1] SC[253]: Registered sub-client [OutputWindow] with ID [14] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:22:45] [0000m.08s.244ms] [1] SC[253]: Registered sub-client [PlaceDevice] with ID [15] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:22:45] [0000m.08s.400ms] [1] SC[253]: Registered sub-client [SAE] with ID [16] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:22:45] [0000m.08s.411ms] [1] SC[253]: Registered sub-client [CCZAddin] with ID [17] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:22:45] [0000m.08s.421ms] [1] SC[253]: Registered sub-client [DxThumbnails] with ID [18] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:22:45] [0000m.08s.432ms] [1] SC[253]: Registered sub-client [MyParts] with ID [19] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:22:45] [0000m.08s.479ms] [1] SC[253]: Registered sub-client [PinsList] with ID [20] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:22:45] [0000m.08s.756ms] [1] SC[253]: Registered sub-client [toolboxes] with ID [21] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:22:45] [0000m.08s.872ms] [1] SC[253]: Registered sub-client [SheetConnectorsCacheDxD:1480684965] with ID [22] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:22:45] [0000m.08s.882ms] [1] SC[253]: Registered sub-client [NetsNamesCollectorDxD:1480684965] with ID [23] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:22:45] [0000m.09s.051ms] [1] SC[253]: Registered sub-client [ObjectHolder_306513600] with ID [24] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:22:45] [0000m.09s.058ms] [1] SC[253]: Registered sub-client [BlockCacheDxD:237237184] with ID [25] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:22:45] [0000m.09s.067ms] [1] SC[253]: Registered sub-client [GlobalNetAliasUpdater_237060320] with ID [26] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:22:45] [0000m.09s.076ms] [1] SC[253]: Registered sub-client [IcdbNetProcessorSubClientDxD:487245152] with ID [27] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:22:46] [0000m.09s.144ms] [1] SC[253]: Registered sub-client [ObjectHolder_500082976] with ID [28] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:22:46] [0000m.09s.153ms] [1] SC[253]: Registered sub-client [BlockCache_savepoint[SCH][288230380446679042][4971973992911994882][10:47:30_8-9-16][1480684965]:237232704] with ID [29] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:22:46] [0000m.09s.162ms] [1] SC[253]: Registered sub-client [GlobalNetAliasUpdater_237061328] with ID [30] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:22:46] [0000m.09s.171ms] [1] SC[253]: Registered sub-client [IcdbNetProcessorSubClient_savepoint[SCH][288230380446679042][4971973992911994882][10:47:30_8-9-16][1480684965]:487245824] with ID [31] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:22:46] [0000m.09s.211ms] [1] SC[253]: UnRegistered sub-client [GlobalNetAliasUpdater_237061328] with ID [30] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:22:46] [0000m.09s.212ms] [1] SC[253]: UnRegistered sub-client [BlockCache_savepoint[SCH][288230380446679042][4971973992911994882][10:47:30_8-9-16][1480684965]:237232704] with ID [29] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:22:46] [0000m.09s.213ms] [1] SC[253]: UnRegistered sub-client [ObjectHolder_500082976] with ID [28] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:22:46] [0000m.09s.214ms] [1] SC[253]: UnRegistered sub-client [IcdbNetProcessorSubClient_savepoint[SCH][288230380446679042][4971973992911994882][10:47:30_8-9-16][1480684965]:487245824] with ID [31] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:22:55] [0000m.18s.194ms] [1] SC[253]: Registered sub-client [ObjectHolder_500087552] with ID [32] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:22:55] [0000m.18s.203ms] [1] SC[253]: Registered sub-client [BlockCache_savepoint[SCH][288230380446679042][4971974001501929474][10:16:08_8-9-16][1480684975]:237205440] with ID [33] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:22:55] [0000m.18s.213ms] [1] SC[253]: Registered sub-client [GlobalNetAliasUpdater_498537520] with ID [34] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:22:55] [0000m.18s.222ms] [1] SC[253]: Registered sub-client [IcdbNetProcessorSubClient_savepoint[SCH][288230380446679042][4971974001501929474][10:16:08_8-9-16][1480684975]:487182656] with ID [35] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:22:55] [0000m.18s.896ms] [1] SC[253]: UnRegistered sub-client [GlobalNetAliasUpdater_498537520] with ID [34] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:22:55] [0000m.18s.897ms] [1] SC[253]: UnRegistered sub-client [BlockCache_savepoint[SCH][288230380446679042][4971974001501929474][10:16:08_8-9-16][1480684975]:237205440] with ID [33] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:22:55] [0000m.18s.898ms] [1] SC[253]: UnRegistered sub-client [ObjectHolder_500087552] with ID [32] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:22:55] [0000m.18s.899ms] [1] SC[253]: UnRegistered sub-client [IcdbNetProcessorSubClient_savepoint[SCH][288230380446679042][4971974001501929474][10:16:08_8-9-16][1480684975]:487182656] with ID [35] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:22:59] [0000m.22s.588ms] [0] DFAMT: File server access time: 510 us
+[2016.12.02 14:23:10] [0000m.33s.737ms] [1] PrjBackupMgr: Successfully created Project Backup [N:\Mentor\MSH\Georg\KeCo Piezo\ProjectBackup\backups\2016-12-02 14.23.08 - auto.zip] with GUID [fc50-482d-32c7-aee4-cb57-1481-c571-4850-c7ef-5e1e-debe-e506]
+[2016.12.02 14:23:10] [0000m.33s.742ms] [0] PrjBackupMgr: Removing excessive backup:  BackupGUID[e024-2c04-71de-547a-872c-9a7d-72c9-a750-4cbf-5e1e-debe-e506] CreationTime[Tuesday, August 09, 2016 11:46:00] Type[Autosave] Creator[iCDB Server (2016-08-09 12.46.02-7984)] ApplicationName[iCDB Server (2016-08-09 12.46.02-7984)] UserName[g.schardt] MachineName[ZELTSR] Description[Autosave] FullFlowName[Xpedition Enterprise X-ENTP VX.1.1] FlowId[X-ENTP VX.1.1] GBSInstallId[43105] GBSBuildId[670831] IcdbVersion[2900] ReferenceLogFilePath[] BackupFilePath[N:\Mentor\MSH\Georg\KeCo Piezo\ProjectBackup\backups\2016-08-09 13.46.00 - auto.zip] BackupFileSize[888090] Persistent[FALSE]
+[2016.12.02 14:23:10] [0000m.33s.788ms] [0] PrjBackupMgr: Project Backup file [N:\Mentor\MSH\Georg\KeCo Piezo\ProjectBackup\backups\2016-08-09 13.46.00 - auto.zip] with GUID [e024-2c04-71de-547a-872c-9a7d-72c9-a750-4cbf-5e1e-debe-e506] removed
+[2016.12.02 14:23:10] [0000m.33s.793ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[fc50-482d-32c7-aee4-cb57-1481-c571-4850-c7ef-5e1e-debe-e506] CreationTime[Friday, December 02, 2016 13:23:08] Type[Autosave] Creator[iCDB Server (2016-12-02 14.22.36-8400)] ApplicationName[iCDB Server (2016-12-02 14.22.36-8400)] UserName[g.schardt] MachineName[ZELTSR] Description[Autosave] FullFlowName[Xpedition Enterprise X-ENTP VX.1.1] FlowId[X-ENTP VX.1.1] GBSInstallId[43105] GBSBuildId[670831] IcdbVersion[2900] ReferenceLogFilePath[] BackupFilePath[N:\Mentor\MSH\Georg\KeCo Piezo\ProjectBackup\backups\2016-12-02 14.23.08 - auto.zip] BackupFileSize[951798] Persistent[FALSE]
+[2016.12.02 14:24:26] [0001m.50s.069ms] [1] SC[253]: Registered sub-client [Dx2Exp_276476015] with ID [36] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:24:26] [0001m.50s.069ms] [1] SC[253]: UnRegistered sub-client [Dx2Exp_276476015] with ID [36] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:25:00] [0002m.23s.648ms] [0] IT: Session [254] for host [ZELTSR] user [g.schardt] with process ID [8960] created
+[2016.12.02 14:25:00] [0002m.23s.651ms] [1] SC[254]: Registered sub-client [Expedition PCB_276509515] with ID [1] for session ID [254] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:25:00] [0002m.23s.690ms] [1] CMT: There are [2] clients now: 253, 254
+[2016.12.02 14:25:00] [0002m.23s.728ms] [1] SC[254]: Registered sub-client [EEVM_EEVM_243450520] with ID [2] for session ID [254] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:25:00] [0002m.23s.748ms] [1] SC[254]: UnRegistered sub-client [EEVM_EEVM_243450520] with ID [2] for session ID [254] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:25:00] [0002m.23s.757ms] [1] SC[254]: Registered sub-client [EEVM_EEVM_243450520] with ID [3] for session ID [254] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:25:00] [0002m.23s.781ms] [1] SC[254]: UnRegistered sub-client [EEVM_EEVM_243450520] with ID [3] for session ID [254] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:25:13] [0002m.36s.429ms] [1] SC[254]: Registered sub-client [ExpeditionCrossProber] with ID [4] for session ID [254] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:25:25] [0002m.48s.828ms] [1] SC[254]: UnRegistered sub-client [ExpeditionCrossProber] with ID [4] for session ID [254] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:25:25] [0002m.48s.842ms] [1] SC[254]: Registered sub-client [EEVM_EEVM_1303320] with ID [5] for session ID [254] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:25:25] [0002m.48s.843ms] [1] SC[254]: UnRegistered sub-client [EEVM_EEVM_1303320] with ID [5] for session ID [254] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:25:27] [0002m.50s.619ms] [0] IT: Session [255] for host [ZELTSR] user [g.schardt] with process ID [4336] created
+[2016.12.02 14:25:27] [0002m.50s.621ms] [1] SC[255]: Registered sub-client [Packager_276536484] with ID [1] for session ID [255] host [ZELTSR] user [g.schardt] process ID [4336]
+[2016.12.02 14:25:27] [0002m.50s.659ms] [1] CMT: There are [3] clients now: 253, 254, 255
+[2016.12.02 14:25:27] [0002m.51s.137ms] [1] SC[255]: UnRegistered sub-client [Packager_276536484] with ID [1] for session ID [255] host [ZELTSR] user [g.schardt] process ID [4336]
+[2016.12.02 14:25:28] [0002m.51s.164ms] [1] CMT: Removed client [255]
+[2016.12.02 14:25:28] [0002m.51s.164ms] [1] CMT: There are [2] clients now: 253, 254
+[2016.12.02 14:25:28] [0002m.51s.966ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [N:\Mentor\MSH\Georg\KeCo Piezo\database\s6\cdbcatlg\grpobj] - auto-saving it
+[2016.12.02 14:25:29] [0002m.52s.572ms] [0] IT: Session [256] for host [ZELTSR] user [g.schardt] with process ID [4760] created
+[2016.12.02 14:25:29] [0002m.52s.573ms] [1] SC[256]: Registered sub-client [Expedition_276538453] with ID [1] for session ID [256] host [ZELTSR] user [g.schardt] process ID [4760]
+[2016.12.02 14:25:29] [0002m.52s.578ms] [1] CMT: There are [3] clients now: 253, 254, 256
+[2016.12.02 14:25:29] [0002m.52s.715ms] [1] SC[256]: UnRegistered sub-client [Expedition_276538453] with ID [1] for session ID [256] host [ZELTSR] user [g.schardt] process ID [4760]
+[2016.12.02 14:25:29] [0002m.52s.780ms] [1] CMT: Removed client [256]
+[2016.12.02 14:25:29] [0002m.52s.780ms] [1] CMT: There are [2] clients now: 253, 254
+[2016.12.02 14:25:30] [0002m.53s.835ms] [0] IT: Session [257] for host [ZELTSR] user [g.schardt] with process ID [4760] created
+[2016.12.02 14:25:30] [0002m.53s.836ms] [1] SC[257]: Registered sub-client [JobPrefsDBPI_276539703] with ID [1] for session ID [257] host [ZELTSR] user [g.schardt] process ID [4760]
+[2016.12.02 14:25:30] [0002m.53s.875ms] [1] SC[257]: UnRegistered sub-client [JobPrefsDBPI_276539703] with ID [1] for session ID [257] host [ZELTSR] user [g.schardt] process ID [4760]
+[2016.12.02 14:25:30] [0002m.53s.891ms] [1] CMT: There are [3] clients now: 253, 254, 257
+[2016.12.02 14:25:30] [0002m.53s.891ms] [1] CMT: Removed client [257]
+[2016.12.02 14:25:30] [0002m.53s.891ms] [1] CMT: There are [2] clients now: 253, 254
+[2016.12.02 14:25:33] [0002m.56s.698ms] [0] IT: Session [258] for host [ZELTSR] user [g.schardt] with process ID [11708] created
+[2016.12.02 14:25:33] [0002m.56s.699ms] [1] SC[258]: Registered sub-client [JobPrefsDBPI_276542468] with ID [1] for session ID [258] host [ZELTSR] user [g.schardt] process ID [11708]
+[2016.12.02 14:25:33] [0002m.56s.719ms] [1] CMT: There are [3] clients now: 253, 254, 258
+[2016.12.02 14:25:33] [0002m.56s.794ms] [1] SC[258]: Registered sub-client [Expedition_276542734] with ID [2] for session ID [258] host [ZELTSR] user [g.schardt] process ID [11708]
+[2016.12.02 14:25:33] [0002m.56s.900ms] [1] SC[258]: UnRegistered sub-client [JobPrefsDBPI_276542468] with ID [1] for session ID [258] host [ZELTSR] user [g.schardt] process ID [11708]
+[2016.12.02 14:25:33] [0002m.57s.057ms] [1] SC[258]: UnRegistered sub-client [Expedition_276542734] with ID [2] for session ID [258] host [ZELTSR] user [g.schardt] process ID [11708]
+[2016.12.02 14:25:33] [0002m.57s.123ms] [1] CMT: Removed client [258]
+[2016.12.02 14:25:33] [0002m.57s.123ms] [1] CMT: There are [2] clients now: 253, 254
+[2016.12.02 14:25:34] [0002m.57s.743ms] [1] SC[254]: Registered sub-client [EEVM_EEVM_239593016] with ID [6] for session ID [254] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:25:34] [0002m.57s.762ms] [1] SC[254]: UnRegistered sub-client [EEVM_EEVM_239593016] with ID [6] for session ID [254] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:25:34] [0002m.57s.772ms] [1] SC[254]: Registered sub-client [EEVM_EEVM_239593016] with ID [7] for session ID [254] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:25:34] [0002m.57s.774ms] [1] SC[254]: UnRegistered sub-client [EEVM_EEVM_239593016] with ID [7] for session ID [254] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:25:34] [0002m.57s.784ms] [1] SC[254]: Registered sub-client [EEVM_EEVM_239605816] with ID [8] for session ID [254] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:25:34] [0002m.57s.798ms] [1] SC[254]: UnRegistered sub-client [EEVM_EEVM_239605816] with ID [8] for session ID [254] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:25:35] [0002m.59s.106ms] [1] SC[254]: UnRegistered sub-client [Expedition PCB_276509515] with ID [1] for session ID [254] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:25:35] [0002m.59s.142ms] [1] CMT: Removed client [254]
+[2016.12.02 14:25:35] [0002m.59s.142ms] [1] CMT: There are [1] clients now: 253
+[2016.12.02 14:25:36] [0002m.59s.693ms] [0] IT: Session [259] for host [ZELTSR] user [g.schardt] with process ID [8960] created
+[2016.12.02 14:25:36] [0002m.59s.696ms] [1] SC[259]: Registered sub-client [Expedition PCB_276545562] with ID [1] for session ID [259] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:25:36] [0002m.59s.748ms] [1] CMT: There are [2] clients now: 253, 259
+[2016.12.02 14:25:43] [0003m.06s.812ms] [1] SC[259]: Registered sub-client [ExpeditionCrossProber] with ID [2] for session ID [259] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:34:26] [0011m.49s.837ms] [1] SC[259]: Registered sub-client [JobPrefsDBPI_277075781] with ID [3] for session ID [259] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:34:26] [0011m.49s.852ms] [1] SC[259]: UnRegistered sub-client [JobPrefsDBPI_277075781] with ID [3] for session ID [259] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:34:26] [0011m.49s.962ms] [1] SC[259]: Registered sub-client [NetClassDBPI_277075906] with ID [4] for session ID [259] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:34:26] [0011m.49s.966ms] [1] SC[259]: UnRegistered sub-client [NetClassDBPI_277075906] with ID [4] for session ID [259] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:34:26] [0011m.49s.984ms] [1] SC[259]: Registered sub-client [JobPrefsDBPI_277075937] with ID [5] for session ID [259] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:34:26] [0011m.49s.997ms] [1] SC[259]: UnRegistered sub-client [JobPrefsDBPI_277075937] with ID [5] for session ID [259] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:34:29] [0011m.52s.272ms] [1] SC[259]: Registered sub-client [JobPrefsDBPI_277078218] with ID [6] for session ID [259] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:34:29] [0011m.52s.352ms] [1] SC[259]: UnRegistered sub-client [JobPrefsDBPI_277078218] with ID [6] for session ID [259] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:34:29] [0011m.53s.054ms] [0] IT: Session [260] for host [ZELTSR] user [g.schardt] with process ID [9616] created
+[2016.12.02 14:34:29] [0011m.53s.055ms] [1] SC[260]: Registered sub-client [JobPrefsDBPI_277078796] with ID [1] for session ID [260] host [ZELTSR] user [g.schardt] process ID [9616]
+[2016.12.02 14:34:29] [0011m.53s.080ms] [0] IT: Session [261] for host [ZELTSR] user [g.schardt] with process ID [9116] created
+[2016.12.02 14:34:29] [0011m.53s.085ms] [0] IT: Session [262] for host [ZELTSR] user [g.schardt] with process ID [6424] created
+[2016.12.02 14:34:29] [0011m.53s.085ms] [1] SC[261]: Registered sub-client [JobPrefsDBPI_277078796] with ID [1] for session ID [261] host [ZELTSR] user [g.schardt] process ID [9116]
+[2016.12.02 14:34:29] [0011m.53s.086ms] [1] SC[262]: Registered sub-client [JobPrefsDBPI_277078796] with ID [1] for session ID [262] host [ZELTSR] user [g.schardt] process ID [6424]
+[2016.12.02 14:34:29] [0011m.53s.110ms] [1] CMT: There are [5] clients now: 253, 259, 260, 261, 262
+[2016.12.02 14:34:30] [0011m.53s.152ms] [1] SC[261]: Registered sub-client [NetClassDBPI_277079109] with ID [2] for session ID [261] host [ZELTSR] user [g.schardt] process ID [9116]
+[2016.12.02 14:34:30] [0011m.53s.187ms] [1] SC[260]: Registered sub-client [JobPrefsDBPI_277079140] with ID [2] for session ID [260] host [ZELTSR] user [g.schardt] process ID [9616]
+[2016.12.02 14:34:30] [0011m.53s.229ms] [1] SC[262]: Registered sub-client [JobPrefsDBPI_277079171] with ID [2] for session ID [262] host [ZELTSR] user [g.schardt] process ID [6424]
+[2016.12.02 14:34:30] [0011m.53s.256ms] [1] SC[261]: Registered sub-client [JobPrefsDBPI_277079203] with ID [3] for session ID [261] host [ZELTSR] user [g.schardt] process ID [9116]
+[2016.12.02 14:34:30] [0011m.53s.269ms] [1] SC[262]: Registered sub-client [NetClassDBPI_277079218] with ID [3] for session ID [262] host [ZELTSR] user [g.schardt] process ID [6424]
+[2016.12.02 14:34:30] [0011m.53s.468ms] [1] SC[261]: Registered sub-client [Expedition_277079421] with ID [4] for session ID [261] host [ZELTSR] user [g.schardt] process ID [9116]
+[2016.12.02 14:34:30] [0011m.53s.478ms] [1] SC[261]: UnRegistered sub-client [Expedition_277079421] with ID [4] for session ID [261] host [ZELTSR] user [g.schardt] process ID [9116]
+[2016.12.02 14:34:30] [0011m.53s.504ms] [1] SC[262]: UnRegistered sub-client [JobPrefsDBPI_277079171] with ID [2] for session ID [262] host [ZELTSR] user [g.schardt] process ID [6424]
+[2016.12.02 14:34:30] [0011m.53s.507ms] [1] SC[262]: UnRegistered sub-client [JobPrefsDBPI_277078796] with ID [1] for session ID [262] host [ZELTSR] user [g.schardt] process ID [6424]
+[2016.12.02 14:34:30] [0011m.53s.514ms] [1] SC[262]: UnRegistered sub-client [NetClassDBPI_277079218] with ID [3] for session ID [262] host [ZELTSR] user [g.schardt] process ID [6424]
+[2016.12.02 14:34:30] [0011m.53s.547ms] [1] SC[261]: UnRegistered sub-client [JobPrefsDBPI_277079203] with ID [3] for session ID [261] host [ZELTSR] user [g.schardt] process ID [9116]
+[2016.12.02 14:34:30] [0011m.53s.550ms] [1] SC[261]: UnRegistered sub-client [JobPrefsDBPI_277078796] with ID [1] for session ID [261] host [ZELTSR] user [g.schardt] process ID [9116]
+[2016.12.02 14:34:30] [0011m.53s.557ms] [1] SC[261]: UnRegistered sub-client [NetClassDBPI_277079109] with ID [2] for session ID [261] host [ZELTSR] user [g.schardt] process ID [9116]
+[2016.12.02 14:34:30] [0011m.53s.615ms] [1] CMT: Removed client [261]
+[2016.12.02 14:34:30] [0011m.53s.616ms] [1] CMT: Removed client [262]
+[2016.12.02 14:34:30] [0011m.53s.616ms] [1] CMT: There are [3] clients now: 253, 259, 260
+[2016.12.02 14:34:30] [0011m.54s.018ms] [0] IT: Session [263] for host [ZELTSR] user [g.schardt] with process ID [8228] created
+[2016.12.02 14:34:30] [0011m.54s.019ms] [1] SC[263]: Registered sub-client [JobPrefsDBPI_277079812] with ID [1] for session ID [263] host [ZELTSR] user [g.schardt] process ID [8228]
+[2016.12.02 14:34:30] [0011m.54s.020ms] [1] CMT: There are [4] clients now: 253, 259, 260, 263
+[2016.12.02 14:34:31] [0011m.54s.144ms] [1] SC[263]: Registered sub-client [JobPrefsDBPI_277080093] with ID [2] for session ID [263] host [ZELTSR] user [g.schardt] process ID [8228]
+[2016.12.02 14:34:31] [0011m.54s.184ms] [1] SC[263]: Registered sub-client [NetClassDBPI_277080140] with ID [3] for session ID [263] host [ZELTSR] user [g.schardt] process ID [8228]
+[2016.12.02 14:34:31] [0011m.54s.229ms] [1] SC[260]: Registered sub-client [NetClassDBPI_277080187] with ID [3] for session ID [260] host [ZELTSR] user [g.schardt] process ID [9616]
+[2016.12.02 14:34:31] [0011m.54s.247ms] [1] SC[260]: Registered sub-client [Expedition_277080203] with ID [4] for session ID [260] host [ZELTSR] user [g.schardt] process ID [9616]
+[2016.12.02 14:34:31] [0011m.54s.249ms] [1] SC[260]: UnRegistered sub-client [Expedition_277080203] with ID [4] for session ID [260] host [ZELTSR] user [g.schardt] process ID [9616]
+[2016.12.02 14:34:31] [0011m.54s.357ms] [1] SC[260]: UnRegistered sub-client [JobPrefsDBPI_277079140] with ID [2] for session ID [260] host [ZELTSR] user [g.schardt] process ID [9616]
+[2016.12.02 14:34:31] [0011m.54s.359ms] [1] SC[260]: UnRegistered sub-client [JobPrefsDBPI_277078796] with ID [1] for session ID [260] host [ZELTSR] user [g.schardt] process ID [9616]
+[2016.12.02 14:34:31] [0011m.54s.365ms] [1] SC[260]: UnRegistered sub-client [NetClassDBPI_277080187] with ID [3] for session ID [260] host [ZELTSR] user [g.schardt] process ID [9616]
+[2016.12.02 14:34:31] [0011m.54s.424ms] [1] CMT: Removed client [260]
+[2016.12.02 14:34:31] [0011m.54s.424ms] [1] CMT: There are [3] clients now: 253, 259, 263
+[2016.12.02 14:34:31] [0011m.54s.738ms] [1] SC[263]: UnRegistered sub-client [JobPrefsDBPI_277080093] with ID [2] for session ID [263] host [ZELTSR] user [g.schardt] process ID [8228]
+[2016.12.02 14:34:31] [0011m.54s.741ms] [1] SC[263]: UnRegistered sub-client [JobPrefsDBPI_277079812] with ID [1] for session ID [263] host [ZELTSR] user [g.schardt] process ID [8228]
+[2016.12.02 14:34:31] [0011m.54s.748ms] [1] SC[263]: UnRegistered sub-client [NetClassDBPI_277080140] with ID [3] for session ID [263] host [ZELTSR] user [g.schardt] process ID [8228]
+[2016.12.02 14:34:31] [0011m.54s.828ms] [1] CMT: Removed client [263]
+[2016.12.02 14:34:31] [0011m.54s.828ms] [1] CMT: There are [2] clients now: 253, 259
+[2016.12.02 14:35:34] [0012m.57s.484ms] [1] SC[259]: Registered sub-client [JobPrefsDBPI_277143437] with ID [7] for session ID [259] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:35:34] [0012m.57s.500ms] [1] SC[259]: UnRegistered sub-client [JobPrefsDBPI_277143437] with ID [7] for session ID [259] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:35:34] [0012m.57s.639ms] [1] SC[259]: Registered sub-client [NetClassDBPI_277143593] with ID [8] for session ID [259] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:35:34] [0012m.57s.642ms] [1] SC[259]: UnRegistered sub-client [NetClassDBPI_277143593] with ID [8] for session ID [259] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:35:34] [0012m.57s.660ms] [1] SC[259]: Registered sub-client [JobPrefsDBPI_277143609] with ID [9] for session ID [259] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:35:34] [0012m.57s.673ms] [1] SC[259]: UnRegistered sub-client [JobPrefsDBPI_277143609] with ID [9] for session ID [259] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:35:42] [0013m.05s.459ms] [1] SC[259]: Registered sub-client [JobPrefsDBPI_277151406] with ID [10] for session ID [259] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:35:42] [0013m.05s.530ms] [1] SC[259]: UnRegistered sub-client [JobPrefsDBPI_277151406] with ID [10] for session ID [259] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:35:42] [0013m.06s.082ms] [0] IT: Session [264] for host [ZELTSR] user [g.schardt] with process ID [4808] created
+[2016.12.02 14:35:42] [0013m.06s.087ms] [0] IT: Session [265] for host [ZELTSR] user [g.schardt] with process ID [11276] created
+[2016.12.02 14:35:42] [0013m.06s.087ms] [1] SC[264]: Registered sub-client [JobPrefsDBPI_277151812] with ID [1] for session ID [264] host [ZELTSR] user [g.schardt] process ID [4808]
+[2016.12.02 14:35:42] [0013m.06s.095ms] [0] IT: Session [266] for host [ZELTSR] user [g.schardt] with process ID [6136] created
+[2016.12.02 14:35:42] [0013m.06s.095ms] [1] SC[265]: Registered sub-client [JobPrefsDBPI_277151812] with ID [1] for session ID [265] host [ZELTSR] user [g.schardt] process ID [11276]
+[2016.12.02 14:35:42] [0013m.06s.096ms] [1] SC[266]: Registered sub-client [JobPrefsDBPI_277151812] with ID [1] for session ID [266] host [ZELTSR] user [g.schardt] process ID [6136]
+[2016.12.02 14:35:42] [0013m.06s.140ms] [1] CMT: There are [5] clients now: 253, 259, 264, 265, 266
+[2016.12.02 14:35:43] [0013m.06s.171ms] [1] SC[266]: Registered sub-client [NetClassDBPI_277152125] with ID [2] for session ID [266] host [ZELTSR] user [g.schardt] process ID [6136]
+[2016.12.02 14:35:43] [0013m.06s.182ms] [0] IT: Session [267] for host [ZELTSR] user [g.schardt] with process ID [11836] created
+[2016.12.02 14:35:43] [0013m.06s.184ms] [1] SC[267]: Registered sub-client [JobPrefsDBPI_277151843] with ID [1] for session ID [267] host [ZELTSR] user [g.schardt] process ID [11836]
+[2016.12.02 14:35:43] [0013m.06s.229ms] [1] SC[264]: Registered sub-client [JobPrefsDBPI_277152187] with ID [2] for session ID [264] host [ZELTSR] user [g.schardt] process ID [4808]
+[2016.12.02 14:35:43] [0013m.06s.241ms] [1] CMT: There are [6] clients now: 253, 259, 264, 265, 266, 267
+[2016.12.02 14:35:43] [0013m.06s.253ms] [1] SC[265]: Registered sub-client [JobPrefsDBPI_277152203] with ID [2] for session ID [265] host [ZELTSR] user [g.schardt] process ID [11276]
+[2016.12.02 14:35:43] [0013m.06s.264ms] [1] SC[264]: Registered sub-client [NetClassDBPI_277152218] with ID [3] for session ID [264] host [ZELTSR] user [g.schardt] process ID [4808]
+[2016.12.02 14:35:43] [0013m.06s.273ms] [1] SC[266]: Registered sub-client [JobPrefsDBPI_277152218] with ID [3] for session ID [266] host [ZELTSR] user [g.schardt] process ID [6136]
+[2016.12.02 14:35:43] [0013m.06s.299ms] [1] SC[265]: Registered sub-client [NetClassDBPI_277152250] with ID [3] for session ID [265] host [ZELTSR] user [g.schardt] process ID [11276]
+[2016.12.02 14:35:43] [0013m.06s.325ms] [1] SC[265]: Registered sub-client [Expedition_277152281] with ID [4] for session ID [265] host [ZELTSR] user [g.schardt] process ID [11276]
+[2016.12.02 14:35:43] [0013m.06s.326ms] [1] SC[265]: UnRegistered sub-client [Expedition_277152281] with ID [4] for session ID [265] host [ZELTSR] user [g.schardt] process ID [11276]
+[2016.12.02 14:35:43] [0013m.06s.329ms] [1] SC[267]: Registered sub-client [JobPrefsDBPI_277152281] with ID [2] for session ID [267] host [ZELTSR] user [g.schardt] process ID [11836]
+[2016.12.02 14:35:43] [0013m.06s.371ms] [1] SC[267]: Registered sub-client [NetClassDBPI_277152328] with ID [3] for session ID [267] host [ZELTSR] user [g.schardt] process ID [11836]
+[2016.12.02 14:35:43] [0013m.06s.467ms] [1] SC[265]: UnRegistered sub-client [JobPrefsDBPI_277152203] with ID [2] for session ID [265] host [ZELTSR] user [g.schardt] process ID [11276]
+[2016.12.02 14:35:43] [0013m.06s.470ms] [1] SC[265]: UnRegistered sub-client [JobPrefsDBPI_277151812] with ID [1] for session ID [265] host [ZELTSR] user [g.schardt] process ID [11276]
+[2016.12.02 14:35:43] [0013m.06s.477ms] [1] SC[265]: UnRegistered sub-client [NetClassDBPI_277152250] with ID [3] for session ID [265] host [ZELTSR] user [g.schardt] process ID [11276]
+[2016.12.02 14:35:43] [0013m.06s.508ms] [1] SC[266]: Registered sub-client [Expedition_277152468] with ID [4] for session ID [266] host [ZELTSR] user [g.schardt] process ID [6136]
+[2016.12.02 14:35:43] [0013m.06s.516ms] [1] SC[266]: UnRegistered sub-client [Expedition_277152468] with ID [4] for session ID [266] host [ZELTSR] user [g.schardt] process ID [6136]
+[2016.12.02 14:35:43] [0013m.06s.544ms] [1] CMT: Removed client [265]
+[2016.12.02 14:35:43] [0013m.06s.544ms] [1] CMT: There are [5] clients now: 253, 259, 264, 266, 267
+[2016.12.02 14:35:43] [0013m.06s.592ms] [1] SC[267]: UnRegistered sub-client [JobPrefsDBPI_277152281] with ID [2] for session ID [267] host [ZELTSR] user [g.schardt] process ID [11836]
+[2016.12.02 14:35:43] [0013m.06s.595ms] [1] SC[267]: UnRegistered sub-client [JobPrefsDBPI_277151843] with ID [1] for session ID [267] host [ZELTSR] user [g.schardt] process ID [11836]
+[2016.12.02 14:35:43] [0013m.06s.602ms] [1] SC[267]: UnRegistered sub-client [NetClassDBPI_277152328] with ID [3] for session ID [267] host [ZELTSR] user [g.schardt] process ID [11836]
+[2016.12.02 14:35:43] [0013m.06s.606ms] [1] SC[266]: UnRegistered sub-client [JobPrefsDBPI_277152218] with ID [3] for session ID [266] host [ZELTSR] user [g.schardt] process ID [6136]
+[2016.12.02 14:35:43] [0013m.06s.608ms] [1] SC[266]: UnRegistered sub-client [JobPrefsDBPI_277151812] with ID [1] for session ID [266] host [ZELTSR] user [g.schardt] process ID [6136]
+[2016.12.02 14:35:43] [0013m.06s.615ms] [1] SC[266]: UnRegistered sub-client [NetClassDBPI_277152125] with ID [2] for session ID [266] host [ZELTSR] user [g.schardt] process ID [6136]
+[2016.12.02 14:35:43] [0013m.06s.645ms] [1] CMT: Removed client [266]
+[2016.12.02 14:35:43] [0013m.06s.645ms] [1] CMT: Removed client [267]
+[2016.12.02 14:35:43] [0013m.06s.645ms] [1] CMT: There are [3] clients now: 253, 259, 264
+[2016.12.02 14:35:43] [0013m.06s.842ms] [1] SC[264]: UnRegistered sub-client [JobPrefsDBPI_277152187] with ID [2] for session ID [264] host [ZELTSR] user [g.schardt] process ID [4808]
+[2016.12.02 14:35:43] [0013m.06s.845ms] [1] SC[264]: UnRegistered sub-client [JobPrefsDBPI_277151812] with ID [1] for session ID [264] host [ZELTSR] user [g.schardt] process ID [4808]
+[2016.12.02 14:35:43] [0013m.06s.851ms] [1] SC[264]: UnRegistered sub-client [NetClassDBPI_277152218] with ID [3] for session ID [264] host [ZELTSR] user [g.schardt] process ID [4808]
+[2016.12.02 14:35:43] [0013m.06s.948ms] [1] CMT: Removed client [264]
+[2016.12.02 14:35:43] [0013m.06s.948ms] [1] CMT: There are [2] clients now: 253, 259
+[2016.12.02 14:36:22] [0013m.46s.142ms] [1] SC[259]: Registered sub-client [JobPrefsDBPI_277192093] with ID [11] for session ID [259] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:36:23] [0013m.46s.155ms] [1] SC[259]: UnRegistered sub-client [JobPrefsDBPI_277192093] with ID [11] for session ID [259] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:36:23] [0013m.46s.274ms] [1] SC[259]: Registered sub-client [NetClassDBPI_277192234] with ID [12] for session ID [259] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:36:23] [0013m.46s.278ms] [1] SC[259]: UnRegistered sub-client [NetClassDBPI_277192234] with ID [12] for session ID [259] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:36:23] [0013m.46s.297ms] [1] SC[259]: Registered sub-client [JobPrefsDBPI_277192250] with ID [13] for session ID [259] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:36:23] [0013m.46s.308ms] [1] SC[259]: UnRegistered sub-client [JobPrefsDBPI_277192250] with ID [13] for session ID [259] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:36:33] [0013m.56s.199ms] [1] SC[259]: Registered sub-client [JobPrefsDBPI_277202156] with ID [14] for session ID [259] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:36:33] [0013m.56s.265ms] [1] SC[259]: UnRegistered sub-client [JobPrefsDBPI_277202156] with ID [14] for session ID [259] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:36:33] [0013m.56s.752ms] [0] IT: Session [268] for host [ZELTSR] user [g.schardt] with process ID [12280] created
+[2016.12.02 14:36:33] [0013m.56s.754ms] [1] SC[268]: Registered sub-client [JobPrefsDBPI_277202531] with ID [1] for session ID [268] host [ZELTSR] user [g.schardt] process ID [12280]
+[2016.12.02 14:36:33] [0013m.56s.775ms] [0] IT: Session [269] for host [ZELTSR] user [g.schardt] with process ID [7044] created
+[2016.12.02 14:36:33] [0013m.56s.776ms] [1] SC[269]: Registered sub-client [JobPrefsDBPI_277202546] with ID [1] for session ID [269] host [ZELTSR] user [g.schardt] process ID [7044]
+[2016.12.02 14:36:33] [0013m.56s.826ms] [0] IT: Session [270] for host [ZELTSR] user [g.schardt] with process ID [11576] created
+[2016.12.02 14:36:33] [0013m.56s.827ms] [1] SC[270]: Registered sub-client [JobPrefsDBPI_277202546] with ID [1] for session ID [270] host [ZELTSR] user [g.schardt] process ID [11576]
+[2016.12.02 14:36:33] [0013m.56s.852ms] [1] CMT: There are [5] clients now: 253, 259, 268, 269, 270
+[2016.12.02 14:36:33] [0013m.56s.866ms] [1] SC[268]: Registered sub-client [JobPrefsDBPI_277202812] with ID [2] for session ID [268] host [ZELTSR] user [g.schardt] process ID [12280]
+[2016.12.02 14:36:33] [0013m.56s.884ms] [1] SC[269]: Registered sub-client [JobPrefsDBPI_277202843] with ID [2] for session ID [269] host [ZELTSR] user [g.schardt] process ID [7044]
+[2016.12.02 14:36:33] [0013m.56s.890ms] [1] SC[270]: Registered sub-client [NetClassDBPI_277202843] with ID [2] for session ID [270] host [ZELTSR] user [g.schardt] process ID [11576]
+[2016.12.02 14:36:33] [0013m.56s.896ms] [1] SC[268]: Registered sub-client [NetClassDBPI_277202843] with ID [3] for session ID [268] host [ZELTSR] user [g.schardt] process ID [12280]
+[2016.12.02 14:36:33] [0013m.56s.912ms] [1] SC[268]: Registered sub-client [Expedition_277202859] with ID [4] for session ID [268] host [ZELTSR] user [g.schardt] process ID [12280]
+[2016.12.02 14:36:33] [0013m.56s.914ms] [1] SC[268]: UnRegistered sub-client [Expedition_277202859] with ID [4] for session ID [268] host [ZELTSR] user [g.schardt] process ID [12280]
+[2016.12.02 14:36:33] [0013m.56s.956ms] [1] SC[270]: Registered sub-client [JobPrefsDBPI_277202906] with ID [3] for session ID [270] host [ZELTSR] user [g.schardt] process ID [11576]
+[2016.12.02 14:36:33] [0013m.57s.019ms] [1] SC[268]: UnRegistered sub-client [JobPrefsDBPI_277202812] with ID [2] for session ID [268] host [ZELTSR] user [g.schardt] process ID [12280]
+[2016.12.02 14:36:33] [0013m.57s.022ms] [1] SC[268]: UnRegistered sub-client [JobPrefsDBPI_277202531] with ID [1] for session ID [268] host [ZELTSR] user [g.schardt] process ID [12280]
+[2016.12.02 14:36:33] [0013m.57s.028ms] [1] SC[268]: UnRegistered sub-client [NetClassDBPI_277202843] with ID [3] for session ID [268] host [ZELTSR] user [g.schardt] process ID [12280]
+[2016.12.02 14:36:33] [0013m.57s.054ms] [1] CMT: Removed client [268]
+[2016.12.02 14:36:33] [0013m.57s.054ms] [1] CMT: There are [4] clients now: 253, 259, 269, 270
+[2016.12.02 14:36:33] [0013m.57s.143ms] [1] SC[270]: Registered sub-client [Expedition_277203093] with ID [4] for session ID [270] host [ZELTSR] user [g.schardt] process ID [11576]
+[2016.12.02 14:36:34] [0013m.57s.153ms] [1] SC[270]: UnRegistered sub-client [Expedition_277203093] with ID [4] for session ID [270] host [ZELTSR] user [g.schardt] process ID [11576]
+[2016.12.02 14:36:34] [0013m.57s.220ms] [1] SC[270]: UnRegistered sub-client [JobPrefsDBPI_277202906] with ID [3] for session ID [270] host [ZELTSR] user [g.schardt] process ID [11576]
+[2016.12.02 14:36:34] [0013m.57s.222ms] [1] SC[270]: UnRegistered sub-client [JobPrefsDBPI_277202546] with ID [1] for session ID [270] host [ZELTSR] user [g.schardt] process ID [11576]
+[2016.12.02 14:36:34] [0013m.57s.229ms] [1] SC[270]: UnRegistered sub-client [NetClassDBPI_277202843] with ID [2] for session ID [270] host [ZELTSR] user [g.schardt] process ID [11576]
+[2016.12.02 14:36:34] [0013m.57s.256ms] [1] CMT: Removed client [270]
+[2016.12.02 14:36:34] [0013m.57s.256ms] [1] CMT: There are [3] clients now: 253, 259, 269
+[2016.12.02 14:36:34] [0013m.57s.783ms] [0] IT: Session [271] for host [ZELTSR] user [g.schardt] with process ID [8792] created
+[2016.12.02 14:36:34] [0013m.57s.784ms] [1] SC[271]: Registered sub-client [JobPrefsDBPI_277203531] with ID [1] for session ID [271] host [ZELTSR] user [g.schardt] process ID [8792]
+[2016.12.02 14:36:34] [0013m.57s.862ms] [1] CMT: There are [4] clients now: 253, 259, 269, 271
+[2016.12.02 14:36:34] [0013m.57s.898ms] [1] SC[271]: Registered sub-client [JobPrefsDBPI_277203843] with ID [2] for session ID [271] host [ZELTSR] user [g.schardt] process ID [8792]
+[2016.12.02 14:36:34] [0013m.57s.916ms] [1] SC[269]: Registered sub-client [NetClassDBPI_277203875] with ID [3] for session ID [269] host [ZELTSR] user [g.schardt] process ID [7044]
+[2016.12.02 14:36:34] [0013m.57s.931ms] [1] SC[271]: Registered sub-client [NetClassDBPI_277203875] with ID [3] for session ID [271] host [ZELTSR] user [g.schardt] process ID [8792]
+[2016.12.02 14:36:34] [0013m.58s.130ms] [1] SC[269]: UnRegistered sub-client [JobPrefsDBPI_277202843] with ID [2] for session ID [269] host [ZELTSR] user [g.schardt] process ID [7044]
+[2016.12.02 14:36:34] [0013m.58s.132ms] [1] SC[269]: UnRegistered sub-client [JobPrefsDBPI_277202546] with ID [1] for session ID [269] host [ZELTSR] user [g.schardt] process ID [7044]
+[2016.12.02 14:36:34] [0013m.58s.138ms] [1] SC[269]: UnRegistered sub-client [NetClassDBPI_277203875] with ID [3] for session ID [269] host [ZELTSR] user [g.schardt] process ID [7044]
+[2016.12.02 14:36:35] [0013m.58s.165ms] [1] CMT: Removed client [269]
+[2016.12.02 14:36:35] [0013m.58s.165ms] [1] CMT: There are [3] clients now: 253, 259, 271
+[2016.12.02 14:36:35] [0013m.58s.466ms] [1] SC[271]: UnRegistered sub-client [JobPrefsDBPI_277203843] with ID [2] for session ID [271] host [ZELTSR] user [g.schardt] process ID [8792]
+[2016.12.02 14:36:35] [0013m.58s.469ms] [1] SC[271]: UnRegistered sub-client [JobPrefsDBPI_277203531] with ID [1] for session ID [271] host [ZELTSR] user [g.schardt] process ID [8792]
+[2016.12.02 14:36:35] [0013m.58s.476ms] [1] SC[271]: UnRegistered sub-client [NetClassDBPI_277203875] with ID [3] for session ID [271] host [ZELTSR] user [g.schardt] process ID [8792]
+[2016.12.02 14:36:35] [0013m.58s.569ms] [1] CMT: Removed client [271]
+[2016.12.02 14:36:35] [0013m.58s.569ms] [1] CMT: There are [2] clients now: 253, 259
+[2016.12.02 14:37:04] [0014m.27s.501ms] [1] SC[259]: Registered sub-client [JobPrefsDBPI_277233453] with ID [15] for session ID [259] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:37:07] [0014m.30s.532ms] [0] IT: Session [272] for host [ZELTSR] user [g.schardt] with process ID [7452] created
+[2016.12.02 14:37:07] [0014m.30s.533ms] [1] SC[272]: Registered sub-client [JobPrefsDBPI_277236328] with ID [1] for session ID [272] host [ZELTSR] user [g.schardt] process ID [7452]
+[2016.12.02 14:37:07] [0014m.30s.580ms] [1] SC[272]: UnRegistered sub-client [JobPrefsDBPI_277236328] with ID [1] for session ID [272] host [ZELTSR] user [g.schardt] process ID [7452]
+[2016.12.02 14:37:07] [0014m.30s.588ms] [1] CMT: There are [3] clients now: 253, 259, 272
+[2016.12.02 14:37:07] [0014m.30s.588ms] [1] CMT: Removed client [272]
+[2016.12.02 14:37:07] [0014m.30s.588ms] [1] CMT: There are [2] clients now: 253, 259
+[2016.12.02 14:37:10] [0014m.33s.902ms] [1] SC[259]: Registered sub-client [JobPrefsDBPI_277239859] with ID [16] for session ID [259] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:37:10] [0014m.33s.926ms] [1] SC[259]: UnRegistered sub-client [JobPrefsDBPI_277239859] with ID [16] for session ID [259] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:37:12] [0014m.35s.696ms] [1] SC[259]: UnRegistered sub-client [JobPrefsDBPI_277233453] with ID [15] for session ID [259] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:37:17] [0014m.40s.649ms] [1] SC[259]: Registered sub-client [JobPrefsDBPI_277246609] with ID [17] for session ID [259] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:37:19] [0014m.42s.969ms] [0] IT: Session [273] for host [ZELTSR] user [g.schardt] with process ID [7852] created
+[2016.12.02 14:37:19] [0014m.42s.970ms] [1] SC[273]: Registered sub-client [JobPrefsDBPI_277248703] with ID [1] for session ID [273] host [ZELTSR] user [g.schardt] process ID [7852]
+[2016.12.02 14:37:19] [0014m.43s.010ms] [1] CMT: There are [3] clients now: 253, 259, 273
+[2016.12.02 14:37:19] [0014m.43s.073ms] [1] SC[273]: Registered sub-client [JobPrefsDBPI_277249031] with ID [2] for session ID [273] host [ZELTSR] user [g.schardt] process ID [7852]
+[2016.12.02 14:37:19] [0014m.43s.100ms] [1] SC[273]: UnRegistered sub-client [JobPrefsDBPI_277248703] with ID [1] for session ID [273] host [ZELTSR] user [g.schardt] process ID [7852]
+[2016.12.02 14:37:20] [0014m.43s.787ms] [1] SC[273]: UnRegistered sub-client [JobPrefsDBPI_277249031] with ID [2] for session ID [273] host [ZELTSR] user [g.schardt] process ID [7852]
+[2016.12.02 14:37:20] [0014m.43s.819ms] [1] CMT: Removed client [273]
+[2016.12.02 14:37:20] [0014m.43s.819ms] [1] CMT: There are [2] clients now: 253, 259
+[2016.12.02 14:37:20] [0014m.44s.103ms] [1] SC[259]: UnRegistered sub-client [JobPrefsDBPI_277246609] with ID [17] for session ID [259] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:37:27] [0014m.50s.778ms] [1] SC[259]: Registered sub-client [JobPrefsDBPI_277256734] with ID [18] for session ID [259] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:37:27] [0014m.50s.863ms] [1] SC[259]: Registered sub-client [JobPrefsDBPI_277256812] with ID [19] for session ID [259] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:37:28] [0014m.51s.181ms] [1] SC[259]: UnRegistered sub-client [JobPrefsDBPI_277256734] with ID [18] for session ID [259] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:37:28] [0014m.51s.198ms] [1] SC[259]: UnRegistered sub-client [JobPrefsDBPI_277256812] with ID [19] for session ID [259] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:37:30] [0014m.53s.366ms] [1] SC[259]: Registered sub-client [JobPrefsDBPI_277259312] with ID [20] for session ID [259] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:37:30] [0014m.53s.375ms] [1] SC[259]: UnRegistered sub-client [JobPrefsDBPI_277259312] with ID [20] for session ID [259] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:37:30] [0014m.53s.454ms] [1] SC[259]: Registered sub-client [JobPrefsDBPI_277259406] with ID [21] for session ID [259] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:37:30] [0014m.53s.479ms] [1] SC[259]: UnRegistered sub-client [JobPrefsDBPI_277259406] with ID [21] for session ID [259] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:37:31] [0014m.54s.471ms] [0] IT: Session [274] for host [ZELTSR] user [g.schardt] with process ID [9224] created
+[2016.12.02 14:37:31] [0014m.54s.472ms] [1] SC[274]: Registered sub-client [JobPrefsDBPI_277260234] with ID [1] for session ID [274] host [ZELTSR] user [g.schardt] process ID [9224]
+[2016.12.02 14:37:31] [0014m.54s.515ms] [1] SC[274]: UnRegistered sub-client [JobPrefsDBPI_277260234] with ID [1] for session ID [274] host [ZELTSR] user [g.schardt] process ID [9224]
+[2016.12.02 14:37:31] [0014m.54s.526ms] [1] CMT: There are [3] clients now: 253, 259, 274
+[2016.12.02 14:37:31] [0014m.54s.526ms] [1] CMT: Removed client [274]
+[2016.12.02 14:37:31] [0014m.54s.526ms] [1] CMT: There are [2] clients now: 253, 259
+[2016.12.02 14:37:31] [0014m.55s.131ms] [0] IT: Session [275] for host [ZELTSR] user [g.schardt] with process ID [9224] created
+[2016.12.02 14:37:31] [0014m.55s.132ms] [1] SC[275]: Registered sub-client [JobPrefsDBPI_277261015] with ID [1] for session ID [275] host [ZELTSR] user [g.schardt] process ID [9224]
+[2016.12.02 14:37:31] [0014m.55s.133ms] [1] CMT: There are [3] clients now: 253, 259, 275
+[2016.12.02 14:37:32] [0014m.55s.204ms] [1] SC[275]: Registered sub-client [JobPrefsDBPI_277261156] with ID [2] for session ID [275] host [ZELTSR] user [g.schardt] process ID [9224]
+[2016.12.02 14:37:32] [0014m.55s.228ms] [1] SC[275]: UnRegistered sub-client [JobPrefsDBPI_277261015] with ID [1] for session ID [275] host [ZELTSR] user [g.schardt] process ID [9224]
+[2016.12.02 14:37:32] [0014m.55s.233ms] [1] SC[275]: UnRegistered sub-client [JobPrefsDBPI_277261156] with ID [2] for session ID [275] host [ZELTSR] user [g.schardt] process ID [9224]
+[2016.12.02 14:37:32] [0014m.55s.335ms] [1] CMT: Removed client [275]
+[2016.12.02 14:37:32] [0014m.55s.335ms] [1] CMT: There are [2] clients now: 253, 259
+[2016.12.02 14:37:32] [0014m.55s.777ms] [0] IT: Session [276] for host [ZELTSR] user [g.schardt] with process ID [9224] created
+[2016.12.02 14:37:32] [0014m.55s.778ms] [1] SC[276]: Registered sub-client [JobPrefsDBPI_277261656] with ID [1] for session ID [276] host [ZELTSR] user [g.schardt] process ID [9224]
+[2016.12.02 14:37:32] [0014m.55s.840ms] [1] CMT: There are [3] clients now: 253, 259, 276
+[2016.12.02 14:37:32] [0014m.55s.893ms] [1] SC[276]: Registered sub-client [JobPrefsDBPI_277261843] with ID [2] for session ID [276] host [ZELTSR] user [g.schardt] process ID [9224]
+[2016.12.02 14:37:32] [0014m.56s.118ms] [1] SC[276]: UnRegistered sub-client [JobPrefsDBPI_277261843] with ID [2] for session ID [276] host [ZELTSR] user [g.schardt] process ID [9224]
+[2016.12.02 14:37:32] [0014m.56s.124ms] [1] SC[276]: UnRegistered sub-client [JobPrefsDBPI_277261656] with ID [1] for session ID [276] host [ZELTSR] user [g.schardt] process ID [9224]
+[2016.12.02 14:37:32] [0014m.56s.143ms] [1] CMT: Removed client [276]
+[2016.12.02 14:37:32] [0014m.56s.143ms] [1] CMT: There are [2] clients now: 253, 259
+[2016.12.02 14:37:33] [0014m.56s.321ms] [1] SC[259]: Registered sub-client [JobPrefsDBPI_277262281] with ID [22] for session ID [259] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:37:33] [0014m.56s.339ms] [1] SC[259]: UnRegistered sub-client [JobPrefsDBPI_277262281] with ID [22] for session ID [259] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:37:46] [0015m.09s.845ms] [1] SC[259]: UnRegistered sub-client [ExpeditionCrossProber] with ID [2] for session ID [259] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:37:49] [0015m.12s.344ms] [1] SC[259]: UnRegistered sub-client [Expedition PCB_276545562] with ID [1] for session ID [259] host [ZELTSR] user [g.schardt] process ID [8960]
+[2016.12.02 14:37:49] [0015m.12s.406ms] [1] CMT: Removed client [259]
+[2016.12.02 14:37:49] [0015m.12s.406ms] [1] CMT: There are [1] clients now: 253
+[2016.12.02 14:37:51] [0015m.14s.856ms] [1] SC[253]: UnRegistered sub-client [SystemDesignDll] with ID [11] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:37:52] [0015m.15s.203ms] [1] SC[253]: UnRegistered sub-client [GlobalNetAliasUpdater_237060320] with ID [26] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:37:52] [0015m.15s.204ms] [1] SC[253]: UnRegistered sub-client [BlockCacheDxD:237237184] with ID [25] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:37:52] [0015m.15s.205ms] [1] SC[253]: UnRegistered sub-client [ObjectHolder_306513600] with ID [24] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:37:52] [0015m.15s.206ms] [1] SC[253]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:487245152] with ID [27] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:37:52] [0015m.15s.217ms] [1] SC[253]: UnRegistered sub-client [Navigator] with ID [13] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:37:52] [0015m.15s.714ms] [1] SC[253]: UnRegistered sub-client [MyParts] with ID [19] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:37:52] [0015m.15s.718ms] [1] SC[253]: UnRegistered sub-client [toolboxes] with ID [21] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:37:55] [0015m.18s.399ms] [1] SC[253]: UnRegistered sub-client [SelectionHolder] with ID [4] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:37:55] [0015m.18s.400ms] [1] SC[253]: UnRegistered sub-client [SheetConnectorsCacheDxD:1480684965] with ID [22] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:37:55] [0015m.18s.401ms] [1] SC[253]: UnRegistered sub-client [NetsNamesCollectorDxD:1480684965] with ID [23] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:37:55] [0015m.18s.402ms] [1] SC[253]: UnRegistered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:37:55] [0015m.18s.403ms] [1] SC[253]: UnRegistered sub-client [DxD] with ID [1] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:37:55] [0015m.18s.422ms] [1] SC[253]: UnRegistered sub-client [xprob] with ID [3] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:37:55] [0015m.18s.423ms] [1] SC[253]: UnRegistered sub-client [SymbolEditor] with ID [5] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:37:55] [0015m.18s.426ms] [1] SC[253]: UnRegistered sub-client [OutputWindow] with ID [14] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:37:55] [0015m.18s.429ms] [1] SC[253]: UnRegistered sub-client [SAE] with ID [16] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:37:55] [0015m.18s.434ms] [1] SC[253]: UnRegistered sub-client [CCZAddin] with ID [17] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:37:55] [0015m.18s.436ms] [1] SC[253]: UnRegistered sub-client [DxThumbnails] with ID [18] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:37:55] [0015m.18s.760ms] [1] SC[253]: UnRegistered sub-client [PinsList] with ID [20] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:37:55] [0015m.18s.787ms] [1] SC[253]: UnRegistered sub-client [PlaceDevice] with ID [15] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:37:55] [0015m.18s.867ms] [1] SC[253]: UnRegistered sub-client [HdlProject] with ID [12] for session ID [253] host [ZELTSR] user [g.schardt] process ID [7760]
+[2016.12.02 14:37:55] [0015m.18s.883ms] [1] CMT: Removed client [253]
+[2016.12.02 14:37:55] [0015m.18s.883ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2016.12.02 14:37:57] [0015m.20s.194ms] [0] CMT: Starting server auto-close
+[2016.12.02 14:37:57] [0015m.20s.249ms] [0] S: Closing server
+[2016.12.02 14:37:57] [0015m.20s.318ms] [0] iCDB Server PI: Closing plugins
+[2016.12.02 14:37:57] [0015m.20s.318ms] [0] iCDB Server PI: Plugins closed
+[2016.12.02 14:37:57] [0015m.20s.318ms] [0] iCDB Server PI: Unloading database
+[2016.12.02 14:37:57] [0015m.20s.318ms] [0] iCDB Server PI: Saving storage
+[2016.12.02 14:37:57] [0015m.20s.318ms] [0] iCDB Server PI: Closing database
+[2016.12.02 14:37:57] [0015m.20s.325ms] [1] iCDB Server PI: Stats: Database defragmentation: max[2] avg[1] holes[19%] data[69%]
+[2016.12.02 14:37:57] [0015m.20s.325ms] [1] iCDB Server PI: Stats: Database file size [885620 (864.9 kB)]
+[2016.12.02 14:37:57] [0015m.20s.328ms] [1] iCDB Server PI: WARNING: Database needs defragmentation!
+[2016.12.02 14:37:57] [0015m.20s.340ms] [0] iCDB Server PI: Database closed
+[2016.12.02 14:37:57] [0015m.20s.340ms] [0] iCDB Server PI: Defragmenting database
+[2016.12.02 14:37:57] [0015m.20s.341ms] [0] iCDB Server PI: Creating database [N:\Mentor\MSH\Georg\KeCo Piezo\database] backup to file [N:\Mentor\MSH\Georg\KeCo Piezo\database\cdbback\2016-12-02 14.37.57-8400-d.zip]
+[2016.12.02 14:37:57] [0015m.21s.115ms] [0] iCDB Server PI: Database backup: DONE
+[2016.12.02 14:37:58] [0015m.21s.145ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2016.12.02 14:37:58] [0015m.21s.145ms] [0] Database GUARD OK: [885620]
+[2016.12.02 14:37:58] [0015m.21s.145ms] [0] SingleFile: [9bd0-585d-8498-8bd7] SFI version check [1009] [1009]
+[2016.12.02 14:37:58] [0015m.21s.231ms] [0] SingleFile: [9bd0-585d-8498-8bd7] Database SFI header has been read in [85ms 732us]
+[2016.12.02 14:37:58] [0015m.21s.829ms] [1] iCDB Server PI: Stats: Database file sizes: before[885620 (864.9 kB)], after[618288 (603.8 kB)], gain[267332 (261.1 kB)]
+[2016.12.02 14:37:59] [0015m.22s.233ms] [0] Single file [N:\Mentor\MSH\Georg\KeCo Piezo\database\icdb.dat] closed with size [618288 (603.8 kB)]
+[2016.12.02 14:37:59] [0015m.22s.235ms] [0] iCDB Server PI: Database defragmentation completed successfully
+[2016.12.02 14:37:59] [0015m.22s.235ms] [1] BackupTransaction: Removing database backup [N:\Mentor\MSH\Georg\KeCo Piezo\database\cdbback\2016-12-02 14.37.57-8400-d.zip]
+[2016.12.02 14:37:59] [0015m.22s.241ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [1658394] ticks
+[2016.12.02 14:37:59] [0015m.22s.241ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [499759] microseconds
+[2016.12.02 14:37:59] [0015m.22s.241ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [836]
+[2016.12.02 14:37:59] [0015m.22s.241ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [1672] commands per second
+[2016.12.02 14:37:59] [0015m.22s.308ms] [0] S: STOP

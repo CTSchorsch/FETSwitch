@@ -1,0 +1,304 @@
+Tue Feb 07 13:26:00 2017
+
+Project path: N:\Mentor\MSH\Georg\KeCo Piezo\database
+
+Env. WDIR: C:\Users\g.schardt\wdir\EEVX.2.1;m:\cad_config;C:\MentorGraphics\EEVX.2.1\SDD_HOME\standard;C:\MentorGraphics\EEVX.2.1\SDD_HOME\standard
+WDIRs: 
+	C:\Users\g.schardt\wdir\EEVX.2.1
+	m:\cad_config
+	C:\MentorGraphics\EEVX.2.1\SDD_HOME\standard
+	C:\MentorGraphics\EEVX.2.1\SDD_HOME\standard
+
+Loaded cns files: 
+	C:\Users\g.schardt\wdir\EEVX.2.1\user.cns=af39-e5b3-3ccb-c985-2eca-9987-eca9-9850-0050-6e1e-debe-e506
+	m:\cad_config\user.cns=53b0-f983-6e92-c6ca-ff43-d0f3-053d-0f40-2d9b-1b49-7919-e5f5
+	C:\MentorGraphics\EEVX.2.1\SDD_HOME\standard\ce_ee.cns=7.10.56 (read-only)
+
+Loaded cns - data stored in database: C:\Users\g.schardt\wdir\EEVX.2.1\user.cns=af39-e5b3-3ccb-c985-2eca-9987-eca9-9850-0050-6e1e-debe-e506;m:\cad_config\user.cns=53b0-f983-6e92-c6ca-ff43-d0f3-053d-0f40-2d9b-1b49-7919-e5f5;C:\MentorGraphics\EEVX.2.1\SDD_HOME\standard\ce_ee.cns=7.10.56
+Before global upgrade from version: 7.10.35 to version: 7.10.56
+
+Constraints definition "ADHCC" added (default value: 0).
+Constraints definition "ALHCC" added (default value: 0).
+Constraints definition "APUHCC" added (default value: 0).
+Constraints definition "APHHCC" added (default value: 0).
+Constraints definition "DSN_SURFACE_ROUGHNESS_ENABLED" added (default value: 0).
+Constraints definition "DSN_SURFACE_ROUGHNESS_PARAM" added (default value: RMS).
+Constraints definition "DSN_TRAPEZOIDAL_TRACE_SHAPES_ENABLED" added (default value: 0).
+Constraints definition "DSN_AUTO_CALCULATE_ER" added.
+Constraints definition "BONDPAD_TO_BONDPAD" added (default value: 254000).
+Constraints definition "BONDPAD_TO_BONDPAD" will be migrated based on PAD_TO_PAD.
+Constraints definition "BONDPAD_TO_TRACE" added (default value: 254000).
+Constraints definition "BONDPAD_TO_TRACE" will be migrated based on SMDPAD_TO_TRACE.
+Constraints definition "BONDPAD_TO_PAD" added (default value: 254000).
+Constraints definition "BONDPAD_TO_PAD" will be migrated based on PAD_TO_PAD.
+Constraints definition "BONDPAD_TO_VIA" added (default value: 254000).
+Constraints definition "BONDPAD_TO_VIA" will be migrated based on SMDPAD_TO_VIA.
+Constraints definition "BONDPAD_TO_PLANE" added (default value: 254000).
+Constraints definition "BONDPAD_TO_PLANE" will be migrated based on PAD_TO_PLANE.
+Constraints definition "BONDPAD_TO_SMDPAD" added (default value: 254000).
+Constraints definition "BONDPAD_TO_SMDPAD" will be migrated based on PAD_TO_PAD.
+Constraints definition "BACKDRILL" added (default value: FALSE).
+Constraints definition "ATTACHED_DIELECTRIC" added (default value: None).
+Constraints definition "LAYER_PROCESS" added.
+Constraints definition "LAYER_TREATED_SIDE" added.
+Constraints definition "LAYER_NARROW_SIDE" added.
+Constraints definition "LAYER_ROUGHNESS_TOP" added.
+Constraints definition "LAYER_ROUGHNESS_BOTTOM" added.
+Constraints definition "LAYER_ETCH_FACTOR" added.
+Constraints definition "PCLASS" added.
+Constraints definition "CONSTRAINT_CLASS" added.
+BeforeGlobalUpgrade took 24ms, 0s
+
+Upgrade snapshot DxD
+Constraint "LAYER_PROCESS" was added on layer "SIGNAL_1" with default value "Electrodeposit".
+Constraint "LAYER_TREATED_SIDE" was added on layer "SIGNAL_1" with default value "None".
+Constraint "LAYER_ROUGHNESS_TOP" was added on layer "SIGNAL_1" with default value "381".
+Constraint "LAYER_ROUGHNESS_BOTTOM" was added on layer "SIGNAL_1" with default value "381".
+Constraint "LAYER_ETCH_FACTOR" was added on layer "SIGNAL_1" with default value "0.741".
+Constraint "LAYER_NARROW_SIDE" was added on layer "SIGNAL_1" with default value "Top".
+Constraint "LAYER_PROCESS" was added on layer "SIGNAL_4" with default value "Electrodeposit".
+Constraint "LAYER_TREATED_SIDE" was added on layer "SIGNAL_4" with default value "None".
+Constraint "LAYER_ROUGHNESS_TOP" was added on layer "SIGNAL_4" with default value "381".
+Constraint "LAYER_ROUGHNESS_BOTTOM" was added on layer "SIGNAL_4" with default value "381".
+Constraint "LAYER_ETCH_FACTOR" was added on layer "SIGNAL_4" with default value "0.741".
+Constraint "LAYER_NARROW_SIDE" was added on layer "SIGNAL_4" with default value "Top".
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 68-26-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 68-26-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 68-36-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 68-26-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 68-21-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 68-51-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 68-27-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 68-27-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 68-37-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 68-27-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 68-22-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 68-52-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 68-30-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 68-30-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 68-40-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 68-30-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 68-25-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 68-55-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+UpgradeSnapshot took 80ms, 0s
+
+Upgrade snapshot __ise_DxD
+UpgradeSnapshot took 0ms, 0s
+
+Upgrade snapshot xIOPT
+UpgradeSnapshot took 1ms, 0s
+
+Upgrade snapshot _savepoint[SCH][288230380446679042][4971973992911994882][][1467654623]
+UpgradeSnapshot took 4ms, 0s
+
+Upgrade snapshot _savepoint[SCH][288230380446679042][4971974001501929474][][1467654670]
+UpgradeSnapshot took 4ms, 0s
+
+Upgrade snapshot Piezzo_layout_temp
+Constraint "LAYER_PROCESS" was added on layer "SIGNAL_1" with default value "Electrodeposit".
+Constraint "LAYER_TREATED_SIDE" was added on layer "SIGNAL_1" with default value "None".
+Constraint "LAYER_ROUGHNESS_TOP" was added on layer "SIGNAL_1" with default value "381".
+Constraint "LAYER_ROUGHNESS_BOTTOM" was added on layer "SIGNAL_1" with default value "381".
+Constraint "LAYER_ETCH_FACTOR" was added on layer "SIGNAL_1" with default value "0.741".
+Constraint "LAYER_NARROW_SIDE" was added on layer "SIGNAL_1" with default value "Top".
+Constraint "LAYER_PROCESS" was added on layer "SIGNAL_4" with default value "Electrodeposit".
+Constraint "LAYER_TREATED_SIDE" was added on layer "SIGNAL_4" with default value "None".
+Constraint "LAYER_ROUGHNESS_TOP" was added on layer "SIGNAL_4" with default value "381".
+Constraint "LAYER_ROUGHNESS_BOTTOM" was added on layer "SIGNAL_4" with default value "381".
+Constraint "LAYER_ETCH_FACTOR" was added on layer "SIGNAL_4" with default value "0.741".
+Constraint "LAYER_NARROW_SIDE" was added on layer "SIGNAL_4" with default value "Top".
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 68-26-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 68-26-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 68-36-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 68-26-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 68-21-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 68-51-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 68-27-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 68-27-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 68-37-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 68-27-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 68-22-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 68-52-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 68-30-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 68-30-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 68-40-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 68-30-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 68-25-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 68-55-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+UpgradeSnapshot took 65ms, 0s
+
+Upgrade snapshot Piezzo
+Constraint "LAYER_PROCESS" was added on layer "SIGNAL_1" with default value "Electrodeposit".
+Constraint "LAYER_TREATED_SIDE" was added on layer "SIGNAL_1" with default value "None".
+Constraint "LAYER_ROUGHNESS_TOP" was added on layer "SIGNAL_1" with default value "381".
+Constraint "LAYER_ROUGHNESS_BOTTOM" was added on layer "SIGNAL_1" with default value "381".
+Constraint "LAYER_ETCH_FACTOR" was added on layer "SIGNAL_1" with default value "0.741".
+Constraint "LAYER_NARROW_SIDE" was added on layer "SIGNAL_1" with default value "Top".
+Constraint "LAYER_PROCESS" was added on layer "SIGNAL_4" with default value "Electrodeposit".
+Constraint "LAYER_TREATED_SIDE" was added on layer "SIGNAL_4" with default value "None".
+Constraint "LAYER_ROUGHNESS_TOP" was added on layer "SIGNAL_4" with default value "381".
+Constraint "LAYER_ROUGHNESS_BOTTOM" was added on layer "SIGNAL_4" with default value "381".
+Constraint "LAYER_ETCH_FACTOR" was added on layer "SIGNAL_4" with default value "0.741".
+Constraint "LAYER_NARROW_SIDE" was added on layer "SIGNAL_4" with default value "Top".
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 68-26-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 68-26-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 68-36-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 68-26-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 68-21-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 68-51-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 68-27-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 68-27-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 68-37-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 68-27-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 68-22-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 68-52-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 68-30-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 68-30-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 68-40-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 68-30-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 68-25-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 68-55-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+UpgradeSnapshot took 60ms, 0s
+
+Upgrade snapshot Piezzo_RefSync
+Constraint "LAYER_PROCESS" was added on layer "SIGNAL_1" with default value "Electrodeposit".
+Constraint "LAYER_TREATED_SIDE" was added on layer "SIGNAL_1" with default value "None".
+Constraint "LAYER_ROUGHNESS_TOP" was added on layer "SIGNAL_1" with default value "381".
+Constraint "LAYER_ROUGHNESS_BOTTOM" was added on layer "SIGNAL_1" with default value "381".
+Constraint "LAYER_ETCH_FACTOR" was added on layer "SIGNAL_1" with default value "0.741".
+Constraint "LAYER_NARROW_SIDE" was added on layer "SIGNAL_1" with default value "Top".
+Constraint "LAYER_PROCESS" was added on layer "SIGNAL_4" with default value "Electrodeposit".
+Constraint "LAYER_TREATED_SIDE" was added on layer "SIGNAL_4" with default value "None".
+Constraint "LAYER_ROUGHNESS_TOP" was added on layer "SIGNAL_4" with default value "381".
+Constraint "LAYER_ROUGHNESS_BOTTOM" was added on layer "SIGNAL_4" with default value "381".
+Constraint "LAYER_ETCH_FACTOR" was added on layer "SIGNAL_4" with default value "0.741".
+Constraint "LAYER_NARROW_SIDE" was added on layer "SIGNAL_4" with default value "Top".
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 68-26-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 68-26-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 68-36-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 68-26-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 68-21-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 68-51-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 68-27-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 68-27-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 68-37-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 68-27-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 68-22-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 68-52-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 68-30-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 68-30-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 68-40-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 68-30-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 68-25-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 68-55-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+UpgradeSnapshot took 58ms, 0s
+
+Upgrade snapshot Piezzo_LDDTemp
+Constraint "LAYER_PROCESS" was added on layer "SIGNAL_1" with default value "Electrodeposit".
+Constraint "LAYER_TREATED_SIDE" was added on layer "SIGNAL_1" with default value "None".
+Constraint "LAYER_ROUGHNESS_TOP" was added on layer "SIGNAL_1" with default value "381".
+Constraint "LAYER_ROUGHNESS_BOTTOM" was added on layer "SIGNAL_1" with default value "381".
+Constraint "LAYER_ETCH_FACTOR" was added on layer "SIGNAL_1" with default value "0.741".
+Constraint "LAYER_NARROW_SIDE" was added on layer "SIGNAL_1" with default value "Top".
+Constraint "LAYER_PROCESS" was added on layer "SIGNAL_4" with default value "Electrodeposit".
+Constraint "LAYER_TREATED_SIDE" was added on layer "SIGNAL_4" with default value "None".
+Constraint "LAYER_ROUGHNESS_TOP" was added on layer "SIGNAL_4" with default value "381".
+Constraint "LAYER_ROUGHNESS_BOTTOM" was added on layer "SIGNAL_4" with default value "381".
+Constraint "LAYER_ETCH_FACTOR" was added on layer "SIGNAL_4" with default value "0.741".
+Constraint "LAYER_NARROW_SIDE" was added on layer "SIGNAL_4" with default value "Top".
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 68-26-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 68-26-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 68-36-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 68-26-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 68-21-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 68-51-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 68-27-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 68-27-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 68-37-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 68-27-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 68-22-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 68-52-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 68-30-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 68-30-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 68-40-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 68-30-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 68-25-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 68-55-22) - old value: 254000.000000000000000, new value: 200000.000000000000000.
+UpgradeSnapshot took 56ms, 0s
+
+Upgrade snapshot _savepoint[SCH][288230380446679042][4971973992911994882][17:55:30_7-4-16][1467725581]
+UpgradeSnapshot took 6ms, 0s
+
+Upgrade snapshot _savepoint[SCH][288230380446679042][4971974001501929474][7:16:59_7-5-16][1467725606]
+UpgradeSnapshot took 16ms, 0s
+
+Upgrade snapshot _savepoint[SCH][288230380446679042][4971973992911994882][17:55:30_7-4-16][1467787633]
+UpgradeSnapshot took 5ms, 0s
+
+Upgrade snapshot _savepoint[SCH][288230380446679042][4971974001501929474][14:32:56_7-5-16][1467787644]
+UpgradeSnapshot took 23ms, 0s
+
+Upgrade snapshot _savepoint[SCH][288230380446679042][4971973992911994882][17:55:30_7-4-16][1468222817]
+UpgradeSnapshot took 5ms, 0s
+
+Upgrade snapshot _savepoint[SCH][288230380446679042][4971974001501929474][7:03:50_7-6-16][1468222824]
+UpgradeSnapshot took 25ms, 0s
+
+Upgrade snapshot _savepoint[SCH][288230380446679042][4971973992911994882][17:55:30_7-4-16][1468244566]
+UpgradeSnapshot took 5ms, 0s
+
+Upgrade snapshot _savepoint[SCH][288230380446679042][4971974001501929474][7:03:50_7-6-16][1468244572]
+UpgradeSnapshot took 19ms, 0s
+
+Upgrade snapshot _savepoint[SCH][288230380446679042][4971973992911994882][17:55:30_7-4-16][1468435061]
+UpgradeSnapshot took 5ms, 0s
+
+Upgrade snapshot _savepoint[SCH][288230380446679042][4971974001501929474][14:14:00_7-11-16][1468435070]
+UpgradeSnapshot took 16ms, 0s
+
+Upgrade snapshot _savepoint[SCH][288230380446679042][4971973992911994882][17:55:30_7-4-16][1468492435]
+UpgradeSnapshot took 5ms, 0s
+
+Upgrade snapshot _savepoint[SCH][288230380446679042][4971974001501929474][19:00:13_7-13-16][1468492458]
+UpgradeSnapshot took 24ms, 0s
+
+Upgrade snapshot _savepoint[SCH][288230380446679042][4971973992911994882][17:55:30_7-4-16][1469434715]
+UpgradeSnapshot took 5ms, 0s
+
+Upgrade snapshot _savepoint[SCH][288230380446679042][4971974001501929474][11:30:40_7-14-16][1469434779]
+UpgradeSnapshot took 20ms, 0s
+
+Upgrade snapshot _savepoint[SCH][288230380446679042][4971973992911994882][17:55:30_7-4-16][1470663049]
+UpgradeSnapshot took 4ms, 0s
+
+Upgrade snapshot _savepoint[SCH][288230380446679042][4971974001501929474][8:19:58_7-25-16][1470663070]
+UpgradeSnapshot took 16ms, 0s
+
+Upgrade snapshot _savepoint[SCH][288230380446679042][4971973992911994882][17:55:30_7-4-16][1470728607]
+UpgradeSnapshot took 4ms, 0s
+
+Upgrade snapshot _savepoint[SCH][288230380446679042][4971974001501929474][14:16:57_8-8-16][1470728625]
+UpgradeSnapshot took 17ms, 0s
+
+Upgrade snapshot _savepoint[SCH][288230380446679042][4971973992911994882][17:55:30_7-4-16][1470739573]
+UpgradeSnapshot took 3ms, 0s
+
+Upgrade snapshot _savepoint[SCH][288230380446679042][4971974001501929474][10:16:08_8-9-16][1470739872]
+UpgradeSnapshot took 19ms, 0s
+
+Upgrade snapshot _savepoint[SCH][288230380446679042][4971973992911994882][10:47:30_8-9-16][1471415787]
+UpgradeSnapshot took 6ms, 0s
+
+Upgrade snapshot _savepoint[SCH][288230380446679042][4971973992911994882][10:47:30_8-9-16][1480684965]
+UpgradeSnapshot took 6ms, 0s
+
+Upgrade snapshot _savepoint[SCH][288230380446679042][4971974001501929474][10:16:08_8-9-16][1480684975]
+UpgradeSnapshot took 24ms, 0s
+
+After global upgrade
+Constraints definition "POUR_DRAW_STYLE" default value set to: None.
+Constraints definition "PCLASS" deleted.
+Constraints definition "CONSTRAINT_CLASS" deleted.
+Set database cns file versions: ce_ee.cns=7.10.56;user.cns=53b0-f983-6e92-c6ca-ff43-d0f3-053d-0f40-2d9b-1b49-7919-e5f5,af39-e5b3-3ccb-c985-2eca-9987-eca9-9850-0050-6e1e-debe-e506
+AfterGlobalUpgrade took 2ms, 0s
+

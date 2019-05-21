@@ -1,0 +1,20 @@
+
+
+
+char* ftoa ( float z)			// Float to Ascii
+{
+	int ii;
+	static char Buf[16];
+    
+	if (z<0)
+	{
+		strcpy (Buf,"-");
+		z = z * -1.0f;		
+	} else strcpy (Buf,"");
+	ii = (int) z;
+	itoa (ii,Buf+strlen(Buf),10);
+	ii = (int) ((z - ii)*1000);
+	strcat (Buf, ".");
+	itoa (ii,Buf+strlen(Buf),10);
+	return (&Buf[0]);
+}

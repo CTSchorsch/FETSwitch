@@ -1,0 +1,19 @@
+Tue Apr 23 08:47:41 2013
+
+Project path: \\zelnts\mentor\CAD_Lib\Templates\Layout\4 Layer Template\keyin.icdb
+
+Loaded cns info: C:\MentorGraphics\7.9.4EE\SDD_HOME\standard\ce_ee.cns=7.10.24;M:\CAD_config\user.cns=53b0-f983-6e92-c6ca-ff43-d0f3-053d-0f40-2d9b-1b49-7919-e5f5;C:\Users\p.priester\WDIR\user.cns=79a2-645b-16bc-3f88-add2-671f-dd26-7150-454f-5eeb-1d7c-e506
+Before global upgrade from version: 7.10.23 to version: 7.10.24
+
+Constraints definition "DSN_DESIGN_CENTER" added.
+BeforeGlobalUpgrade took 47ms, 0s
+
+Upgrade snapshot PCB
+UpgradeSnapshot took 0ms, 0s
+
+Upgrade snapshot PCB_Layout_Temp
+UpgradeSnapshot took 0ms, 0s
+
+After global upgrade
+AfterGlobalUpgrade took 0ms, 0s
+

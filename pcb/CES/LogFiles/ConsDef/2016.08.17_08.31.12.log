@@ -1,0 +1,18 @@
+Wed Aug 17 08:31:12 2016
+
+Project path: N:\Mentor\MSH\Georg\KeCo Piezo\database
+
+Env. WDIR: C:\xWDIR;M:\CAD_config;C:\MentorGraphics\EEVX.1.1\SDD_HOME\standard;C:\MentorGraphics\EEVX.1.1\SDD_HOME\standard
+WDIRs: 
+	C:\xWDIR
+	M:\CAD_config
+	C:\MentorGraphics\EEVX.1.1\SDD_HOME\standard
+	C:\MentorGraphics\EEVX.1.1\SDD_HOME\standard
+
+Loaded cns files: 
+	C:\xWDIR\user.cns=7ed6-3f08-5bbb-8298-ed4a-5373-e4a5-3750-09af-5e1e-debe-e506 (read-only)
+	M:\CAD_config\user.cns=53b0-f983-6e92-c6ca-ff43-d0f3-053d-0f40-2d9b-1b49-7919-e5f5
+	C:\MentorGraphics\EEVX.1.1\SDD_HOME\standard\ce_ee.cns=7.10.35
+
+Loaded cns - data stored in database: C:\xWDIR\user.cns=7ed6-3f08-5bbb-8298-ed4a-5373-e4a5-3750-09af-5e1e-debe-e506;M:\CAD_config\user.cns=53b0-f983-6e92-c6ca-ff43-d0f3-053d-0f40-2d9b-1b49-7919-e5f5;C:\MentorGraphics\EEVX.1.1\SDD_HOME\standard\ce_ee.cns=7.10.35
+Set database cns file versions: ce_ee.cns=7.10.35;user.cns=53b0-f983-6e92-c6ca-ff43-d0f3-053d-0f40-2d9b-1b49-7919-e5f5,7ed6-3f08-5bbb-8298-ed4a-5373-e4a5-3750-09af-5e1e-debe-e506

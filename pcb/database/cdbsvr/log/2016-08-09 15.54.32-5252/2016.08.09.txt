@@ -1,0 +1,147 @@
+[2016.08.09 15:54:32] [0000m.00s.109ms] [0] WELCOME
+[2016.08.09 15:54:32] [0000m.00s.116ms] [1] iCDB Server ver.2.101, 3UDjJHMiCHg78unffLJcEw, build:670831 created 2015-02-23 10:20:07, sources stamp:3UDjJHMiCHg78unffLJcEw
+[2016.08.09 15:54:32] [0000m.00s.116ms] [1] Copyright 2015 Mentor Graphics Corporation. All Rights Reserved.
+[2016.08.09 15:54:32] [0000m.00s.116ms] [1] Base flow version [VX.1.1]
+[2016.08.09 15:54:32] [0000m.00s.116ms] [1] GBS Install Id [43105], Flow Id [X-ENTP VX.1.1], Full Flow Name [Xpedition Enterprise X-ENTP VX.1.1], Exact Access Date [Feb 1 2015]
+[2016.08.09 15:54:32] [0000m.00s.117ms] [1] Machine [ZELTSR]  User [g.schardt]  PID [5252]
+[2016.08.09 15:54:32] [0000m.00s.117ms] [1] Operating system [Microsoft Standard Edition, 64-bit (build 9200)]
+[2016.08.09 15:54:32] [0000m.00s.117ms] [1] Current working dir [N:\Mentor\MSH\Georg\KeCo Piezo\PCB]
+[2016.08.09 15:54:32] [0000m.00s.117ms] [1] PATH [C:\MentorGraphics\EEVX.1.1\SDD_HOME\common\win64\bin;C:\MentorGraphics\EEVX.1.1\SDD_HOME\common\win64\lib;C:\MentorGraphics\EEVX.1.1\MGC_HOME.ixw\bin;C:\MentorGraphics\EEVX.1.1\MGC_HOME.ixw\lib;C:\MentorGraphics\EEVX.1.1\SDD_HOME\wg\win64\lib;C:\MentorGraphics\EEVX.1.1\SDD_HOME\common\win64\bin;C:\MentorGraphics\EEVX.1.1\SDD_HOME\common\win64\lib;C:\MentorGraphics\EEVX.1.1\MGC_HOME.ixw\bin;C:\MentorGraphics\EEVX.1.1\MGC_HOME.ixw\lib;C:\MentorGraphics\EEVX.1.1\SDD_HOME\wv\win64\bin;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;;C:\MentorGraphics\EEVX.1.1\SDD_HOME\common\win64\lib;C:\MentorGraphics\EEVX.1.1\SDD_HOME\common\win64\bin]
+[2016.08.09 15:54:32] [0000m.00s.117ms] [1] SDD_HOME [C:\MentorGraphics\EEVX.1.1\SDD_HOME] on file system [NTFS]
+[2016.08.09 15:54:32] [0000m.00s.117ms] [1] SDD_PLATFORM [win64]
+[2016.08.09 15:54:32] [0000m.00s.117ms] [1] WDIR [C:\xWDIR;M:\CAD_config;C:\MentorGraphics\EEVX.1.1\SDD_HOME\standard;C:\MentorGraphics\EEVX.1.1\SDD_HOME\standard]
+[2016.08.09 15:54:32] [0000m.00s.118ms] [1] Local iCDB working dir [C:\xWDIR\iCDB] on file system [NTFS]
+[2016.08.09 15:54:32] [0000m.00s.118ms] [1] Corporate iCDB working dir [M:\CAD_config\iCDB] on file system [NTFS]
+[2016.08.09 15:54:32] [0000m.00s.119ms] [2] S: Loading config files
+[2016.08.09 15:54:32] [0000m.00s.132ms] [0] Config: ERROR: Could not open config file for writing [C:\xWDIR\iCDB\Server\Server.cfg]
+[2016.08.09 15:54:32] [0000m.00s.132ms] [1] Config file [N:\Mentor\MSH\Georg\KeCo Piezo\database\cdbsvr\Server.cfg] not found
+[2016.08.09 15:54:32] [0000m.00s.137ms] [3] S: Config loaded
+[2016.08.09 15:54:32] [0000m.00s.181ms] [0] S: Project path [N:\Mentor\MSH\Georg\KeCo Piezo\database] on file system [NTFS]
+[2016.08.09 15:54:32] [0000m.00s.182ms] [0] S: Project global path [\\zelnts\msh\Mentor\MSH\Georg\KeCo Piezo\database] on file system [NTFS]
+[2016.08.09 15:54:32] [0000m.00s.182ms] [0] S: Project file (.prj) path [\\zelnts\msh\Mentor\MSH\Georg\KeCo Piezo\Piezzo.prj] on file system [UNKNOWN]
+[2016.08.09 15:54:32] [0000m.00s.183ms] [0] S: Project file (.prj) local path [N:\Mentor\MSH\Georg\KeCo Piezo\Piezzo.prj] on file system [NTFS]
+[2016.08.09 15:54:32] [0000m.00s.187ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2016.08.09 15:54:32] [0000m.00s.187ms] [0] S: Single-user mode (auto)
+[2016.08.09 15:54:32] [0000m.00s.187ms] [0] S: Event polling mode autodetection
+[2016.08.09 15:54:32] [0000m.00s.196ms] [0] S: Started up automatically by iCDB Client: ZELTSR:g.schardt:5892
+[2016.08.09 15:54:32] [0000m.00s.196ms] [0] S: Auto close mode
+[2016.08.09 15:54:32] [0000m.00s.196ms] [0] S: Database ID [e654-7857-b980-ee13-ac1a-a77f-c1aa-7750-8c3f-5e1e-debe-e506]
+[2016.08.09 15:54:32] [0000m.00s.197ms] [0] PathTranslator: BEGIN dumping
+[2016.08.09 15:54:32] [0000m.00s.197ms] [0] PathTranslator: Local -> global path prefix list
+[2016.08.09 15:54:32] [0000m.00s.197ms] [0] PathTranslator: [G:\] -> [\\zelnts\gloria\]
+[2016.08.09 15:54:32] [0000m.00s.197ms] [0] PathTranslator: [M:\] -> [\\zelnts\mentor\]
+[2016.08.09 15:54:32] [0000m.00s.197ms] [0] PathTranslator: [N:\] -> [\\zelnts\msh\]
+[2016.08.09 15:54:32] [0000m.00s.197ms] [0] PathTranslator: [O:\] -> [\\zelnts\eos\]
+[2016.08.09 15:54:32] [0000m.00s.197ms] [0] PathTranslator: [P:\] -> [\\zelpfs\PFS\]
+[2016.08.09 15:54:32] [0000m.00s.197ms] [0] PathTranslator: [T:\] -> [\\zelnts\zelmbx\]
+[2016.08.09 15:54:32] [0000m.00s.197ms] [0] PathTranslator: Global -> local path prefix list
+[2016.08.09 15:54:32] [0000m.00s.197ms] [0] PathTranslator: [\\zelnts\gloria\] -> [G:\]
+[2016.08.09 15:54:32] [0000m.00s.197ms] [0] PathTranslator: [\\zelnts\mentor\] -> [M:\]
+[2016.08.09 15:54:32] [0000m.00s.197ms] [0] PathTranslator: [\\zelnts\zelmbx\] -> [T:\]
+[2016.08.09 15:54:32] [0000m.00s.197ms] [0] PathTranslator: [\\zelnts\msh\] -> [N:\]
+[2016.08.09 15:54:32] [0000m.00s.197ms] [0] PathTranslator: [\\zelnts\eos\] -> [O:\]
+[2016.08.09 15:54:32] [0000m.00s.198ms] [0] PathTranslator: [\\zelpfs\PFS\] -> [P:\]
+[2016.08.09 15:54:32] [0000m.00s.198ms] [0] PathTranslator: END dumping
+[2016.08.09 15:54:32] [0000m.00s.198ms] [0] S: START
+[2016.08.09 15:54:32] [0000m.00s.199ms] [0] S: Server startup lock file created
+[2016.08.09 15:54:32] [0000m.00s.203ms] [0] S: Listening for client connections on port [10000]
+[2016.08.09 15:54:32] [0000m.00s.205ms] [0] S: Server network ID [ZELTSR:134.94.232.117,ZELTSR,ZELTSR.zel.kfa-juelich.de:10000]
+[2016.08.09 15:54:32] [0000m.00s.205ms] [0] S: Server GUID [f5b1-f75d-df09-be11-890e-9a7d-90e9-a750-084e-5e1e-debe-e506]
+[2016.08.09 15:54:32] [0000m.00s.206ms] [0] S: Project GUID [e654-7857-b980-ee13-ac1a-a77f-c1aa-7750-8c3f-5e1e-debe-e506]
+[2016.08.09 15:54:32] [0000m.00s.223ms] [0] S: Wrote data to server address file
+[2016.08.09 15:54:32] [0000m.00s.227ms] [0] S: Server startup lock file removed
+[2016.08.09 15:54:32] [0000m.00s.227ms] [1] ProjectBackupManager: Setting project file (.prj) path: [N:\Mentor\MSH\Georg\KeCo Piezo\Piezzo.prj]
+[2016.08.09 15:54:32] [0000m.00s.417ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2016.08.09 15:54:32] [0000m.00s.418ms] [0] S: Local disc access time: 146 us
+[2016.08.09 15:54:32] [0000m.00s.418ms] [0] S: File server access time: 465 us
+[2016.08.09 15:54:32] [0000m.00s.429ms] [0] Single file [N:\Mentor\MSH\Georg\KeCo Piezo\database\icdb.dat] size [587008 (573.3 kB)]
+[2016.08.09 15:54:32] [0000m.00s.431ms] [1] Single file [N:\Mentor\MSH\Georg\KeCo Piezo\database\icdb.dat] opened in read-write mode
+[2016.08.09 15:54:32] [0000m.00s.436ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2016.08.09 15:54:32] [0000m.00s.437ms] [0] Database GUARD OK: [587008]
+[2016.08.09 15:54:32] [0000m.00s.445ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2016.08.09 15:54:32] [0000m.00s.445ms] [0] Database GUARD OK: [587008]
+[2016.08.09 15:54:32] [0000m.00s.445ms] [0] SingleFile: [00bd-7ee4-6ae9-4c79] SFI version check [1009] [1009]
+[2016.08.09 15:54:33] [0000m.00s.528ms] [0] SingleFile: [00bd-7ee4-6ae9-4c79] Database SFI header has been read in [83ms 327us]
+[2016.08.09 15:54:33] [0000m.00s.533ms] [0] iCDB Server PI: Server & plugin session [234]
+[2016.08.09 15:54:33] [0000m.00s.534ms] [0] iCDB Server PI: Opening database [N:\Mentor\MSH\Georg\KeCo Piezo\database]
+[2016.08.09 15:54:33] [0000m.00s.534ms] [0] iCDB Server PI: Database [N:\Mentor\MSH\Georg\KeCo Piezo\database] opened
+[2016.08.09 15:54:33] [0000m.00s.580ms] [0] iCDB Database: Checking existence of constraint definitions
+[2016.08.09 15:54:33] [0000m.00s.580ms] [0] iCDB Database: Checking constraint definitions version
+[2016.08.09 15:54:33] [0000m.00s.811ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.35;user.cns=53b0-f983-6e92-c6ca-ff43-d0f3-053d-0f40-2d9b-1b49-7919-e5f5,7ed6-3f08-5bbb-8298-ed4a-5373-e4a5-3750-09af-5e1e-debe-e506] up to date
+[2016.08.09 15:54:33] [0000m.00s.849ms] [0] iCDB Server PI: Initializing plugins
+[2016.08.09 15:54:33] [0000m.00s.849ms] [0] iCDB Server PI: Plugins initialized
+[2016.08.09 15:54:33] [0000m.00s.850ms] [0] S: iCDB database loaded
+[2016.08.09 15:54:33] [0000m.00s.851ms] [0] S: Starting threads
+[2016.08.09 15:54:33] [0000m.00s.852ms] [0] BT: Listening for broadcast messages on port [10000]
+[2016.08.09 15:54:33] [0000m.00s.853ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2016.08.09 15:54:33] [0000m.00s.857ms] [0] IT: Session [235] for host [ZELTSR] user [g.schardt] with process ID [5892] created
+[2016.08.09 15:54:33] [0000m.00s.860ms] [1] SC[235]: Registered sub-client [Expedition PCB_783050843] with ID [1] for session ID [235] host [ZELTSR] user [g.schardt] process ID [5892]
+[2016.08.09 15:54:33] [0000m.00s.942ms] [1] SC[235]: Registered sub-client [EEVM_EEVM_186178744] with ID [2] for session ID [235] host [ZELTSR] user [g.schardt] process ID [5892]
+[2016.08.09 15:54:33] [0000m.00s.954ms] [1] CMT: There are [1] clients now: 235
+[2016.08.09 15:54:33] [0000m.00s.972ms] [1] SC[235]: UnRegistered sub-client [EEVM_EEVM_186178744] with ID [2] for session ID [235] host [ZELTSR] user [g.schardt] process ID [5892]
+[2016.08.09 15:54:33] [0000m.00s.982ms] [1] SC[235]: Registered sub-client [EEVM_EEVM_186178744] with ID [3] for session ID [235] host [ZELTSR] user [g.schardt] process ID [5892]
+[2016.08.09 15:54:33] [0000m.01s.001ms] [1] SC[235]: UnRegistered sub-client [EEVM_EEVM_186178744] with ID [3] for session ID [235] host [ZELTSR] user [g.schardt] process ID [5892]
+[2016.08.09 15:54:36] [0000m.03s.693ms] [1] SC[235]: Registered sub-client [ExpeditionCrossProber] with ID [4] for session ID [235] host [ZELTSR] user [g.schardt] process ID [5892]
+[2016.08.09 15:54:54] [0000m.21s.833ms] [0] DFAMT: File server access time: 542 us
+[2016.08.09 15:54:58] [0000m.25s.873ms] [1] SC[235]: Registered sub-client [JobPrefsDBPI_783076953] with ID [5] for session ID [235] host [ZELTSR] user [g.schardt] process ID [5892]
+[2016.08.09 15:55:00] [0000m.28s.412ms] [0] IT: Session [236] for host [ZELTSR] user [g.schardt] with process ID [5540] created
+[2016.08.09 15:55:00] [0000m.28s.413ms] [1] SC[236]: Registered sub-client [JobPrefsDBPI_783079281] with ID [1] for session ID [236] host [ZELTSR] user [g.schardt] process ID [5540]
+[2016.08.09 15:55:00] [0000m.28s.438ms] [1] CMT: There are [2] clients now: 235, 236
+[2016.08.09 15:55:00] [0000m.28s.480ms] [1] SC[236]: UnRegistered sub-client [JobPrefsDBPI_783079281] with ID [1] for session ID [236] host [ZELTSR] user [g.schardt] process ID [5540]
+[2016.08.09 15:55:01] [0000m.28s.539ms] [1] CMT: Removed client [236]
+[2016.08.09 15:55:01] [0000m.28s.539ms] [1] CMT: There are [1] clients now: 235
+[2016.08.09 15:55:04] [0000m.32s.237ms] [1] SC[235]: Registered sub-client [JobPrefsDBPI_783083312] with ID [6] for session ID [235] host [ZELTSR] user [g.schardt] process ID [5892]
+[2016.08.09 15:55:04] [0000m.32s.267ms] [1] SC[235]: UnRegistered sub-client [JobPrefsDBPI_783083312] with ID [6] for session ID [235] host [ZELTSR] user [g.schardt] process ID [5892]
+[2016.08.09 15:55:06] [0000m.33s.974ms] [1] SC[235]: UnRegistered sub-client [JobPrefsDBPI_783076953] with ID [5] for session ID [235] host [ZELTSR] user [g.schardt] process ID [5892]
+[2016.08.09 15:55:14] [0000m.41s.563ms] [1] SC[235]: Registered sub-client [JobPrefsDBPI_783092640] with ID [7] for session ID [235] host [ZELTSR] user [g.schardt] process ID [5892]
+[2016.08.09 15:55:14] [0000m.41s.653ms] [1] SC[235]: Registered sub-client [JobPrefsDBPI_783092734] with ID [8] for session ID [235] host [ZELTSR] user [g.schardt] process ID [5892]
+[2016.08.09 15:55:14] [0000m.41s.961ms] [1] SC[235]: UnRegistered sub-client [JobPrefsDBPI_783092640] with ID [7] for session ID [235] host [ZELTSR] user [g.schardt] process ID [5892]
+[2016.08.09 15:55:14] [0000m.41s.978ms] [1] SC[235]: UnRegistered sub-client [JobPrefsDBPI_783092734] with ID [8] for session ID [235] host [ZELTSR] user [g.schardt] process ID [5892]
+[2016.08.09 15:55:15] [0000m.43s.241ms] [1] SC[235]: Registered sub-client [JobPrefsDBPI_783094312] with ID [9] for session ID [235] host [ZELTSR] user [g.schardt] process ID [5892]
+[2016.08.09 15:55:15] [0000m.43s.251ms] [1] SC[235]: UnRegistered sub-client [JobPrefsDBPI_783094312] with ID [9] for session ID [235] host [ZELTSR] user [g.schardt] process ID [5892]
+[2016.08.09 15:55:15] [0000m.43s.330ms] [1] SC[235]: Registered sub-client [JobPrefsDBPI_783094406] with ID [10] for session ID [235] host [ZELTSR] user [g.schardt] process ID [5892]
+[2016.08.09 15:55:15] [0000m.43s.355ms] [1] SC[235]: UnRegistered sub-client [JobPrefsDBPI_783094406] with ID [10] for session ID [235] host [ZELTSR] user [g.schardt] process ID [5892]
+[2016.08.09 15:55:16] [0000m.44s.313ms] [0] IT: Session [237] for host [ZELTSR] user [g.schardt] with process ID [7948] created
+[2016.08.09 15:55:16] [0000m.44s.314ms] [1] SC[237]: Registered sub-client [JobPrefsDBPI_783095187] with ID [1] for session ID [237] host [ZELTSR] user [g.schardt] process ID [7948]
+[2016.08.09 15:55:16] [0000m.44s.351ms] [1] SC[237]: UnRegistered sub-client [JobPrefsDBPI_783095187] with ID [1] for session ID [237] host [ZELTSR] user [g.schardt] process ID [7948]
+[2016.08.09 15:55:16] [0000m.44s.394ms] [1] CMT: There are [2] clients now: 235, 237
+[2016.08.09 15:55:16] [0000m.44s.394ms] [1] CMT: Removed client [237]
+[2016.08.09 15:55:16] [0000m.44s.394ms] [1] CMT: There are [1] clients now: 235
+[2016.08.09 15:55:17] [0000m.45s.011ms] [0] IT: Session [238] for host [ZELTSR] user [g.schardt] with process ID [7948] created
+[2016.08.09 15:55:17] [0000m.45s.012ms] [1] SC[238]: Registered sub-client [JobPrefsDBPI_783096000] with ID [1] for session ID [238] host [ZELTSR] user [g.schardt] process ID [7948]
+[2016.08.09 15:55:17] [0000m.45s.083ms] [1] SC[238]: Registered sub-client [JobPrefsDBPI_783096156] with ID [2] for session ID [238] host [ZELTSR] user [g.schardt] process ID [7948]
+[2016.08.09 15:55:17] [0000m.45s.101ms] [1] CMT: There are [2] clients now: 235, 238
+[2016.08.09 15:55:17] [0000m.45s.106ms] [1] SC[238]: UnRegistered sub-client [JobPrefsDBPI_783096000] with ID [1] for session ID [238] host [ZELTSR] user [g.schardt] process ID [7948]
+[2016.08.09 15:55:17] [0000m.45s.111ms] [1] SC[238]: UnRegistered sub-client [JobPrefsDBPI_783096156] with ID [2] for session ID [238] host [ZELTSR] user [g.schardt] process ID [7948]
+[2016.08.09 15:55:17] [0000m.45s.202ms] [1] CMT: Removed client [238]
+[2016.08.09 15:55:17] [0000m.45s.202ms] [1] CMT: There are [1] clients now: 235
+[2016.08.09 15:55:18] [0000m.45s.679ms] [0] IT: Session [239] for host [ZELTSR] user [g.schardt] with process ID [7948] created
+[2016.08.09 15:55:18] [0000m.45s.681ms] [1] SC[239]: Registered sub-client [JobPrefsDBPI_783096656] with ID [1] for session ID [239] host [ZELTSR] user [g.schardt] process ID [7948]
+[2016.08.09 15:55:18] [0000m.45s.707ms] [1] CMT: There are [2] clients now: 235, 239
+[2016.08.09 15:55:18] [0000m.45s.801ms] [1] SC[239]: Registered sub-client [JobPrefsDBPI_783096875] with ID [2] for session ID [239] host [ZELTSR] user [g.schardt] process ID [7948]
+[2016.08.09 15:55:18] [0000m.46s.017ms] [1] SC[239]: UnRegistered sub-client [JobPrefsDBPI_783096875] with ID [2] for session ID [239] host [ZELTSR] user [g.schardt] process ID [7948]
+[2016.08.09 15:55:18] [0000m.46s.022ms] [1] SC[239]: UnRegistered sub-client [JobPrefsDBPI_783096656] with ID [1] for session ID [239] host [ZELTSR] user [g.schardt] process ID [7948]
+[2016.08.09 15:55:18] [0000m.46s.112ms] [1] CMT: Removed client [239]
+[2016.08.09 15:55:18] [0000m.46s.112ms] [1] CMT: There are [1] clients now: 235
+[2016.08.09 15:55:18] [0000m.46s.228ms] [1] SC[235]: Registered sub-client [JobPrefsDBPI_783097312] with ID [11] for session ID [235] host [ZELTSR] user [g.schardt] process ID [5892]
+[2016.08.09 15:55:18] [0000m.46s.249ms] [1] SC[235]: UnRegistered sub-client [JobPrefsDBPI_783097312] with ID [11] for session ID [235] host [ZELTSR] user [g.schardt] process ID [5892]
+[2016.08.09 15:58:36] [0004m.04s.323ms] [1] SC[235]: UnRegistered sub-client [ExpeditionCrossProber] with ID [4] for session ID [235] host [ZELTSR] user [g.schardt] process ID [5892]
+[2016.08.09 15:58:38] [0004m.06s.276ms] [1] SC[235]: UnRegistered sub-client [Expedition PCB_783050843] with ID [1] for session ID [235] host [ZELTSR] user [g.schardt] process ID [5892]
+[2016.08.09 15:58:38] [0004m.06s.339ms] [1] CMT: Removed client [235]
+[2016.08.09 15:58:38] [0004m.06s.339ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2016.08.09 15:58:40] [0004m.07s.542ms] [0] CMT: Starting server auto-close
+[2016.08.09 15:58:40] [0004m.07s.651ms] [0] S: Closing server
+[2016.08.09 15:58:40] [0004m.07s.808ms] [0] iCDB Server PI: Closing plugins
+[2016.08.09 15:58:40] [0004m.07s.808ms] [0] iCDB Server PI: Plugins closed
+[2016.08.09 15:58:40] [0004m.07s.808ms] [0] iCDB Server PI: Unloading database
+[2016.08.09 15:58:40] [0004m.07s.808ms] [0] iCDB Server PI: Saving storage
+[2016.08.09 15:58:40] [0004m.07s.808ms] [0] iCDB Server PI: Closing database
+[2016.08.09 15:58:40] [0004m.07s.808ms] [1] iCDB Server PI: Stats: Database defragmentation: max[2] avg[1] holes[4%] data[90%]
+[2016.08.09 15:58:40] [0004m.07s.808ms] [1] iCDB Server PI: Stats: Database file size [587008 (573.3 kB)]
+[2016.08.09 15:58:40] [0004m.07s.823ms] [0] iCDB Server PI: Database closed
+[2016.08.09 15:58:40] [0004m.07s.823ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [5869] ticks
+[2016.08.09 15:58:40] [0004m.07s.823ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [1768] microseconds
+[2016.08.09 15:58:40] [0004m.07s.823ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [30]
+[2016.08.09 15:58:40] [0004m.07s.823ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [16962] commands per second
+[2016.08.09 15:58:40] [0004m.07s.839ms] [0] Single file [N:\Mentor\MSH\Georg\KeCo Piezo\database\icdb.dat] closed with size [587008 (573.3 kB)]
+[2016.08.09 15:58:40] [0004m.07s.886ms] [0] S: STOP

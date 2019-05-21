@@ -1,0 +1,36 @@
+ ----------------------------
+|      Drill Engine Log      |
+|          Started           |
+|  Fri Dec 02 14:37:06 2016  |
+ ----------------------------
+
+Removing Output/NCDrill/ecad_hint.map
+Removing Output/NCDrill/EtchLayer1Top.gdo
+Removing Output/NCDrill/EtchLayer2Bottom.gdo
+Removing Output/NCDrill/GeneratedSilkscreenBottom.gdo
+Removing Output/NCDrill/GeneratedSilkscreenTop.gdo
+Removing Output/NCDrill/GerberPlot.gpf
+Removing Output/NCDrill/Outline.gdo
+Removing Output/NCDrill/Piezzo.dsn
+Removing Output/NCDrill/SoldermaskBottom.gdo
+Removing Output/NCDrill/SoldermaskTop.gdo
+Removing Output/NCDrill/SolderPasteBottom.gdo
+Removing Output/NCDrill/SolderPasteTop.gdo
+Removing Output/NCDrill/ThruHolePlated.ncd
+
+Created drill file "Output\ThruHolePlated.ncd" for span from 1 to 2
+Total holes, contours in this file 35, 0
+
+    Tool   Size (MM)    Tolerance (MM)     Plated   Count
+    ----   ---------   -----------------   ------   -----
+     02     0.3000                          YES     21
+     01     0.9000                          YES     12
+     03     3.2000        +/- 0.1000        YES     2
+
+Warning, No drill symbol assigned for hole "Rnd 0.90" span 1-2
+
+ ----------------------------
+|      Drill Engine Log      |
+|          Finished          |
+|  Fri Dec 02 14:37:07 2016  |
+ ----------------------------

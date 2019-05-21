@@ -1,0 +1,32 @@
+
+                              SILKSCREEN GENERATOR
+                              --------------------
+
+                       02:37 PM Friday, December 02, 2016
+             Job Name: N:\Mentor\MSH\Georg\KeCo Piezo\PCB\Piezzo.pcb
+
+
+    Silkscreen Side To Process           : TOP
+
+    Process All Cell Types               : YES
+
+    Top Silkscreen For Selected Cells    : Silkscreen Reference Designator Top
+                                         : Silkscreen Outline Top
+
+    Break Silkscreen Using               : Conductive Pads
+
+    Break Graphics Pad Clearance         : NA
+
+    Break Graphics Via Clearance         : NA
+
+    Break Text Pad Clearance             : NA
+
+    Break Text Via Clearance             : NA
+
+    Broken Graphics Line Width           : 0,25mm
+
+    Broken Text Line Width               : 0,25mm
+    
+
+
+    TOP Silkscreen Data Created Successfully (138 Geometries).

@@ -1,0 +1,9 @@
+
+                                Autosave Log File
+                                -----------------
+
+                          08:14 AM Monday, May 22, 2017
+             Job Name: N:\Mentor\MSH\Georg\KeCo Piezo\PCB\Piezzo.pcb
+
+Autosave pending at 09:14:32 Mon  Attempting...
+Autosave completed successfully.  09:14:32 Mon

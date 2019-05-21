@@ -1,0 +1,31 @@
+.filetype IDF_EXPORT_SETTINGS
+.units (mm)
+
+.board_file "N:\\Mentor\\MSH\\Georg\\Piezzo\\PCB\\Output\\piezo.emn"
+
+.library_file "N:\\Mentor\\MSH\\Georg\\Piezzo\\PCB\\Output\\piezo.emp"
+
+.board_stackup 1
+
+.idf_version "3.0"
+
+.board_thickness "0.695960"
+
+.comp_height "2.540000"
+
+.export_obstructs 0
+
+.exclude_obstructs 0
+
+.export_holes 1
+
+.export_height 1
+
+.hole_contour 1
+
+.board_cavities 0
+
+.scheme "Default"
+ ..scheme_location Local
+
+ ..scheme_changed 0

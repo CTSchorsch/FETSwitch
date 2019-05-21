@@ -1,0 +1,13 @@
+
+/* Sym: 00000000058B0728  Path 1: Schematic1  Page 1: Schematic1(Controler) */
+CHANGE 'Schematic1(Controler)' 	INSTANCE
+  SELECT COMP $2I942                 /* Reference Desig is R10 */
+    PARAM 'Part Name' = '10K0' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+    PARAM 15 = 'R10'         /* Reference Desig was (null) */
+  SELECT COMP $2I930                 /* Reference Desig is R9 */
+    PARAM 'Part Name' = '10K0' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 23 = DELETE                    /* Component Fix flag */
+    PARAM 15 = 'R9'         /* Reference Desig was (null) */

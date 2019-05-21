@@ -1,0 +1,31 @@
+Mon Apr 16 14:54:53 2012
+
+Project path: \\zelnts\mentor\CAD_Lib\Templates\Layout\4 Layer Template\keyin.icdb
+
+Constraints definition "CONS_DEF_LOADER" added.
+Loaded cns info: C:\MentorGraphics\7.9.2EE\SDD_HOME\standard\ce_ee.cns=7.10.16;m:\CAD_config\user.cns=53b0-f983-6e92-c6ca-ff43-d0f3-053d-0f40-2d9b-1b49-7919-e5f5;C:\Users\splatt\WDIR\user.cns=9bd8-efc2-4cfd-2b14-e6f8-68f2-7f86-8f40-4d0f-5e7c-1d89-e506
+Before global upgrade from version: 7.10.5 to version: 7.10.16
+
+Constraints definition "DIFF_IMPEDANCE" added.
+Constraints definition "POUR_DRAW_STYLE" added (default value: Hatched).
+Constraints definition "THERMAL_COND" added.
+BeforeGlobalUpgrade took 4ms, 0s
+
+Upgrade snapshot PCB
+UpgradeSnapshot took 3ms, 0s
+
+Upgrade snapshot PCB_Layout_Temp
+UpgradeSnapshot took 3ms, 0s
+
+After global upgrade
+Constraints definition "DP_CDT" default value set to: 635000.
+Constraints definition "DP_MDC" default value set to: 2540000.
+Constraints definition "DP_MSD" default value set to: 0.
+Constraints definition "LOSS_TAN" default value set to: 0.020000000000000.
+Constraints definition "TOPO_PIN_GROUP" deleted.
+Constraints definition "HLT_CASING_TACT" deleted.
+Constraints definition "HLT_JUNCTION_TACT" deleted.
+Constraints definition "HLT_CASING_TACT" added.
+Constraints definition "HLT_JUNCTION_TACT" added.
+AfterGlobalUpgrade took 0ms, 0s
+

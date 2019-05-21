@@ -1,0 +1,35 @@
+Wed Jul 18 09:12:56 2012
+
+Project path: R:\CAD_Lib\Templates\Layout\4 Layer Template\keyin.icdb
+
+Constraints definition "CONS_DEF_LOADER" added.
+Loaded cns info: C:\MentorGraphics\7.9.3EE\SDD_HOME\standard\ce_ee.cns=7.10.23;C:\MentorGraphics\WDIR\user.cns=3ddd-112c-786f-1791-97e4-7cfd-7e47-cf40-884f-5edb-2d8c-e506;R:\CAD_config\user.cns=53b0-f983-6e92-c6ca-ff43-d0f3-053d-0f40-2d9b-1b49-7919-e5f5
+Before global upgrade from version: 7.10.5 to version: 7.10.23
+
+Constraints definition "TOPO_PATTERN_NAME" added.
+Constraints definition "POWERNET_PINCOUNT_TYPE" added (default value: FALSE).
+Constraints definition "POWERNET_MANUAL_TYPE" added (default value: FALSE).
+Constraints definition "DIFF_IMPEDANCE" added.
+Constraints definition "POUR_DRAW_STYLE" added (default value: Hatched).
+Constraints definition "THERMAL_COND" added.
+BeforeGlobalUpgrade took 15ms, 0s
+
+Upgrade snapshot PCB
+UpgradeSnapshot took 0ms, 0s
+
+Upgrade snapshot PCB_Layout_Temp
+UpgradeSnapshot took 0ms, 0s
+
+After global upgrade
+Constraints definition "DP_CDT" default value set to: 635000.
+Constraints definition "DP_MDC" default value set to: 2540000.
+Constraints definition "DP_MSD" default value set to: 0.
+Constraints definition "DSN_DISCRETES" default value set to: CAPACITOR=C,#_C;CONNECTOR=P,J;DIODE=D,CR;INDUCTOR=L,#_L;RESISTOR=R,#_R.
+Constraints definition "LOSS_TAN" default value set to: 0.020000000000000.
+Constraints definition "TOPO_PIN_GROUP" deleted.
+Constraints definition "HLT_CASING_TACT" deleted.
+Constraints definition "HLT_JUNCTION_TACT" deleted.
+Constraints definition "HLT_CASING_TACT" added.
+Constraints definition "HLT_JUNCTION_TACT" added.
+AfterGlobalUpgrade took 15ms, 0s
+

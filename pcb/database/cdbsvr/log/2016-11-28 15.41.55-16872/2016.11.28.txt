@@ -1,0 +1,94 @@
+[2016.11.28 15:41:55] [0000m.00s.078ms] [0] WELCOME
+[2016.11.28 15:41:55] [0000m.00s.078ms] [1] iCDB Server ver.2.101, 3UDjJHMiCHg78unffLJcEw, build:670831 created 2015-02-23 10:20:07, sources stamp:3UDjJHMiCHg78unffLJcEw
+[2016.11.28 15:41:55] [0000m.00s.078ms] [1] Copyright 2015 Mentor Graphics Corporation. All Rights Reserved.
+[2016.11.28 15:41:55] [0000m.00s.078ms] [1] Base flow version [VX.1.1]
+[2016.11.28 15:41:55] [0000m.00s.078ms] [1] GBS Install Id [43105], Flow Id [X-ENTP VX.1.1], Full Flow Name [Xpedition Enterprise X-ENTP VX.1.1], Exact Access Date [Feb 1 2015]
+[2016.11.28 15:41:55] [0000m.00s.078ms] [1] Machine [ZELTSR]  User [g.schardt]  PID [16872]
+[2016.11.28 15:41:55] [0000m.00s.078ms] [1] Operating system [Microsoft Standard Edition, 64-bit (build 9200)]
+[2016.11.28 15:41:55] [0000m.00s.078ms] [1] Current working dir [N:\Mentor\MSH\Georg\KeCo Piezo\PCB]
+[2016.11.28 15:41:55] [0000m.00s.078ms] [1] PATH [C:\MentorGraphics\EEVX.1.1\SDD_HOME\common\win64\bin;C:\MentorGraphics\EEVX.1.1\SDD_HOME\common\win64\lib;C:\MentorGraphics\EEVX.1.1\MGC_HOME.ixw\bin;C:\MentorGraphics\EEVX.1.1\MGC_HOME.ixw\lib;C:\MentorGraphics\EEVX.1.1\SDD_HOME\wg\win64\lib;C:\MentorGraphics\EEVX.1.1\SDD_HOME\common\win64\lib;C:\MentorGraphics\EEVX.1.1\SDD_HOME\common\win64\bin;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;]
+[2016.11.28 15:41:55] [0000m.00s.078ms] [1] SDD_HOME [C:\MentorGraphics\EEVX.1.1\SDD_HOME] on file system [NTFS]
+[2016.11.28 15:41:55] [0000m.00s.078ms] [1] SDD_PLATFORM [win64]
+[2016.11.28 15:41:55] [0000m.00s.078ms] [1] WDIR [C:\Users\g.schardt\wdir;m:\cad_config;C:\MentorGraphics\EEVX.1.1\SDD_HOME\standard;C:\MentorGraphics\7.9.3EE\SDD_HOME\standard]
+[2016.11.28 15:41:55] [0000m.00s.078ms] [1] Local iCDB working dir [C:\Users\g.schardt\wdir\iCDB] on file system [NTFS]
+[2016.11.28 15:41:55] [0000m.00s.078ms] [1] Corporate iCDB working dir [m:\cad_config\iCDB] on file system [NTFS]
+[2016.11.28 15:41:55] [0000m.00s.078ms] [2] S: Loading config files
+[2016.11.28 15:41:55] [0000m.00s.093ms] [1] Config file [N:\Mentor\MSH\Georg\KeCo Piezo\database\cdbsvr\Server.cfg] not found
+[2016.11.28 15:41:55] [0000m.00s.093ms] [3] S: Config loaded
+[2016.11.28 15:41:55] [0000m.00s.156ms] [0] S: Project path [N:\Mentor\MSH\Georg\KeCo Piezo\database] on file system [NTFS]
+[2016.11.28 15:41:55] [0000m.00s.156ms] [0] S: Project global path [\\zelnts\msh\Mentor\MSH\Georg\KeCo Piezo\database] on file system [NTFS]
+[2016.11.28 15:41:55] [0000m.00s.156ms] [0] S: Project file (.prj) path [\\zelnts\msh\Mentor\MSH\Georg\KeCo Piezo\Piezzo.prj] on file system [UNKNOWN]
+[2016.11.28 15:41:55] [0000m.00s.156ms] [0] S: Project file (.prj) local path [N:\Mentor\MSH\Georg\KeCo Piezo\Piezzo.prj] on file system [NTFS]
+[2016.11.28 15:41:55] [0000m.00s.156ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2016.11.28 15:41:55] [0000m.00s.156ms] [0] S: Single-user mode (auto)
+[2016.11.28 15:41:55] [0000m.00s.156ms] [0] S: Event polling mode autodetection
+[2016.11.28 15:41:55] [0000m.00s.171ms] [0] S: Started up automatically by iCDB Client: ZELTSR:g.schardt:14204
+[2016.11.28 15:41:55] [0000m.00s.171ms] [0] S: Auto close mode
+[2016.11.28 15:41:55] [0000m.00s.171ms] [0] S: Database ID [c43e-b224-d6bd-f820-4114-c389-114c-3850-8f71-6e1e-debe-e506]
+[2016.11.28 15:41:55] [0000m.00s.171ms] [0] PathTranslator: BEGIN dumping
+[2016.11.28 15:41:55] [0000m.00s.171ms] [0] PathTranslator: Local -> global path prefix list
+[2016.11.28 15:41:55] [0000m.00s.171ms] [0] PathTranslator: [G:\] -> [\\zelnts\gloria\]
+[2016.11.28 15:41:55] [0000m.00s.171ms] [0] PathTranslator: [M:\] -> [\\zelnts\mentor\]
+[2016.11.28 15:41:55] [0000m.00s.171ms] [0] PathTranslator: [N:\] -> [\\zelnts\msh\]
+[2016.11.28 15:41:55] [0000m.00s.171ms] [0] PathTranslator: [O:\] -> [\\zelnts\eos\]
+[2016.11.28 15:41:55] [0000m.00s.171ms] [0] PathTranslator: [P:\] -> [\\zelpfs\PFS\]
+[2016.11.28 15:41:55] [0000m.00s.171ms] [0] PathTranslator: [T:\] -> [\\zelnts\zelmbx\]
+[2016.11.28 15:41:55] [0000m.00s.171ms] [0] PathTranslator: Global -> local path prefix list
+[2016.11.28 15:41:55] [0000m.00s.171ms] [0] PathTranslator: [\\zelnts\gloria\] -> [G:\]
+[2016.11.28 15:41:55] [0000m.00s.171ms] [0] PathTranslator: [\\zelnts\mentor\] -> [M:\]
+[2016.11.28 15:41:55] [0000m.00s.171ms] [0] PathTranslator: [\\zelnts\zelmbx\] -> [T:\]
+[2016.11.28 15:41:55] [0000m.00s.171ms] [0] PathTranslator: [\\zelnts\msh\] -> [N:\]
+[2016.11.28 15:41:55] [0000m.00s.171ms] [0] PathTranslator: [\\zelnts\eos\] -> [O:\]
+[2016.11.28 15:41:55] [0000m.00s.171ms] [0] PathTranslator: [\\zelpfs\PFS\] -> [P:\]
+[2016.11.28 15:41:55] [0000m.00s.171ms] [0] PathTranslator: END dumping
+[2016.11.28 15:41:55] [0000m.00s.171ms] [0] S: START
+[2016.11.28 15:41:55] [0000m.00s.171ms] [0] S: Server startup lock file created
+[2016.11.28 15:41:55] [0000m.00s.171ms] [0] S: Listening for client connections on port [10000]
+[2016.11.28 15:41:55] [0000m.00s.171ms] [0] S: Server network ID [ZELTSR:134.94.232.117,ZELTSR,ZELTSR.zel.kfa-juelich.de:10000]
+[2016.11.28 15:41:55] [0000m.00s.171ms] [0] S: Server GUID [28a4-9ebf-74bf-9071-3324-c388-324c-3850-456f-5e1e-debe-e506]
+[2016.11.28 15:41:55] [0000m.00s.171ms] [0] S: Project GUID [c43e-b224-d6bd-f820-4114-c389-114c-3850-8f71-6e1e-debe-e506]
+[2016.11.28 15:41:55] [0000m.00s.203ms] [0] S: Wrote data to server address file
+[2016.11.28 15:41:55] [0000m.00s.203ms] [0] S: Server startup lock file removed
+[2016.11.28 15:41:55] [0000m.00s.203ms] [1] ProjectBackupManager: Setting project file (.prj) path: [N:\Mentor\MSH\Georg\KeCo Piezo\Piezzo.prj]
+[2016.11.28 15:41:55] [0000m.00s.390ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2016.11.28 15:41:55] [0000m.00s.390ms] [0] S: Local disc access time: 144 us
+[2016.11.28 15:41:55] [0000m.00s.390ms] [0] S: File server access time: 471 us
+[2016.11.28 15:41:55] [0000m.00s.406ms] [0] Single file [N:\Mentor\MSH\Georg\KeCo Piezo\database\icdb.dat] size [730696 (713.6 kB)]
+[2016.11.28 15:41:55] [0000m.00s.406ms] [1] Single file [N:\Mentor\MSH\Georg\KeCo Piezo\database\icdb.dat] opened in read-write mode
+[2016.11.28 15:41:55] [0000m.00s.421ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2016.11.28 15:41:55] [0000m.00s.421ms] [0] Database GUARD OK: [730696]
+[2016.11.28 15:41:55] [0000m.00s.421ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2016.11.28 15:41:55] [0000m.00s.421ms] [0] Database GUARD OK: [730696]
+[2016.11.28 15:41:55] [0000m.00s.421ms] [0] SingleFile: [85c3-e4cb-c6b8-2786] SFI version check [1009] [1009]
+[2016.11.28 15:41:55] [0000m.00s.515ms] [0] SingleFile: [85c3-e4cb-c6b8-2786] Database SFI header has been read in [94ms 555us]
+[2016.11.28 15:41:55] [0000m.00s.515ms] [0] iCDB Server PI: Server & plugin session [250]
+[2016.11.28 15:41:55] [0000m.00s.515ms] [0] iCDB Server PI: Opening database [N:\Mentor\MSH\Georg\KeCo Piezo\database]
+[2016.11.28 15:41:55] [0000m.00s.515ms] [0] iCDB Server PI: Database [N:\Mentor\MSH\Georg\KeCo Piezo\database] opened
+[2016.11.28 15:41:55] [0000m.00s.578ms] [0] iCDB Database: Checking existence of constraint definitions
+[2016.11.28 15:41:55] [0000m.00s.578ms] [0] iCDB Database: Checking constraint definitions version
+[2016.11.28 15:41:56] [0000m.00s.906ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.35;user.cns=53b0-f983-6e92-c6ca-ff43-d0f3-053d-0f40-2d9b-1b49-7919-e5f5,79a3-40a9-4f73-46ad-6b90-c28b-b90c-2850-085f-5e1e-debe-e506,bf23-1c93-f873-8ca2-6b90-c28b-b90c-2850-085f-5e1e-debe-e506] up to date
+[2016.11.28 15:41:56] [0000m.00s.953ms] [0] iCDB Server PI: Initializing plugins
+[2016.11.28 15:41:56] [0000m.00s.953ms] [0] iCDB Server PI: Plugins initialized
+[2016.11.28 15:41:56] [0000m.00s.953ms] [0] S: iCDB database loaded
+[2016.11.28 15:41:56] [0000m.00s.953ms] [0] S: Starting threads
+[2016.11.28 15:41:56] [0000m.00s.953ms] [0] BT: Listening for broadcast messages on port [10000]
+[2016.11.28 15:41:56] [0000m.00s.953ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2016.11.28 15:41:56] [0000m.00s.968ms] [0] IT: Session [251] for host [ZELTSR] user [g.schardt] with process ID [14204] created
+[2016.11.28 15:41:56] [0000m.00s.968ms] [1] SC[251]: Registered sub-client [Expedition PCB_1786408173] with ID [1] for session ID [251] host [ZELTSR] user [g.schardt] process ID [14204]
+[2016.11.28 15:41:56] [0000m.01s.078ms] [1] CMT: There are [1] clients now: 251
+[2016.11.28 15:41:56] [0000m.01s.156ms] [1] SC[251]: Registered sub-client [EEVM_EEVM_228227896] with ID [2] for session ID [251] host [ZELTSR] user [g.schardt] process ID [14204]
+[2016.11.28 15:41:56] [0000m.01s.187ms] [1] SC[251]: UnRegistered sub-client [EEVM_EEVM_228227896] with ID [2] for session ID [251] host [ZELTSR] user [g.schardt] process ID [14204]
+[2016.11.28 15:41:56] [0000m.01s.203ms] [1] SC[251]: Registered sub-client [EEVM_EEVM_228227896] with ID [3] for session ID [251] host [ZELTSR] user [g.schardt] process ID [14204]
+[2016.11.28 15:41:56] [0000m.01s.218ms] [1] SC[251]: UnRegistered sub-client [EEVM_EEVM_228227896] with ID [3] for session ID [251] host [ZELTSR] user [g.schardt] process ID [14204]
+[2016.11.28 15:41:59] [0000m.04s.328ms] [1] SC[251]: Registered sub-client [ExpeditionCrossProber] with ID [4] for session ID [251] host [ZELTSR] user [g.schardt] process ID [14204]
+[2016.11.28 15:42:26] [0000m.30s.656ms] [0] DFAMT: File server access time: 558 us
+[2016.11.28 15:42:39] [0000m.44s.281ms] [1] SC[251]: Registered sub-client [JobPrefsDBPI_1786452658] with ID [5] for session ID [251] host [ZELTSR] user [g.schardt] process ID [14204]
+[2016.11.28 15:42:39] [0000m.44s.312ms] [1] SC[251]: UnRegistered sub-client [JobPrefsDBPI_1786452658] with ID [5] for session ID [251] host [ZELTSR] user [g.schardt] process ID [14204]
+[2016.11.28 15:43:40] [0001m.45s.000ms] [1] SC[251]: Registered sub-client [JobPrefsDBPI_1786513361] with ID [6] for session ID [251] host [ZELTSR] user [g.schardt] process ID [14204]
+[2016.11.28 15:43:40] [0001m.45s.000ms] [1] SC[251]: UnRegistered sub-client [JobPrefsDBPI_1786513361] with ID [6] for session ID [251] host [ZELTSR] user [g.schardt] process ID [14204]
+[2016.11.28 15:43:50] [0001m.55s.594ms] [1] SC[251]: Registered sub-client [JobPrefsDBPI_1786523954] with ID [7] for session ID [251] host [ZELTSR] user [g.schardt] process ID [14204]
+[2016.11.28 15:43:50] [0001m.55s.594ms] [1] SC[251]: UnRegistered sub-client [JobPrefsDBPI_1786523954] with ID [7] for session ID [251] host [ZELTSR] user [g.schardt] process ID [14204]
+[2016.11.28 16:47:02] [0065m.07s.504ms] [1] PrjBackupMgr: Successfully created Project Backup [N:\Mentor\MSH\Georg\KeCo Piezo\ProjectBackup\backups\2016-11-28 16.47.01 - auto.zip] with GUID [4e69-e7d4-585e-a3b0-5715-c38a-715c-3850-cdfe-5e1e-debe-e506]
+[2016.11.28 16:47:02] [0065m.07s.520ms] [0] PrjBackupMgr: Removing excessive backup:  BackupGUID[7bad-28ca-aeb8-8ff5-83a8-9a7d-3a89-a750-00de-5e1e-debe-e506] CreationTime[Tuesday, August 09, 2016 07:46:00] Type[Autosave] Creator[iCDB Server (2016-08-09 09.32.58-6860)] ApplicationName[iCDB Server (2016-08-09 09.32.58-6860)] UserName[g.schardt] MachineName[ZELTSR] Description[Autosave] FullFlowName[Xpedition Enterprise X-ENTP VX.1.1] FlowId[X-ENTP VX.1.1] GBSInstallId[43105] GBSBuildId[670831] IcdbVersion[2900] ReferenceLogFilePath[] BackupFilePath[N:\Mentor\MSH\Georg\KeCo Piezo\ProjectBackup\backups\2016-08-09 09.46.00 - auto.zip] BackupFileSize[846497] Persistent[FALSE]
+[2016.11.28 16:47:02] [0065m.07s.551ms] [0] PrjBackupMgr: Project Backup file [N:\Mentor\MSH\Georg\KeCo Piezo\ProjectBackup\backups\2016-08-09 09.46.00 - auto.zip] with GUID [7bad-28ca-aeb8-8ff5-83a8-9a7d-3a89-a750-00de-5e1e-debe-e506] removed
+[2016.11.28 16:47:02] [0065m.07s.566ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[4e69-e7d4-585e-a3b0-5715-c38a-715c-3850-cdfe-5e1e-debe-e506] CreationTime[Monday, November 28, 2016 15:47:01] Type[Autosave] Creator[iCDB Server (2016-11-28 15.41.55-16872)] ApplicationName[iCDB Server (2016-11-28 15.41.55-16872)] UserName[g.schardt] MachineName[ZELTSR] Description[Autosave] FullFlowName[Xpedition Enterprise X-ENTP VX.1.1] FlowId[X-ENTP VX.1.1] GBSInstallId[43105] GBSBuildId[670831] IcdbVersion[2900] ReferenceLogFilePath[] BackupFilePath[N:\Mentor\MSH\Georg\KeCo Piezo\ProjectBackup\backups\2016-11-28 16.47.01 - auto.zip] BackupFileSize[899436] Persistent[FALSE]

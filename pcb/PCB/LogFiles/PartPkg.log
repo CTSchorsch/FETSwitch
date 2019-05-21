@@ -1,0 +1,151 @@
+
+                                    Packager
+                                    --------
+
+                       02:25 PM Friday, December 02, 2016
+               Job Name: N:\Mentor\MSH\Georg\KeCo Piezo\Piezzo.prj
+
+
+     Packager     Version: 020806.00
+
+        Commandline is: "C:\MentorGraphics\EEVX.1.1\SDD_HOME\wg\win64\bin\package.exe  "-jN:\Mentor\MSH\Georg\KeCo Piezo\Piezzo.prj" -nPiezzo -Add -NoFill"
+
+     The Common Database is at "N:\Mentor\MSH\Georg\KeCo Piezo\database".
+
+     The Root of this design is "Schematic1".
+
+     The Front End Snapshot of this design is "DxD".
+
+     The PCB Design Path of this design is at "N:\Mentor\MSH\Georg\KeCo Piezo\PCB\Piezzo.pcb".
+
+     The Central Library is at "\\zelnts\mentor\CAD_Lib\CAD_Lib.lmc".
+
+     Unable to determine the Disable Repackage status.
+     !Repackaging will be allowed!
+
+     The PDBs listed in the project file will be searched to satisfy the parts
+      requirements of the iCDB only for parts not already found in the
+      Target PDB.
+
+     The AllowAlphaRefDes status indicates that reference
+      designators containing all alpha characters should be deleted
+      and the relevant symbols repackaged.
+
+     The cross mapping of symbol pin names to Part Number pin
+      numbers will be checked for packaged symbols and mapped correctly
+      for unpackaged symbols.
+
+     Properties that have been checked off in the Property Definition Editor
+      found at Library Manager/Common Properties will be checked for value
+      differences between the PartsDB and the non-null properties on symbols.
+     Those properties checked off (other than Part Number)
+      will not be transferred from the PartsDB to symbols.
+     The following properties were checked off in the Property Definition Editor:
+       "Pkg Group"
+       "Connector Mating Part"
+       "Connector Gender"
+       "EPFIXEDWIDTH"
+       "EPFIXEDLENGTH"
+       "Term"
+       "SIM_MODEL"
+       "SIM_MODEL_FILE"
+       "Array Component"
+       "ICX_PART_MODEL"
+       "Use Verilog"
+       "Order"
+       "Parametric"
+       "Value2"
+       "Tech"
+       "Rating"
+       "Pkg_Type"
+       "PowerDissipation"
+       "IBIS"
+       "Part Label"
+       "VHDL Model"
+       "Verilog Model"
+       "Tolerance"
+       "Part Number"
+       "Value"
+       "Part Name"
+
+	Checking for errors in the ICDB...
+
+	No errors found.  Proceeding with packaging...
+
+
+
+     Common Data Base has been read
+
+     Target PDB Name: Integration\LocalPartsDB.pdb
+
+     Number of Part Numbers: 14
+          Part Numb: BR-LOETBRUECKE -> Vend Part: BR-LOETBRUECKE 
+          Part Numb: C-100N-CAPC1608 -> Vend Part: C-100N-CAPC1608 
+          Part Numb: P-WRAP3x2 -> Vend Part: P-WRAP3x2 
+          Part Numb: P-WRAP6 -> Vend Part: P-WRAP6 
+          Part Numb: Q-BC848-SOT23 -> Vend Part: Q-BC848-SOT23 
+          Part Numb: Q-BSC050N003-LS-TSDSON-8 -> Vend Part: Q-BSC050N003-LS-TSDSON-8 
+          Part Numb: R-SMP-R050-1-2010 -> Vend Part: R-SMP-R050-1-2010 
+          Part Numb: R-0R00-RESC1608 -> Vend Part: R-0R00-RESC1608 
+          Part Numb: R-10K0-RESC1608 -> Vend Part: R-10K0-RESC1608 
+          Part Numb: R-33K2-RESC1608 -> Vend Part: R-33K2-RESC1608 
+          Part Numb: TP-SMD-6,0x4,0 -> Vend Part: TP-SMD-6,0x4,0 
+          Part Numb: U-ATTINY-SOIC14 -> Vend Part: U-ATTINY-SOIC14 
+          Part Numb: U-INA219AIDCNR-SOT23 -> Vend Part: U-INA219AIDCNR-SOT23 
+          Part Numb: U-TS78L05-SOT23 -> Vend Part: U-TS78L05-SOT23 
+
+     Number of Part Names: 0
+
+     Number of Part Labels: 0
+
+
+     Checking for value differences between non-null symbol properties and PartsDB properties,
+      but only for those properties checked off in the Property Definition Editor
+
+     Checking the validity of the packaging of prepackaged schematic
+      symbols.  Only the first error in symbols having the same
+      Reference Designator will be reported.
+
+     The packaging of all prepackaged schematic symbols is consistent
+      with the Parts DataBase data for the cross mapping of
+      symbol pin names to Part Number pin numbers.
+      Symbols that were not prepackaged will now be packaged correctly.
+      
+     No errors in Existing Schematic Packaging.
+
+     The Common DataBase has been read and will be packaged.
+     Clustering 30 Symbols:
+              30  *****************************
+     Clustering is Complete
+
+     Packager Assignments successfully completed
+
+
+
+     25 nets were found containing 86 pins
+     30 components were found
+
+     Parsed netlist - Augmenting..
+
+     Augmented - Adding phantom pins....
+
+     Numbering Nets....
+
+     Checking Pins....
+
+     Packaging has been successfully tested with no errors or warnings.
+
+     Updating the Common DataBase
+
+     A BAM WasIs List: Integration\CDBBackAnno.bam has been created.
+     There have been 2 reference designator changes.
+     The BAM file will list all of the from-to changes.
+
+The Common DataBase has been successfully updated.
+
+     Packager finished successfully.
+     !THE iCDB IS UP-TO-DATE!
+     
+     An unused pin and gate report has been written to Integration\UnusedPins.txt
+     An unused gate report for gates not in schematic has been written to Integration\UnusedGates.txt
+     An augmented pin report has been written to Integration\AugmentedPins.txt.
